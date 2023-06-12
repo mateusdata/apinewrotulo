@@ -16,7 +16,7 @@ var DB = mysql.createConnection({
 });
 
 app.get("/", (req, res) => {
-  let sql = `select * from AlimentosRotulos`;
+  let sql = `select * from ingredientes`;
   DB.query(sql, (err, result) => {
     if (err) throw err;
     console.log(result);
@@ -26,7 +26,7 @@ app.get("/", (req, res) => {
 
 app.get("/seach", (req, res) => {
   const { values } = req.query;
-  let sql = `SELECT NomeDoAlimento FROM AlimentosRotulos  WHERE NomeDoAlimento LIKE ?`;
+  let sql = `SELECT nome_pt FROM ingredientes  WHERE nome_pt LIKE ?`;
   console.log(values);
   DB.query(sql, [values + "%"], (err, result) => {
     if (err) throw err;
@@ -37,33 +37,76 @@ app.get("/seach", (req, res) => {
 
 app.get("/seachalimentos", (req, res) => {
   const { values } = req.query;
-  let sql = `SELECT * FROM AlimentosRotulos  WHERE NomeDoAlimento LIKE ?`;
+  let sql = `SELECT * FROM ingredientes  WHERE nome_pt = ?`;
   console.log(values);
-  DB.query(sql, [values + "%"], (err, result) => {
+  DB.query(sql, [values ], (err, result) => {
     if (err) throw err;
     console.log(result);
     res.send(result);
   });
 });
-
-app.put("/add", (req, res) => {
-  const { NomeDoAlimento, Rotulo, DataDeAdicao } = req.body;
-  console.log(NomeDoAlimento + Rotulo + DataDeAdicao);
-
-  let sql =
-    "INSERT INTO AlimentosRotulos (NomeDoAlimento, Rotulo , DataDeAdicao) VALUES(?,?,?)";
-  DB.query(sql, [NomeDoAlimento, Rotulo, DataDeAdicao], (err, result) => {
+app.get("/seachUser", (req, res) => {
+  const { cpf } = req.query;
+  console.log(cpf);
+  let sql = `SELECT nome FROM adm  WHERE cpf = ?`;
+  console.log(cpf);
+  DB.query(sql, [cpf], (err, result) => {
     if (err) throw err;
     console.log(result);
     res.send(result);
+  });
+});
+app.put("/add", (req, res) => {
+  let { 
+    namePt,
+    nameUs,
+    nameLatin,
+    mainFunction,
+    origin,
+    selectedValue,
+    DataDeAdicao,
+    nomeUser } = req.body;
+    console.log( namePt  +" " +
+    nameUs  +" " +
+    nameLatin  +" " +
+    mainFunction  +" " +
+    origin  +" " +
+    selectedValue  +" " +
+    DataDeAdicao+
+    nomeUser);
+    if(selectedValue==="Alimentícios"){
+      selectedValue=1
+    }
+    else if(selectedValue==="Corporais"){
+      selectedValue=2
+    }
+    else{
+      selectedValue=3
+    }
+    const numberId = parseInt(selectedValue)
+  let sql =
+    "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, adm_criador, data_criacao, categoria_id) VALUES(?,?,?,?,?,?,?,?)";
+  DB.query(sql, [
+    namePt,
+    nameUs,
+    nameLatin,
+    mainFunction,
+    origin,
+    nomeUser,
+    DataDeAdicao,
+    numberId,
+     ], (err, result) => {
+    if (err) throw err;
+    console.log(result);
+    res.send("Item cadastrado");
   });
 });
 app.put("/delete", (req, res) => {
-  let sql = "truncate table AlimentosRotulos";
+  let sql = "truncate table ingredientes";
   DB.query(sql, (err, result) => {
     if (err) throw err;
     console.log(result);
-    res.send("Tabela AlimentosRotulos deletada...");
+    res.send("Tabela ingredientes deletada...");
   });
 });
 app.post("/login", (req, res) => {
@@ -84,7 +127,7 @@ app.post("/login", (req, res) => {
   });
 });
 
-app.listen(3001, () => {
+app.listen(3002, () => {
   console.log("Servidor iniciado port 3001");
   let data = new Date();
   let hora = data.getHours() + ":" + data.getMinutes() + ":00";

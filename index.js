@@ -7,8 +7,8 @@ app.use(cors());
 
 var DB = mysql.createConnection({
   host: "aws.connect.psdb.cloud",
-  user: "guq4gm37b3opbtzwb5no",
-  password: "pscale_pw_R42hmuPPoVupa9ZNuaD56k3CxmcrvktHcIWk3mraem0",
+  user: "or3oby8mpd2nztwcq3x8",
+  password: "pscale_pw_qhR2lXgIOjwXAbn14nC9Mx3czEry7xDsT9MXMXQW4Tq",
   database: "meurotulo",
   ssl: {
     rejectUnauthorized: true,

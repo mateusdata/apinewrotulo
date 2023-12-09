@@ -7,13 +7,23 @@ app.use(cors());
 
 var DB = mysql.createConnection({
   host: "aws.connect.psdb.cloud",
-  user: "or3oby8mpd2nztwcq3x8",
-  password: "pscale_pw_qhR2lXgIOjwXAbn14nC9Mx3czEry7xDsT9MXMXQW4Tq",
+  user: "ck0jz1c9g3sprh0o1oos",
+  password: "pscale_pw_j6zp42hxMqislkfJybLddgxhysQhqiBkYQnf2rjQCu",
   database: "meurotulo",
   ssl: {
     rejectUnauthorized: true,
   },
 });
+
+/*
+
+database: meurotulo
+username: ck0jz1c9g3sprh0o1oos
+host: aws.connect.psdb.cloud
+password: pscale_pw_j6zp42hxMqislkfJybLddgxhysQhqiBkYQnf2rjQCu
+
+
+*/
 
 app.get("/", (req, res) => {
   let sql = `select * from ingredientes`;
@@ -127,7 +137,7 @@ app.post("/login", (req, res) => {
   });
 });
 
-app.listen(3002, () => {
+app.listen(3000, () => {
   console.log("Servidor iniciado port 3001");
   let data = new Date();
   let hora = data.getHours() + ":" + data.getMinutes() + ":00";

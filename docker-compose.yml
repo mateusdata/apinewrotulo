@@ -4,6 +4,7 @@ services:
     build: .
     container_name: my_nodejs_app
     restart: on-failure
+    command: sh -c "while ! nc -z db ${DB_PORT}; do sleep 1; done; npm run start"
     ports:
       - ${APP_PORT}:${APP_PORT}
     depends_on:
@@ -22,6 +23,11 @@ services:
       - mysql_data:/var/lib/mysql
     ports:
       - ${DB_PORT}:${DB_PORT}
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -u root -p${DB_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
     environment:
       MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
       MYSQL_DATABASE: ${DB_DATABASE}

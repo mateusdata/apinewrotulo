@@ -1,0 +1,31 @@
+version: "1.0"
+services:
+  app:
+    build: .
+    container_name: my_nodejs_app
+    restart: on-failure
+    ports:
+      - ${APP_PORT}:${APP_PORT}
+    depends_on:
+      - db
+    environment:
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_DATABASE: ${DB_DATABASE}
+      DB_USER: ${DB_USER}
+      DB_PORT: ${DB_PORT}
+
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    restart: always
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - ${DB_PORT}:${DB_PORT}
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_USER: ${DB_USER}
+
+volumes:
+  mysql_data:

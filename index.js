@@ -6,27 +6,15 @@ app.use(express.json());
 app.use(cors());
 
 var DB = mysql.createConnection({
-  host: "aws.connect.psdb.cloud",
-  user: "ck0jz1c9g3sprh0o1oos",
-  password: "pscale_pw_j6zp42hxMqislkfJybLddgxhysQhqiBkYQnf2rjQCu",
-  database: "meurotulo",
-  ssl: {
-    rejectUnauthorized: true,
-  },
+  host: 'mysql_db',
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_DATABASE,
+  port: process.env.DB_PORT,
 });
 
-/*
-
-database: meurotulo
-username: ck0jz1c9g3sprh0o1oos
-host: aws.connect.psdb.cloud
-password: pscale_pw_j6zp42hxMqislkfJybLddgxhysQhqiBkYQnf2rjQCu
-
-
-*/
-
 app.get("/", (req, res) => {
-  let sql = `select * from ingredientes`;
+  let sql = `select cur_date() `;
   DB.query(sql, (err, result) => {
     if (err) throw err;
     console.log(result);
@@ -34,6 +22,7 @@ app.get("/", (req, res) => {
   });
 });
 
+/*
 app.get("/seach", (req, res) => {
   const { values } = req.query;
   let sql = `SELECT nome_pt FROM ingredientes  WHERE nome_pt LIKE ?`;
@@ -136,10 +125,12 @@ app.post("/login", (req, res) => {
     }
   });
 });
+*/
+/*
+app.get('/', (req, res) =>{
+  res.send('Pai do Docker e do PHP')
+});*/
 
 app.listen(3000, () => {
-  console.log("Servidor iniciado port 3001");
-  let data = new Date();
-  let hora = data.getHours() + ":" + data.getMinutes() + ":00";
-  console.log(typeof hora);
+  console.log(`Server listening on port: 3000`);
 });

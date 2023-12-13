@@ -14,7 +14,7 @@ var DB = mysql.createConnection({
 });
 
 app.get("/", (req, res) => {
-  let sql = `select cur_date() `;
+  let sql = `select CURRENT_DATE() `;
   DB.query(sql, (err, result) => {
     if (err) throw err;
     console.log(result);

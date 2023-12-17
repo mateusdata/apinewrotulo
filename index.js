@@ -14,12 +14,14 @@ var DB = mysql.createConnection({
 });
 
 app.get("/", (req, res) => {
-  let sql = `select * from ingredientes`;
+  
+  let sql = `show tables`;
 
   DB.query(sql, (err, result) => {
     if (err) throw err;
     res.send(result);
   });
+
 });
 
 app.get("/seach", (req, res) => {

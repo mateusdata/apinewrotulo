@@ -22,6 +22,7 @@ services:
     restart: always
     volumes:
       - mysql_data:/var/lib/mysql
+      - ./sql-scripts:/docker-entrypoint-initdb.d
     ports:
       - ${DB_PORT}:${DB_PORT}
     healthcheck:

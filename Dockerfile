@@ -15,7 +15,7 @@ RUN npm install --silent
 # add app
 COPY . ./
 
-EXPOSE 3000
+EXPOSE ${BACKEND_PORT}
 
 # start app
 CMD ["npm", "run", "start"]

@@ -1,12 +1,12 @@
 version: "1.0"
-services:
-  app:
+services:      
+  backend:
     build: .
-    container_name: my_nodejs_app
+    container_name: backend_app
     restart: on-failure
     command: sh -c "while ! nc -z db ${DB_PORT}; do sleep 1; done; npm run start"
     ports:
-      - ${APP_PORT}:${APP_PORT}
+      - ${BACKEND_PORT}:${BACKEND_PORT}
     depends_on:
       - db
     environment:
@@ -14,6 +14,7 @@ services:
       DB_DATABASE: ${DB_DATABASE}
       DB_USER: ${DB_USER}
       DB_PORT: ${DB_PORT}
+      BACKEND_PORT: ${BACKEND_PORT}
 
   db:
     image: mysql:8.0

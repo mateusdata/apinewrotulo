@@ -13,6 +13,30 @@ var DB = mysql.createConnection({
   port: process.env.DB_PORT,
 });
 
+
+app.get("/create", (req, res) => {
+  const cpf = "11111111111";
+  const nome = "Mateus";
+  const senha = "123456";
+
+  let sql = `
+    INSERT INTO adm (cpf, nome, senha)
+    VALUES (?, ?, ?)
+  `;
+
+  const values = [cpf, nome, senha];
+
+  DB.query(sql, values, (err, result) => {
+    if (err) {
+      console.error(err);
+      return res.status(500).send("Erro ao criar usuário");
+    }
+
+    res.send("Usuário criado com sucesso!");
+  });
+});
+
+
 app.get("/", (req, res) => {
   
   let sql = `show tables`;
@@ -52,6 +76,7 @@ app.get("/seachUser", (req, res) => {
     res.send(result);
   });
 });
+
 
 app.put("/add", (req, res) => {
   let { 

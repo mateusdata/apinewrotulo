@@ -1,0 +1,39 @@
+version: "1.0"
+services:      
+  backend:
+    build: .
+    container_name: backend_app
+    restart: on-failure
+    command: sh -c "while ! nc -z db ${DB_PORT}; do sleep 1; done; npm run start"
+    ports:
+      - ${BACKEND_PORT}:${BACKEND_PORT}
+    depends_on:
+      - db
+    environment:
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_DATABASE: ${DB_DATABASE}
+      DB_USER: ${DB_USER}
+      DB_PORT: ${DB_PORT}
+      BACKEND_PORT: ${BACKEND_PORT}
+
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    restart: always
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - ${DB_PORT}:${DB_PORT}
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -u root -p${DB_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_USER: ${DB_USER}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+
+volumes:
+  mysql_data:

@@ -6,5 +6,5 @@ CREATE TABLE `adm` (
 	PRIMARY KEY (`id`)
 ) ENGINE InnoDB,
   CHARSET utf8mb4,
-  COLLATE utf8mb4_0900_ai_ci;
+  COLLATE utf8mb4_general_ci;
   

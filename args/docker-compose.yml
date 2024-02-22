@@ -43,7 +43,7 @@ services:
   frontend:
     image: mateusofdata/frontendrotulo
     ports:
-      - "${FRONTEND_PORT}:{NGINX_PORT}"
+      - "${FRONTEND_PORT}:${NGINX_PORT}"
     restart: always
     networks:
       - shared-network

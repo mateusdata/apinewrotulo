@@ -6,11 +6,11 @@ app.use(express.json());
 app.use(cors());
 
 var DB = mysql.createConnection({
-  host: "172.20.0.2",
-  user: "backend",
-  password: "67dayy$51%",
-  database: "meurotulo",
-  port: "3306",
+  host: 'mysql_db',
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_DATABASE,
+  port: process.env.DB_PORT,
 });
 
 
@@ -49,35 +49,6 @@ app.get("/", (req, res) => {
 
 });
 
-app.get("/show", (req, res) => {
-  let sql = `
-    SELECT
-      i.*,
-      CASE i.categoria_id
-        WHEN 1 THEN 'Alimentícios'
-        WHEN 2 THEN 'Corporais'
-        WHEN 3 THEN 'Saneantes'
-        ELSE 'Outro'
-      END AS categoria_nome
-    FROM ingredientes i;
-  `;
-  
-  DB.query(sql, (err, result) => {
-    if (err) throw err;
-    res.send(result);
-  });
-});
-
-app.delete("/delete/item/:id", (req, res) => {
-  const id = req.params.id;
-  let sql = `DELETE FROM ingredientes WHERE id = ?`;
-
-  DB.query(sql, id, (err, result) => {
-    if (err) throw err;
-    res.send(result);
-  });
-});
-
 app.get("/seach", (req, res) => {
   const { values } = req.query;
   let sql = `SELECT nome_pt FROM ingredientes  WHERE nome_pt LIKE ?`;
@@ -107,6 +78,7 @@ app.get("/seachUser", (req, res) => {
   });
 });
 
+
 app.put("/add", (req, res) => {
   let { 
     namePt,
@@ -114,41 +86,36 @@ app.put("/add", (req, res) => {
     nameLatin,
     mainFunction,
     origin,
-    category,
+    selectedValue,
     DataDeAdicao,
     nomeUser } = req.body;
-
-  let sqlSelect = "SELECT * FROM ingredientes WHERE nome_pt = ?";
-  DB.query(sqlSelect, [namePt], (err, result) => {
-    if (err) throw err;
-
-    const existingItem = result.find(item => item.categoria_id === category);
-    if (existingItem) {
-      // Se já existe um registro com o mesmo nomePt e categoria igual, retorne um erro
-      res.status(400).send({ error: "Item já cadastrado com este nome e categoria." });
-    } else {
-      // Caso contrário, insira o novo item no banco de dados
-      let sqlInsert =
-        "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, adm_criador, data_criacao, categoria_id) VALUES(?,?,?,?,?,?,?,?)";
-      DB.query(sqlInsert, [
-        namePt,
-        nameUs,
-        nameLatin,
-        mainFunction,
-        origin,
-        nomeUser,
-        DataDeAdicao,
-        category,
-      ], (err, result) => {
-        if (err) throw err;
-        res.send("Item cadastrado");
-      });
+    
+    if(selectedValue==="Alimentícios"){
+      selectedValue=1
     }
+    else if(selectedValue==="Corporais"){
+      selectedValue=2
+    }
+    else{
+      selectedValue=3
+    }
+    const numberId = parseInt(selectedValue)
+  let sql =
+    "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, adm_criador, data_criacao, categoria_id) VALUES(?,?,?,?,?,?,?,?)";
+  DB.query(sql, [
+    namePt,
+    nameUs,
+    nameLatin,
+    mainFunction,
+    origin,
+    nomeUser,
+    DataDeAdicao,
+    numberId,
+     ], (err, result) => {
+    if (err) throw err;
+    res.send("Item cadastrado");
   });
 });
-
-
-
 
 app.put("/delete", (req, res) => {
   let sql = "truncate table ingredientes";
@@ -176,6 +143,6 @@ app.post("/login", (req, res) => {
 });
 
 
-app.listen(3002, () => {
-  console.log(`Server listening on port: ${3002}`);
+app.listen(process.env.BACKEND_PORT, () => {
+  console.log(`Server listening on port: ${process.env.BACKEND_PORT}`);
 });

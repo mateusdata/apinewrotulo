@@ -6,13 +6,23 @@ app.use(express.json());
 app.use(cors());
 
 var DB = mysql.createConnection({
-  host: "172.20.0.2",
+  host: "172.18.0.2",
   user: "backend",
   password: "67dayy$51%",
   database: "meurotulo",
   port: "3306",
 });
 
+function testarConexao() {
+  DB.connect(function(err) {
+    if (err) {
+      console.error('Erro ao conectar ao banco de dados:', err);
+      return;
+    }
+    console.log('Conexão com o banco de dados estabelecida com sucesso!');
+    DB.end();
+  });
+}
 
 
 app.get("/create", (req, res) => {
@@ -178,4 +188,5 @@ app.post("/login", (req, res) => {
 
 app.listen(3002, () => {
   console.log(`Server listening on port: ${3002}`);
+  
 });

@@ -2,11 +2,12 @@
 const mysql = require("mysql2");
 
 var DB = mysql.createConnection({
-    host: "172.18.0.2",
-    user: "backend",
-    password: "67dayy$51%",
-    database: "meurotulo",
-    port: "3306",
-  });
-  
-module.exports  = DB;
+  host: 'mysql_db',
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_DATABASE,
+  port: process.env.DB_PORT,
+});
+
+
+module.exports = DB;

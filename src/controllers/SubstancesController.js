@@ -16,8 +16,6 @@ class SubstancesController {
         });
       }
 
-
-      
       getAlimentosLike(req, res) {
         const { values, categoria } = req.query;
         let sql = `SELECT nome_pt FROM ingredientes WHERE nome_pt LIKE ?`;
@@ -47,6 +45,7 @@ class SubstancesController {
 
 
     show(req, res) {
+        const {nome_pt} = req.params
         let sql = `
             SELECT 
                 i.*, 
@@ -62,6 +61,32 @@ class SubstancesController {
                 i.data_criacao DESC;`;
     
         DB.query(sql, (err, result) => {
+            if (err) throw err;
+            res.send(result);
+        });
+    }
+    
+
+    showSeach(req, res) {
+        const { nome_pt } = req.params;
+        console.log(nome_pt)
+        let sql = `
+            SELECT 
+                i.*, 
+                CASE i.categoria_id 
+                    WHEN 1 THEN 'Alimentícios' 
+                    WHEN 2 THEN 'Corporais' 
+                    WHEN 3 THEN 'Saneantes' 
+                    ELSE 'Outro' 
+                END AS categoria_nome 
+            FROM 
+                ingredientes i 
+            WHERE 
+                i.nome_pt LIKE ? 
+            ORDER BY 
+                i.data_criacao DESC;`;
+    
+        DB.query(sql, [`%${nome_pt}%`], (err, result) => {
             if (err) throw err;
             res.send(result);
         });

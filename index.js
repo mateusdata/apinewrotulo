@@ -22,6 +22,8 @@ app.get("/seach", SubstancesController.getAlimentosLike);
 app.get("/seachalimentos", SubstancesController.getAlimentos);
 app.put("/add", SubstancesController.create);
 app.put("/update/:id", SubstancesController.update);
+app.get("/seach-substance/:nome_pt", SubstancesController.showSeach);
+
 
 app.put("/delete", SubstancesController.truncate);
 

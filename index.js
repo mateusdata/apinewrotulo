@@ -28,7 +28,13 @@ app.get("/seach-substance/:nome_pt", SubstancesController.showSeach);
 app.put("/delete", SubstancesController.truncate);
 
 
+app.listen(process.env.BACKEND_PORT, () => {
+  console.log(`Server listening on port: ${process.env.BACKEND_PORT}`);
+});
+
+/*
 app.listen(3002, () => {
   console.log(`Server listening on port: ${3002}`);
-  
 });
+
+*/

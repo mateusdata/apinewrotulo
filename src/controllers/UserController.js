@@ -5,20 +5,23 @@ const DB = require("../../config/conection");
 class UserController {
 
     create(req, res) {
-        const cpf = "11111111111";
-        const nome = "Mateus";
-        const senha = "123456";
-        let sql = `INSERT INTO adm (cpf, nome, senha) VALUES (?, ?, ?)`;
+        const users = [
+            { nome: "Mateus", cpf: "11111111111", senha: "123456" },
+            { nome: "Rabelo", cpf: "33333333333", senha: "102030" },
+            { nome: "Emanuel", cpf: "44444444444", senha: "102030" }
+        ];
 
-        const values = [cpf, nome, senha];
+        let sql = `INSERT INTO adm (nome, cpf, senha) VALUES ?`;
 
-        DB.query(sql, values, (err, result) => {
+        const values = users.map(user => [user.nome, user.cpf, user.senha]);
+
+        DB.query(sql, [values], (err, result) => {
             if (err) {
                 console.error(err);
-                return res.status(500).send("Erro ao criar usuário");
+                return res.status(500).send("Erro ao criar usuários");
             }
 
-            res.send("Usuário criado com sucesso!");
+            res.send("Usuários criados com sucesso!");
         });
     }
 

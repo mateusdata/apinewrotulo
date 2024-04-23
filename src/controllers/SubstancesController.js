@@ -126,10 +126,105 @@ class SubstancesController {
     }
 
 
-    update(req, res){
-        console.log(req.body )
+    createAll(req, res) {
+        let substances = req.body;
+    
+        let values = substances.map(substance => [
+            substance.namePt,
+            substance.nameUs,
+            substance.nameLatin,
+            substance.mainFunction,
+            substance.origin,
+            substance.category,
+            new Date().toISOString().slice(0, 19).replace('T', ' '), // Data de criação
+            substance.nomeUser // Adm criador
+        ]);
+    
+        // Verifica a existência de cada substância no banco de dados
+        let sqlSelect = "SELECT nome_pt, categoria_id FROM ingredientes WHERE (nome_pt, categoria_id) IN (?)";
+        let selectValues = substances.map(substance => [substance.namePt, substance.category]);
+    
+        DB.query(sqlSelect, [selectValues], (err, result) => {
+            if (err) {
+                console.error(err);
+                res.status(500).send({ error: "Ocorreu um erro ao verificar as substâncias." });
+                return;
+            }
+    
+            let existingSubstances = result.map(row => ({ namePt: row.nome_pt, category: row.categoria_id }));
+            let duplicateItems = substances.filter(substance =>
+                existingSubstances.some(existing =>
+                    existing.namePt === substance.namePt && existing.category === substance.category
+                )
+            );
+    
+            // Filtra apenas as substâncias únicas
+            let uniqueSubstances = substances.filter(substance =>
+                !duplicateItems.some(duplicate =>
+                    duplicate.namePt === substance.namePt && duplicate.category === substance.category
+                )
+            );
+    
+            // Se não houver substâncias únicas para inserir, retorna mensagem informando
+            if (uniqueSubstances.length === 0) {
+                res.status(400).send({ error: "Todas as substâncias já estão cadastradas na mesma categoria." });
+                return;
+            }
+    
+            // Monta os valores para inserção das substâncias únicas
+            let uniqueValues = uniqueSubstances.map(substance => [
+                substance.namePt,
+                substance.nameUs,
+                substance.nameLatin,
+                substance.mainFunction,
+                substance.origin,
+                substance.category,
+                new Date().toISOString().slice(0, 19).replace('T', ' '), // Data de criação
+                substance.nomeUser // Adm criador
+            ]);
+    
+            // Monta a query de inserção múltipla apenas para as substâncias únicas
+            let sqlInsert =
+                "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, categoria_id, data_criacao, adm_criador) VALUES ?";
+    
+            DB.query(sqlInsert, [uniqueValues], (err, result) => {
+                if (err) {
+                    console.error(err);
+                    res.status(500).send({ error: "Ocorreu um erro ao criar as substâncias." });
+                    return;
+                }
+    
+                res.send("Substâncias criadas com sucesso");
+            });
+        });
     }
+    
+    
 
+    
+    update(req, res) {
+        let { namePt, nameUs, nameLatin, mainFunction, origin, category, DataDeAdicao } = req.body;
+        let id = req.params.id;
+    
+        let sqlUpdate = "UPDATE ingredientes SET nome_pt = ?, nome_us = ?, nome_latim = ?, funcao_principal = ?, origin = ?, data_criacao = ?, categoria_id = ? WHERE id = ?";
+        DB.query(sqlUpdate, [namePt, nameUs, nameLatin, mainFunction, origin, DataDeAdicao, category, id], (err, result) => {
+            if (err) {
+                console.error(err);
+                res.status(500).send({ error: "Ocorreu um erro ao atualizar o item." });
+                return;
+            }
+    
+            if (result.affectedRows === 0) {
+                res.status(404).send({ error: "Item não encontrado." });
+                return;
+            }
+    
+            res.send("Item atualizado");
+        });
+    }
+    
+    
+    
     truncate(req, res) {
         let sql = "truncate table ingredientes";
         DB.query(sql, (err, result) => {

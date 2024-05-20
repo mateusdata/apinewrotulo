@@ -18,6 +18,12 @@ class SubstancesController {
 
       getAlimentosLike(req, res) {
         const { values, categoria } = req.query;
+      
+        // Verificar se a string de pesquisa tem pelo menos 4 caracteres
+        if (values.trim().length < 4) {
+          return res.send([]); // Retorna um array vazio se a string de pesquisa não tiver pelo menos 4 caracteres
+        }
+      
         let sql = `SELECT nome_pt FROM ingredientes WHERE nome_pt LIKE ?`;
       
         if (categoria) {
@@ -29,6 +35,7 @@ class SubstancesController {
           res.send(result);
         });
       }
+      
       
 
 

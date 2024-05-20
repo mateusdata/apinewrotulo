@@ -86,7 +86,7 @@ class SubstancesController {
 
     showSeach(req, res) {
         const { nome_pt } = req.params;
-        console.log(nome_pt)
+        console.log(nome_pt);
         let sql = `
             SELECT 
                 i.*, 
@@ -99,15 +99,16 @@ class SubstancesController {
             FROM 
                 ingredientes i 
             WHERE 
-                i.nome_pt LIKE ? 
+                LOWER(i.nome_pt) LIKE LOWER(?) COLLATE utf8mb4_general_ci 
             ORDER BY 
                 i.data_criacao DESC;`;
     
-        DB.query(sql, [`%${nome_pt}%`], (err, result) => {
+        DB.query(sql, [`%${nome_pt.toLowerCase()}%`], (err, result) => {
             if (err) throw err;
             res.send(result);
         });
     }
+    
     
 
     create(req, res) {

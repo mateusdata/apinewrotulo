@@ -19,23 +19,32 @@ class SubstancesController {
       getAlimentosLike(req, res) {
         const { values, categoria } = req.query;
       
-        // Verificar se a string de pesquisa tem pelo menos 4 caracteres
-        if (values.trim().length < 4) {
-          return res.send([]); // Retorna um array vazio se a string de pesquisa não tiver pelo menos 4 caracteres
+        // Verificar se a string de pesquisa tem pelo menos 3 caracteres
+        if (values.trim().length < 3) {
+            return res.send([]); // Retorna um array vazio se a string de pesquisa não tiver pelo menos 3 caracteres
         }
-      
-        let sql = `SELECT nome_pt FROM ingredientes WHERE nome_pt LIKE ?`;
+    
+        // Convertendo a string de pesquisa para minúsculas
+        const searchValue = values.trim().toLowerCase();
+    
+        // Usando utf8mb4 e utf8mb4_general_ci para garantir que a comparação seja insensível a acentos e maiúsculas
+        let sql = `
+            SELECT nome_pt 
+            FROM ingredientes 
+            WHERE LOWER(nome_pt) LIKE ? COLLATE utf8mb4_general_ci
+        `;
       
         if (categoria) {
-          sql += ` AND categoria_id = ?`;
+            sql += ` AND categoria_id = ?`;
         }
-      
-        DB.query(sql, categoria ? [values + "%", categoria] : [values + "%"], (err, result) => {
-          if (err) throw err;
-          res.send(result);
+    
+        // Usando a string de pesquisa convertida para minúsculas
+        DB.query(sql, categoria ? [searchValue + "%", categoria] : [searchValue + "%"], (err, result) => {
+            if (err) throw err;
+            res.send(result);
         });
-      }
-      
+    }
+    
       
 
 

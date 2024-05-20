@@ -1,0 +1,3825 @@
+[
+    {
+        "nameUs": "1-hexadecanol",
+        "category": 2,
+        "nameLatin": "Cetyl alcohol",
+        "namePt": "álcool cetílico",
+        "origin": "Natural, a partir dos óleos vegetais de coco ou de palmiste.",
+        "mainFunction": "emulsionantes, utilizado para formar bases auto emulsionantes de grande capacidade e poder, sendo muito vendido para a indústria cosmética e farmacêutica.",
+        "ref ": "[A2][E][204]"
+    },
+    {
+        "nameUs": "1,25-dihydroxycholecalciferol",
+        "category": 2,
+        "nameLatin": "Calcitriol (Vitamin D)",
+        "namePt": "Calcitriol (Vitamina D)",
+        "origin": "Natural, produzido pelos rions a partir do hidroxicolecalciferol.",
+        "mainFunction": "Estimula o transporte intertinal de cálcio e ajuda a tornar os ossos mais duros e resistentes.",
+        "ref ": "[303]"
+    },
+    {
+        "nameUs": "1,3-dichloro-5,5-dimethylhydantoin",
+        "category": 2,
+        "nameLatin": "Pyrogallol",
+        "namePt": "Pirogalol",
+        "origin": "Natural, encontrado da noz da galha. ",
+        "mainFunction": "Utilizado para tingir e alisar o cabelo. ",
+        "ref ": "[289] [290]"
+    },
+    {
+        "nameUs": "1,3-dioxolan-2-one",
+        "category": 2,
+        "nameLatin": "Benzyl acetate",
+        "namePt": "Acetato de benzila",
+        "origin": "Natural e sintético, encontrado nas flores e pode ser produzido artificialmente.",
+        "mainFunction": "Utilizado na produção de perfumes, pois possui um aroma doce. ",
+        "ref ": "[291] [292]"
+    },
+    {
+        "nameUs": "1,3-Propanediol",
+        "category": 2,
+        "nameLatin": "Methylpropanediol",
+        "namePt": "Metilpropanodiol",
+        "origin": "Artificial a partir de compostos petroquímicos.",
+        "mainFunction": "Solvente, utilizado em cosméticos e produtos de cuidado pessoal para dissolver outros ingredientes.",
+        "ref ": "[A2] [E] [249]"
+    },
+    {
+        "nameUs": "1,4-Dimethyl-7-isopropylazulene",
+        "category": 2,
+        "nameLatin": "Dimethyl isosorbide",
+        "namePt": "Dimetil isosorbida",
+        "origin": "Artificial, a partir da reação do isosorbida com metanol ou dimetilcarbonato.",
+        "mainFunction": "solubilizante, usado para a melhorar a penetração de ingredientes ativos na pele e cabelos.",
+        "ref ": "[237][A2][E]"
+    },
+    {
+        "nameUs": "10-Undecenoic acid",
+        "category": 2,
+        "nameLatin": "Undecylenic acid",
+        "namePt": "Ácido undecilênico",
+        "origin": "Natural, a partir do óleo de mamona (Ricinus communis).",
+        "mainFunction": "antibacteriano, usado em produtos para cuidados com a pele, cabelos e unhas, como um agente de proteção contra fungos e bactérias.",
+        "ref ": "[248][A2][E]"
+    },
+    {
+        "nameUs": "2- Ethylhexyl Octadecanoate",
+        "category": 2,
+        "nameLatin": "octyl stearate",
+        "namePt": "Estearato de Octila",
+        "origin": "Artificial, a partir da esterificação enzimática do óleo fúsel com ácidos graxos de cadeia longa saturado e insaturado. ",
+        "mainFunction": "Emoliente, usado por possuir uma alta compatibilidade com a nossa pele e melhora o brilho e a penteabilidade. ",
+        "ref ": "[A2][E]226]"
+    },
+    {
+        "nameUs": "2-(Decyloxy)ethanol",
+        "category": 2,
+        "nameLatin": "N-Propanol",
+        "namePt": "N-Propanol",
+        "origin": "Natural, formado em pequenas quantidades durante muitos processos de fermentação.",
+        "mainFunction": "Utilizado como solvente na indústria farmacêutica, principalmente para resinas e ésteres de celulose.",
+        "ref ": "[273]"
+    },
+    {
+        "nameUs": "2-hydroxy-2-phenylacetic acid",
+        "category": 2,
+        "nameLatin": "Mandelic Acid",
+        "namePt": "Ácido Mandélico",
+        "origin": "Artificial, a partir da produção de polímeros plásticos, como poliestireno, resinas , borracha sintética e produtos de fibra de vidro.",
+        "mainFunction": "Emoliente, usado no no combate a rugas e linhas de expressão, que age como peeling químico com esfoliação leve. Possui ação hidratante, clareadora, antibacteriana e fungicida e seu uso é indicado para peles sensíveis e acneica",
+        "ref ": "[A2][E][217] "
+    },
+    {
+        "nameUs": "2-hydroxymethyl-5-hydroxy-γ-pyrone",
+        "category": 2,
+        "nameLatin": "Kojic acid",
+        "namePt": "ácido Kójico",
+        "origin": "Natural, a partir da fermentação do arroz, soja, saquê e outros alimentos.",
+        "mainFunction": "Ativo, usado como antisséptico natural com ação antimicrobiana que combate fungos e bactérias, protegendo a pele contra agentes externos e contribuindo para a diminuição e prevenção da acne.",
+        "ref ": "[A1][E][N][211]"
+    },
+    {
+        "nameUs": "2-O-alpha-D-Glucopyranosyl-L-ascorbic acid; AA-2G",
+        "category": 2,
+        "nameLatin": "Ascorbyl Glucoside Acid",
+        "namePt": "Ácido Ascórbico Glicosado",
+        "origin": "Artificial, a partir da vitamina C pura estabilizada com glicose que possui efeito prolongado.",
+        "mainFunction": " Antioxidante, utilizado no combate ao fotoenvelhecimento, ou seja, atua contra o aparecimento de rugas e linhas de expressão provenientes da exposição aos raios solares.",
+        "ref ": "[A1][E][212]"
+    },
+    {
+        "nameUs": "2-phenylpropan-2-ol",
+        "category": 2,
+        "nameLatin": "Phenylpropanol",
+        "namePt": "Fenilpropanol",
+        "origin": "Natural, encontrado em botões de flores e frutas.",
+        "mainFunction": "Utilizado em shampoos, condicionadores, sabonetes líquidos, géis de banho e produtos cosméticos no geral.",
+        "ref ": "[287]"
+    },
+    {
+        "nameUs": "2-Propenoic acid",
+        "category": 2,
+        "nameLatin": "Methyl methacrylate crosspolymer",
+        "namePt": "Crospolímero Metacrilato Metil",
+        "origin": "Artificial, a partir da acetona cianidrina com ácido sulfurico e o álcool metanol em temperatruras de 90°C e 100°C",
+        "mainFunction": "Formador de filme, destinado a produzir, mediante requerimento, um filme contínuo sobre a pele, cabelo e unhas",
+        "ref ": "[A2] [E] [176] [177]"
+    },
+    {
+        "nameUs": "2,3-Dihydroxybutanedioic acid",
+        "category": 2,
+        "nameLatin": "Tartaric acid",
+        "namePt": "Ácido tartárico",
+        "origin": "Artificial, a partir da hidrólise de produtos naturais, como uvas e tâmaras, seguida de purificação e cristalização.",
+        "mainFunction": " quelante, utilizado para estabilizar as formulações de cosméticos e também é usado como acidificante em produtos para cuidados com a pele e cabelos.",
+        "ref ": "[236][A2][E]"
+    },
+    {
+        "nameUs": "3,7-dimethyl-1,6-octadien-3-ol",
+        "category": 2,
+        "nameLatin": "Fuming nitric acid",
+        "namePt": "Ácido nítrico fumegante",
+        "origin": "Sintético, produzido pela da oxidação da amônia em gases de platina. ",
+        "mainFunction": "Utilizado pela dermatologia e ginecologia. A principal indicação terapêutica é a das verrugas vulgares.",
+        "ref ": "[274] [275]"
+    },
+    {
+        "nameUs": "4,5-dihydroxynaphthalene-2,7-disulfonic acid",
+        "category": 2,
+        "nameLatin": "Triclocarban",
+        "namePt": "Triclocarban",
+        "origin": "Sintético, produzido artificialmente. ",
+        "mainFunction": "Utilizado como agente antimicrobiano em produtos de higiene pessoal, como sabonetes, xampus e desodorantes.",
+        "ref ": "[293] [294]"
+    },
+    {
+        "nameUs": "Acetil Hexapeptídeo-8",
+        "category": 2,
+        "nameLatin": "Acetyl Hexapeptide-8",
+        "namePt": " Argireline",
+        "origin": "Sintético, produzido em laboratório por meio da modificação de aminoácidos.",
+        "mainFunction": "Peptídeo, utilizado para reduzir a aparência de rugas e linhas de expressão.",
+        "ref ": "[279] [A2][G1]"
+    },
+    {
+        "nameUs": "Acetone",
+        "category": 2,
+        "nameLatin": "Propanone",
+        "namePt": "Acetona",
+        "origin": "Natural e sintético, encontrado naturalmente em gases vulcãnicos, incêndios florestais, como produto de metabolismo de plantas e animais ou produzida artificialmente pela oxidação do álcool isopropanol.",
+        "mainFunction": "Utilizado como solvente em esmaltes, e é um ativo ideal para acelarar o processo de renovação celular da pele, também elimina impurezas, controla a oleosidade e pode causar lesões na pele.",
+        "ref ": "[436] [437] [438]"
+    },
+    {
+        "nameUs": "Acetylcholine",
+        "category": 2,
+        "nameLatin": "Acetylcholine",
+        "namePt": "Acetilcolina",
+        "origin": "Natural e sintético, produzido pelo corpo humano e encontrado em alimentos como ovos, leite e leveduras.",
+        "mainFunction": "Ajuda na comunicação entre as células do cérebro, na contração muscular, na capacidade de memorização e de atenção.",
+        "ref ": "[370]"
+    },
+    {
+        "nameUs": "Acetylcholinesterase",
+        "category": 2,
+        "nameLatin": "Acetylcholinesterase",
+        "namePt": "Acetilcolinesterase",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Enzima que ajuda na propagação do impulso nervoso.",
+        "ref ": "[352]"
+    },
+    {
+        "nameUs": "AChE",
+        "category": 2,
+        "nameLatin": "Arachidonic acid",
+        "namePt": "Ácido araquidônico",
+        "origin": "Natural, produzido pelo corpo humano a partir do ácido linoleico e encontrado em nozes e sementes.",
+        "mainFunction": "É importante para a construção muscular e ajuda a gerenciar a termogenese e a gordura corporal.",
+        "ref ": "[472]"
+    },
+    {
+        "nameUs": "Ácido hialurônico",
+        "category": 2,
+        "nameLatin": "Hyaluronic Acid",
+        "namePt": "Hyaluronan",
+        "origin": "Natural e sintética. Também conhecido como ácido hialurônico, pode ser extraído de fontes naturais, como tecidos animais ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Ácido hialurônico, utilizado para hidratar intensamente a pele e preencher rugas e linhas finas.",
+        "ref ": "[297][E][F]"
+    },
+    {
+        "nameUs": "Ácido Poliglutâmico",
+        "category": 2,
+        "nameLatin": "Polyglutamic Acid",
+        "namePt": "Polyglutamic",
+        "origin": "Sintético, produzido em laboratório por meio da polimerização do ácido glutâmico.",
+        "mainFunction": "Polímero, utilizado para aumentar a hidratação da pele e melhorar a capacidade de retenção de água.",
+        "ref ": "[288][A2][G1]"
+    },
+    {
+        "nameUs": "Acidum lacticum",
+        "category": 2,
+        "nameLatin": "Lactic acid",
+        "namePt": "Ácido lático",
+        "origin": "Natural e sintético, pode ser produzido, extraído do leite ou da fermentação de amido de milho. ",
+        "mainFunction": "Utilizado como agente microbiano, hidratante, rejuvenescedor, clareador e agente tampão, destinado a estabilizar o pH dos produtos cosméticos.",
+        "ref ": "[A2] [E] [280] [281] [282]"
+    },
+    {
+        "nameUs": "Acidum salicylicum",
+        "category": 2,
+        "nameLatin": "Salicylic acid",
+        "namePt": "Ácido salicílico",
+        "origin": "Natural e artificial,  produzido a partir do composto fenilalanina, e pode ser encontrado na cascas de salgueiros.",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso. Também é utilizado em produtos dermatológicos devido às suas propriedades esfoliantes e anti-inflamatórias.",
+        "ref ": "[A2] [E] [192] [276] [277]"
+    },
+    {
+        "nameUs": "Carbopol",
+        "category": 2,
+        "nameLatin": "Acrylates\/C10-30 Alkyl Acrylate Crosspolymer",
+        "namePt": "Carbopol ",
+        "origin": "Artificial, a partir da repetição das estruturas químicas do ácido acrílico ( composto obtido a partir do petróleo)",
+        "mainFunction": "Estabilizador de emulsão, destinado a ajudar no processo de emulsificação e na estabilidade dela, além de ter ação sobre o prazo de validade",
+        "ref ": "[A2] [E] [158] [159]"
+    },
+    {
+        "nameUs": "Adenosina",
+        "category": 2,
+        "nameLatin": "Adenosine",
+        "namePt": "Adenine",
+        "origin": "Natural e sintética. Pode ser obtida a partir de fontes naturais, como o DNA de células, ou produzida sinteticamente em laboratório.",
+        "mainFunction": "Agente condicionante, usado para auxiliar na hidratação e suavidade da pele.",
+        "ref ": "[281] [A2][E][G1]"
+    },
+    {
+        "nameUs": "Adenosine 5'-triphosphate",
+        "category": 2,
+        "nameLatin": "ATP (Adenosine Triphosphate)",
+        "namePt": "ATP (Adenosina Trifosfato)",
+        "origin": "Natural, encontrada em todos os seres vivos.",
+        "mainFunction": "Armazenar energia química para as atividades vitais básicas da célula.",
+        "ref ": "[402]"
+    },
+    {
+        "nameUs": "Adenosine monophosphate",
+        "category": 2,
+        "nameLatin": "AMP",
+        "namePt": "Adenosina monofosfato",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Participa de diversos processos biológicos, como a reprodução celular, transcrição gênica, transmissão neuronal e contração muscular.",
+        "ref ": "[479]"
+    },
+    {
+        "nameUs": "Adiponectina",
+        "category": 2,
+        "nameLatin": "Adiponectin",
+        "namePt": "Adipocyte complement-related protein of 30 kDa",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Proteína adiponectina, usada para melhorar a aparência da pele, reduzindo a gordura subcutânea.",
+        "ref ": "[310][A2]"
+    },
+    {
+        "nameUs": "Adrenocorticotropic hormone",
+        "category": 2,
+        "nameLatin": "Corticotropin (ACTH)",
+        "namePt": "Corticotropina (ACTH)",
+        "origin": "Natural, produzido pelo corpo humano pela hipófise.",
+        "mainFunction": "Hormônio que estimula a produção de hormônios esteroides pelas glândulas suprarrenais e pituitária, como cortisol, aldosterona e andrôgenos.",
+        "ref ": "[476]"
+    },
+    {
+        "nameUs": "Água de Arroz Fermentada",
+        "category": 2,
+        "nameLatin": "Fermented Rice Water",
+        "namePt": "Rice wine",
+        "origin": "Natural, produzido a partir da fermentação do arroz.",
+        "mainFunction": "Ingrediente fermentado, usado para iluminar e suavizar a pele.",
+        "ref ": "[293][A2][F][G1]"
+    },
+    {
+        "nameUs": "Alanine",
+        "category": 2,
+        "nameLatin": "Alanine",
+        "namePt": "Alanina",
+        "origin": "Natural, é produzida pelo corpo humano em pouca quantidade e encontrada em carnes e aves.",
+        "mainFunction": "Aminoácido que ajuda a reduzir a fadiga muscular.",
+        "ref ": "[326] [327]"
+    },
+    {
+        "nameUs": "Alantoína",
+        "category": 2,
+        "nameLatin": "Allantoin",
+        "namePt": "Glyoxylic acid",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Ingrediente, utilizado em tratamentos capilares para reduzir o frizz e alisar os cabelos.",
+        "ref ": "[291][E][F]"
+    },
+    {
+        "nameUs": "AlCl3H12O6 ",
+        "category": 2,
+        "nameLatin": "hydrated aluminum chloride",
+        "namePt": "Cloreto de alumínio hidratado",
+        "origin": "Artificial, a partir dadissolução de alumínio em ácido clorídrico.",
+        "mainFunction": "Composto, utilizado nos antitranspirantes por serem compostos responsáveis pela inibição do suor excessivo.",
+        "ref ": "[A2][E][205][209]"
+    },
+    {
+        "nameUs": "Alfa-Arbutin",
+        "category": 2,
+        "nameLatin": "Alpha-Arbutin",
+        "namePt": "4-Hydroxyphenyl-β-D-glucopyranoside",
+        "origin": "Sintético, produzido em laboratório por meio da modificação química do hidroxifenil.",
+        "mainFunction": "Agente antioxidante e hidratante, utilizado para melhorar a aparência da pele e reduzir os sinais de envelhecimento.",
+        "ref ": "[304][A2][G1]"
+    },
+    {
+        "nameUs": "Alginate",
+        "category": 2,
+        "nameLatin": "Algin",
+        "namePt": "Alginato",
+        "origin": "Artifiial, a partir do cultivo de algas marinhas marrons, mas várias bactérias do gênero Pseudomonas e Azotobacter produzem.",
+        "mainFunction": "Emoliente, usado para feridas que apresentem perda parcial de tecido ou algumas lesões cavitárias e profundas.",
+        "ref ": "[A2][E][224]"
+    },
+    {
+        "nameUs": "Alpha-linolenic acid ",
+        "category": 2,
+        "nameLatin": "ALA",
+        "namePt": "Ácido alfa-linolênico (ALA)",
+        "origin": "Natural, encontrado em alimentos como soja, óleo de canola, nozes e linhaça.",
+        "mainFunction": "Ácido graxo de ômega-3 que participa da prevenção de muitas doenças, como mudanças morfológicas e fisiológicas no sistema cardiovascular e na regulação da pressão arterial.",
+        "ref ": "[506] [507]"
+    },
+    {
+        "nameUs": "alpha-Pinene\/ beta-Pinene ",
+        "category": 2,
+        "nameLatin": "Pineno",
+        "namePt": "Pinene",
+        "origin": "Artificial, a partir de processos de extração e isolamento do composto encontrado em árvores florestais,laranjas,alecrim, endro e salsa",
+        "mainFunction": "Perfume, usada para perfumes e matérias-primas aromáticas",
+        "ref ": "[F] [E] [128] [129]"
+    },
+    {
+        "nameUs": "Aluminium hydrate",
+        "category": 2,
+        "nameLatin": "Aluminum hydroxide",
+        "namePt": "Hidróxido de alumínio",
+        "origin": "Natural e sintético, encontrado na natureza nos minerais gibbsite, bayerita, nordstrandita e doleyta, também pode ser produzida em laboratório rela reação da solução de sal de alumínio com uma solução de amônia ou uma solução de hidróxido de sódio.",
+        "mainFunction": "Indicado, como participante, no tratamento de azia e hiperacidez estomacal, reduzindo o excesso de ácido gástrico que é produzido pelo estômago. Também é utilizado como agente espessante e estabilizante na produção de cosméticos.",
+        "ref ": "[429] [430] [431]"
+    },
+    {
+        "nameUs": "Aluminum chlorohydrate",
+        "category": 2,
+        "nameLatin": "Aluminum chlorohydrate",
+        "namePt": "Hidrato de cloro-alumínio",
+        "origin": "Artificial, a partir da reação do alumínio metálico com gás cloro ou cloreto de hidrogênio e água",
+        "mainFunction": "Antipespirante, destinado a reduzir a transpiração",
+        "ref ": "[A2] [E] [82]"
+    },
+    {
+        "nameUs": "Aluminum trisulfate",
+        "category": 2,
+        "nameLatin": "Ethyl acetate",
+        "namePt": "Acetato de etila",
+        "origin": "Sintético, produzido a partir do etanol.",
+        "mainFunction": "Utilizado na produção de perfumes, colônias, sabonetes e outros produtos de cuidados pessoais.",
+        "ref ": "[285] [286]"
+    },
+    {
+        "nameUs": "Ammonium AMPS",
+        "category": 2,
+        "nameLatin": "Ammonium acryloyldimethyltaurate\/ VP copolymer",
+        "namePt": "Copolímero de VP\/acriloildimetiltaurato de amônio",
+        "origin": "Artificial, a partir do composto N-vinil-2-pirrolidona que passa por repetições da sua estrutura na água ou no álcool isopropílico",
+        "mainFunction": "Regulador de viscosidade, destinado a aumentar ou diminuir a viscosidade dos cosméticos",
+        "ref ": "[F] [E] [N] [78] [151]"
+    },
+    {
+        "nameUs": "Amphoteric L",
+        "category": 2,
+        "nameLatin": "Cocamidopropyl betaine",
+        "namePt": "Cocoamidopropil betaína",
+        "origin": "Artificial, a partir da reação de babaçu ou óleo de coco com a dimetilpropilamina",
+        "mainFunction": "Impulsionador de espuma, destinado a melhorar a qualidade da espuma produzida por um sistema através do aumento de um ou mais das propriedades de textura, volume, e \/ ou estabilidade",
+        "ref ": "[A2] [E] [29]"
+    },
+    {
+        "nameUs": "Amylase",
+        "category": 2,
+        "nameLatin": "Amylase",
+        "namePt": "Amilase",
+        "origin": "Natural, produzida pelo pâncreas e glândulas salivares no corpo humano.",
+        "mainFunction": "Enzima que ajuda na digestão alimentar.",
+        "ref ": "[353]"
+    },
+    {
+        "nameUs": "Amylopectin",
+        "category": 2,
+        "nameLatin": "Waxy starch",
+        "namePt": "Amilopectina",
+        "origin": "Natural, encontrada em vegetais.",
+        "mainFunction": "Utilizada em produtos cosméticos para melhorar a textura dos produtos.",
+        "ref ": "[480] [481]"
+    },
+    {
+        "nameUs": "Androgen",
+        "category": 2,
+        "nameLatin": "Testosterone",
+        "namePt": "Testosterona",
+        "origin": "Natural e sintético, produzida pelo corpo humano ou produzida em laboratórios artificialmente. ",
+        "mainFunction": "Hormônio sexual que tem como função o desenvolvimento do pênis e dos testículos, aumento do libído e aparecimentos de pelos, produzido por homens e mulheres, mas em mulheres é em um baixo nível.",
+        "ref ": "[308] [309]"
+    },
+    {
+        "nameUs": "Animal starch",
+        "category": 2,
+        "nameLatin": "Glycogen",
+        "namePt": "Glicogênio",
+        "origin": "Natural, produzido pelo corpo humano e por animais.",
+        "mainFunction": "Tem como função manter os níveis de glicose no sangue.",
+        "ref ": "[400] [401]"
+    },
+    {
+        "nameUs": "Anisyl Alcohol",
+        "category": 2,
+        "nameLatin": "Anise alcohol",
+        "namePt": "Álcool anisílico",
+        "origin": "Artificial, a partir da adição de hidrogênio ao composto p-metoxibenzafdeído, além disso, é um álcool encontrado naturalmente em vagens de baunilha e nas sementes de anis",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[A2] [E] [110] [111]"
+    },
+    {
+        "nameUs": "Antibodies",
+        "category": 2,
+        "nameLatin": "Immunoglobulins",
+        "namePt": "Imunoglobulinas",
+        "origin": "Natural, produzidas pelo corpo humano e por animais.",
+        "mainFunction": "Proteínas responsáveis por avisar ao organismo quando existe algum agente causador de doenças (como vírus e bactérias) no corpo. ",
+        "ref ": "[412] [413]"
+    },
+    {
+        "nameUs": "Antidiuretic hormone (ADH)",
+        "category": 2,
+        "nameLatin": "Vasopressin",
+        "namePt": "Hidroxiacetofenona",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Tem como função fazer com que os rins consrvem a água no corpo, concentrando e reduzindo o volume da urina.",
+        "ref ": "[316]"
+    },
+    {
+        "nameUs": "Arbutin",
+        "category": 2,
+        "nameLatin": "Arbutin",
+        "namePt": "Hydroquinone β-D-glucopyranoside",
+        "origin": "Sintético, produzido em laboratório por meio da modificação química do hidroquinona.",
+        "mainFunction": "Derivado da hidroquinona, usado para clarear a pele e reduzir a hiperpigmentação.",
+        "ref ": "[303][A2][F]"
+    },
+    {
+        "nameUs": "Arginine",
+        "category": 2,
+        "nameLatin": " 2-Amino-5-guanidinopentanoic acid",
+        "namePt": "Arginina",
+        "origin": "Natural, a partir do processo de produção do organismo humano ou através alimentos ricos em proteinas. ",
+        "mainFunction": "Aminoácido, utilizado no processo de cicatrização e regeneração de tecidos do corpo humano. ",
+        "ref ": "[A2][E][216]"
+    },
+    {
+        "nameUs": "Arginine",
+        "category": 2,
+        "nameLatin": "Arginine",
+        "namePt": "Arginina",
+        "origin": "Natural e sintética, produzida pelo corpo humano, encontrada em alimentos ou produzida artificialmente pela fermentação direta a partir de fontes naturais de carbono, como o amido presente na tapioca e no milho, e amônia como fonte de nitrogênio.",
+        "mainFunction": "Facilita o funcionamento dos músculos e aumenta a resistência durante esforços intensos, combatendo a sensação de fadiga. ",
+        "ref ": "[343] [344]"
+    },
+    {
+        "nameUs": "Argireline",
+        "category": 2,
+        "nameLatin": "Argireline ",
+        "namePt": "Acetyl hexapeptide-3",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Argireline, é um peptídeo utilizado para reduzir a aparência de rugas e linhas de expressão.",
+        "ref ": "[309][A2][G1]"
+    },
+    {
+        "nameUs": "Armadilha giratória",
+        "category": 2,
+        "nameLatin": "Spin Trap",
+        "namePt": "Spin Trap: Phenyl-N-tert-butylnitrone",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Agente antioxidante, utilizado para ajudar a neutralizar os radicais livres e proteger a pele contra danos oxidativos.",
+        "ref ": "[329][A2][G1]"
+    },
+    {
+        "nameUs": "Artemisia",
+        "category": 2,
+        "nameLatin": "Artemisia",
+        "namePt": "Artemísia ",
+        "origin": "Natural, a partir da extração das flores de artemísias junto da secagem. ",
+        "mainFunction": "Emulsificante, usado por possuir componentes voláteis, os óleos essenciais, e não voláteis, sendo aplicado em sabonetes.",
+        "ref ": "[A2][E][229]"
+    },
+    {
+        "nameUs": "Ascabin",
+        "category": 2,
+        "nameLatin": "Benzyl benzoate",
+        "namePt": "Benzoato de benzila",
+        "origin": "Artificial, a partir da reação do cloreto de benzila com o benzoato de sódio",
+        "mainFunction": "Solvente, destinado a dissolver outras substâncias",
+        "ref ": "[A2] [E] [86]"
+    },
+    {
+        "nameUs": "ASO",
+        "category": 2,
+        "nameLatin": "Aluminum starch octenylsuccinate",
+        "namePt": "Octenilsuccinato de amido de alumínio",
+        "origin": "Artifcial, a partir do amido e do anidrido octenil succínico",
+        "mainFunction": "Absorvente, destinado a fazer a separação de substâncias dissolvidas em água ou em gorduras ou finamente divididas",
+        "ref ": "[A2] [E] [178]"
+    },
+    {
+        "nameUs": "Aspartic acid",
+        "category": 2,
+        "nameLatin": "Asparagine",
+        "namePt": "Asparagina",
+        "origin": "Natural, enontrada em alimentos como leite, soro, ovos, carne, aves, frutos do mar, etc.",
+        "mainFunction": "Ajuda no desenvolvimento e saúde dos neurônios, transmissão de inforações do sistema nervoso, resistência física do corpo à fadiga e é tem grande importância na produção de proteínas pelo corpo humano. ",
+        "ref ": "[318] [319]"
+    },
+    {
+        "nameUs": "Astaxantina",
+        "category": 2,
+        "nameLatin": "Astaxanthin",
+        "namePt": "3,3'-Dihydroxy-β,β-carotene-4,4'-dione",
+        "origin": "Natural e sintética. Pode ser obtido a partir de fontes naturais, como plantas e algas, ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Carotenoide, antioxidante utilizado para proteger a pele dos danos causados pelos radicais livres.",
+        "ref ": "[311][E][G1]"
+    },
+    {
+        "nameUs": "Atrial natriuretic factor",
+        "category": 2,
+        "nameLatin": "Atrial Natriuretic Peptide (ANP)",
+        "namePt": "Peptídeo Natriurético Atrial (ANP)",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Hormônio liberado pelas células cardíacas com funções de manutenção do \"equilíbrio\"(homeostase) cardiovascular.",
+        "ref ": "[477]"
+    },
+    {
+        "nameUs": "azulekeep",
+        "category": 2,
+        "nameLatin": "Azulene",
+        "namePt": "Azuleno",
+        "origin": "Natural, a partir da extração da flor camomila. ",
+        "mainFunction": "Emoliente, usado como agente calmante e anti-inflamatório, derivado do óleo essencial de camomila.",
+        "ref ": "[A2][E][225]"
+    },
+    {
+        "nameUs": "B-type natriuretic peptide",
+        "category": 2,
+        "nameLatin": "Brain Natriuretic Peptide (BNP)",
+        "namePt": "Peptídeo Natriurético Cerebral (BNP)",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Sua principal função é promover a eliminação de sódio na urina e, assim, adequar a quantidade de sangue circulando no corpo.",
+        "ref ": "[478]"
+    },
+    {
+        "nameUs": "bath powder",
+        "category": 2,
+        "nameLatin": "Baby powder",
+        "namePt": "Talco",
+        "origin": "Artificial, a partir de alterações dos silicatos de magnésio",
+        "mainFunction": "Pó, utilizado em máscaras de cílios e maquiagem em pó (solto ou prensado).",
+        "ref ": "[A2][E][230]"
+    },
+    {
+        "nameUs": "Beeswax",
+        "category": 2,
+        "nameLatin": "Cera alba",
+        "namePt": "Cera de abelha",
+        "origin": "Artificial, a partir da retirada da cera no favo de mel, passando por processos de aquecimento, derretimento e filtragem ",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E] [143]"
+    },
+    {
+        "nameUs": "BEMT",
+        "category": 2,
+        "nameLatin": "Bis-Ethylhexyloxyphenol methoxyphenyl triazine",
+        "namePt": "Bemotrizinol",
+        "origin": "Artificial, a partir de compostos triazinas ",
+        "mainFunction": "Filtro UV, destinado a filtrar certos raios UV, a fim de proteger a pele ou os cabelos contra os efeitos nocivos destas radiações",
+        "ref ": "[F] [E] [78] [167]"
+    },
+    {
+        "nameUs": "benzene-1",
+        "category": 2,
+        "nameLatin": "hydroquinone",
+        "namePt": "hidroquinona",
+        "origin": "Natural, a partir da estrutura química tem dois grupos hidroxila ligados a um anel benzênico.",
+        "mainFunction": "Emoliente, utilizadopara para o clareamento gradual de manchas, como melasma, sardas, manchas senis, e outras condições.",
+        "ref ": "[A2][E][222]"
+    },
+    {
+        "nameUs": "Benzoate sodium",
+        "category": 2,
+        "nameLatin": "Sodium benzoate",
+        "namePt": "Benzoato de sódio",
+        "origin": "Artificial, a partir da dissolução do ácido benzólico com soda cáustica",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E] [135]"
+    },
+    {
+        "nameUs": "Benzyl 2-hydroxybenzoate",
+        "category": 2,
+        "nameLatin": "Benzyl salicylate",
+        "namePt": "Salicilato de benzila ",
+        "origin": "Artificial, a partir da reação do álcool benzílico com o ácido salicílico, o qual é encontrado naturalmente em cascas de salgueiro, cravos e em óleos essenciais de diversas plantas",
+        "mainFunction": "Absorvedor de raios UV, destinado a proteger o produto cosmético dos efeitos da luz UV ",
+        "ref ": "[A2] [E] [119] [120]"
+    },
+    {
+        "nameUs": "Benzyl Alcohol ",
+        "category": 2,
+        "namePt": "Álcool benzílico",
+        "origin": "Sintético, produzido a partir do cloreto de benzila e carbonato de sódio.",
+        "mainFunction": "Utilizado para melhorar o perfume natural de produtos cosméticos.",
+        "ref ": "[468] [469]"
+    },
+    {
+        "nameUs": "Berrentrimonium chloride",
+        "category": 2,
+        "nameLatin": "Behenyl Trimethyl Ammonium Chloride",
+        "namePt": "Cloreto de berrentrimônio",
+        "origin": "Sintético.",
+        "mainFunction": "Utilizado para condicionar o cabelo, conservar produtos e estabilizar misturas entre água e óleo.",
+        "ref ": "[450] [451]"
+    },
+    {
+        "nameUs": "Beta-alanine",
+        "category": 2,
+        "nameLatin": "Beta-alanine",
+        "namePt": "Beta-alanina",
+        "origin": "Natural, produzida pelo corpo humano, encontrada em alimentos como carnes suína e bovina, peixes e aves.",
+        "mainFunction": "Aminoácido que retarda a fadifa muscular durante exercícios, melhorando o desempenho físico de atletas e praticantes de atividades físicas de alto rendimento.",
+        "ref ": "[350]"
+    },
+    {
+        "nameUs": "Betaine",
+        "category": 2,
+        "nameLatin": "Trimethylglycine",
+        "namePt": "Betaína",
+        "origin": "Natural, encontrada naturalmente no cabelo e obtida a partir do melaço.",
+        "mainFunction": "Utilizada em produtos cosméticos como hidratante.",
+        "ref ": "[482]"
+    },
+    {
+        "nameUs": "Biocatalysts",
+        "category": 2,
+        "nameLatin": "Enzymes",
+        "namePt": "Enzimas",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Proteínas que atuam controlando a velocidade e regulando as reações que ocorrem no organismo.",
+        "ref ": "[394]"
+    },
+    {
+        "nameUs": "Bis(2-ethylhexyl) adipate",
+        "category": 2,
+        "nameLatin": "Diisooctyl adipate",
+        "namePt": "Adipato de dioctila",
+        "origin": "Artificial, a partir da reação de propilenoglicol,  óleo de coco e parafina.",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[E] [F] [193]"
+    },
+    {
+        "nameUs": "Bisabolol",
+        "category": 2,
+        "nameLatin": "Bisabolol",
+        "namePt": "Alpha Bisabolol",
+        "origin": "Natural, a partir obtido da destilação direta do óleo de Candeia.",
+        "mainFunction": "Composto, usado por apresentar propriedades anti-inflamatórias, anti-sépticas, bactericidas, antimicóticas e cicatrizantes.",
+        "ref ": "[A2][E][221]"
+    },
+    {
+        "nameUs": "Building blocks of proteins",
+        "category": 2,
+        "nameLatin": "Amino acids",
+        "namePt": "Aminoácidos",
+        "origin": "Naturais, produzidos pelo corpo humano e encontrados em alimentos como carnes, leites, queijos, ovos, leguminosas e cereais.",
+        "mainFunction": "Responsáveis por processos vitais como a construção das proteínas, a produção de hormônios e neurotransmissores",
+        "ref ": "[460] [461] [462]"
+    },
+    {
+        "nameUs": "BUTYL",
+        "category": 2,
+        "nameLatin": "paraben",
+        "namePt": "Parabeno",
+        "origin": "Artificial, a partir da reação de esterificação do ácido p-hidroxibenzoico, utilizando um álcool na presença de catalisador, como o ácido sulfúrico concentrado ou ácido p-toluenossulfônico. ",
+        "mainFunction": "Conservante, utilizado para evitar a proliferação de bactérias e aumentar a validade dos produtos.",
+        "ref ": "[A2][E][233]"
+    },
+    {
+        "nameUs": "Butylated hydroxy-toluene",
+        "category": 2,
+        "nameLatin": "BHT",
+        "namePt": "Hidroxitolueno butilado",
+        "origin": "Artificial, a partir do petróleo",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "ref ": "[A2] [157]"
+    },
+    {
+        "nameUs": "Butylated hydroxyanisole (BHA)",
+        "category": 2,
+        "nameLatin": "2-(3-tert-Butyl-4-hydroxyanisole)",
+        "namePt": "BHA (butil-hidroxianisole)",
+        "origin": "Sintético, produzido por uma reação química.",
+        "mainFunction": "Utilizado em produtos cosméticos como antioxidante, conservante e esfoliante, removendo as células novas e promovendo a renovação celular.",
+        "ref ": "[483] [485]"
+    },
+    {
+        "nameUs": "Butylated hydroxytoluene",
+        "category": 2,
+        "nameLatin": "BHT (2,6-diterc-butil-p-creso) ",
+        "namePt": "BHT",
+        "origin": "Natural, a partir da produção e mistura dos componentes cresol e do isobutileno",
+        "mainFunction": "Antioxidante, destinado a impedir a oxidação, sequestrando radicais livres.",
+        "ref ": "[A2] [E] [199]"
+    },
+    {
+        "nameUs": "Butylated hydroxytoluene (BHT)",
+        "category": 2,
+        "nameLatin": "2,6-Di-tert-butyl-4-methylphenol",
+        "namePt": "BHT (butil-hidroxitolueno)",
+        "origin": "Sintético, produzido por uma reação química.",
+        "mainFunction": "Utilizado em produtos cosméticos como antioxidante, conservante e esfoliante, removendo as células novas e promovendo a renovação celular.",
+        "ref ": "[483] [484]"
+    },
+    {
+        "nameUs": "Butylene glycol dicaprate",
+        "category": 2,
+        "nameLatin": "Butylene glycol dicaprylate",
+        "namePt": "Dicaprilato\/Dicaprato de Butilenoglicol",
+        "origin": "Artificial, a partir da reação do ácido caprílico\/cáprico,encontrado naturalmente no óleo de coco, e o álcool butílico, derivado do petróleo",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E] [N] [122]"
+    },
+    {
+        "nameUs": "Butyrospermum parki butter",
+        "category": 2,
+        "nameLatin": "Shea butter",
+        "namePt": "Manteiga de butyrospermum parkii",
+        "origin": "Natural, é extraída dos frutos maduras da árvore de kerité, que recebe o nome científico de Butyrospermum parkii.",
+        "mainFunction": "Também chamada de manteiga de karité, é uma gordura vegetal semissólida que pode ser utilizada para melhorar a consistência da pele, por criar uma película fina que é rica em propriedades de suavização e que preserva a hidratação da pele.",
+        "ref ": "[452] [453]"
+    },
+    {
+        "nameUs": "C18H36O ",
+        "category": 2,
+        "nameLatin": "oleic alcohol",
+        "namePt": "álcool oleico",
+        "origin": "Artificial, a partir da hidrólise da gordura animal e de certos óleos vegetais onde, após a separação da glicerina, ele é submetido a uma destilação sob alto vácuo e separados por cristalização fracionada da estearina, através do abaixamento da temperatura.",
+        "mainFunction": "Emoliente, destinado à condicionar os fios.",
+        "ref ": "[A1][E][N][209][210]"
+    },
+    {
+        "nameUs": "C20H38O11",
+        "category": 2,
+        "nameLatin": "Ethylcellulose",
+        "namePt": "Etilcelulose ",
+        "origin": "Artificial; a partir da celulose passando por processos de substituição química.",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[A2] [E] [195]"
+    },
+    {
+        "nameUs": "C5H11NO2",
+        "category": 2,
+        "nameLatin": "Cocamidoethylbetaine",
+        "namePt": "Betaine",
+        "origin": "Artificial, a partir da extração de aminoacidos ",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[A2] [E] [194]"
+    },
+    {
+        "nameUs": "Cafeína",
+        "category": 2,
+        "nameLatin": "Caffeine",
+        "namePt": "1,3,7-Trimethylxanthine",
+        "origin": "Natural e sintética. Pode ser derivada de fontes naturais, como grãos de café e chá, ou produzida sinteticamente em laboratório.",
+        "mainFunction": "cafeína, usada para estimular a microcirculação e reduzir o inchaço.",
+        "ref ": "[282][A2][E]"
+    },
+    {
+        "nameUs": "Calcitonin",
+        "category": 2,
+        "nameLatin": "Calcitonin",
+        "namePt": "Calcitonina",
+        "origin": "Natural, produzida pela tireoide no corpo humano.",
+        "mainFunction": "Hormônio que ajuda a controlar a quantidade de cálcio que circula na corrente sanguínea.",
+        "ref ": "[366]"
+    },
+    {
+        "nameUs": "Canola oil",
+        "category": 2,
+        "nameLatin": "Rapeseed oil",
+        "namePt": "Óleo de canola",
+        "origin": "Natural, produzido a partir da planta de colza",
+        "mainFunction": "Emoliente, responsável por suavizar e amaciar a pele.",
+        "ref ": "[521] [522]"
+    },
+    {
+        "nameUs": "Caproic acid hexyl ester",
+        "category": 2,
+        "nameLatin": "Hexyl acetate",
+        "namePt": "Acetato de hexilo",
+        "origin": "Natural, a partir de óleos essenciais de frutas, como laranjas, limões e morangos.",
+        "mainFunction": "ésterc líquido, utilizado como emoliente, agente condicionador e aromatizante em produtos para cuidados com a pele e cabelos.",
+        "ref ": "[234][A2][E]"
+    },
+    {
+        "nameUs": "Caprylic\/Capric Triglyceride",
+        "category": 2,
+        "nameLatin": "Decanoic acid, ester with 1,2,3-propanetriol octanoate.",
+        "namePt": "Triglicerídeo Caprílico\/Cáprico",
+        "origin": "Sintético, produzido a partir do processo químico de transesterificação dos ácidos graxos cáprico (C10) e caprílico (C8) combinados com glicerina.",
+        "mainFunction": "Lubrificante, emoliente, agente espalhante, solvente para filtros solares químicos e utilizado como alternativa para o óleo mineral ou vegetal em vários produtos para o cuidado pessoal e farmacêutico. ",
+        "ref ": "[532] [533]"
+    },
+    {
+        "nameUs": "Caprylyl Glycol",
+        "category": 2,
+        "nameLatin": "Octane-1,2-diol",
+        "namePt": "1,2-Octanodiol",
+        "origin": "Artificial a partir de compostos petroquímicos.",
+        "mainFunction": "Emoliente utilizado, para hidratar e suavizar a pele.",
+        "ref ": "[A2] [E] [251]"
+    },
+    {
+        "nameUs": "Carnitine",
+        "category": 2,
+        "nameLatin": "Carnitine",
+        "namePt": "Carnitina",
+        "origin": "Natural, produzida pelo corpo humano e encontrada em alimentos como carnes e peixes. ",
+        "mainFunction": "Participado processo de oxidação da gordura durante exercícios físicos, ajuda na produção de energia para o corpo, tembém reduz a fadiga e ajuda na recuperação celular após o treino. ",
+        "ref ": "[349]"
+    },
+    {
+        "nameUs": "carnosina",
+        "category": 2,
+        "nameLatin": "Carnosine",
+        "namePt": "β-Alanyl-L-histidine",
+        "origin": "Natural e sintética. Pode ser obtido a partir de fontes naturais, como alimentos, ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Péptido, utilizado para proteger a pele dos danos causados pelos raios UV e melhorar a função de barreira cutânea.",
+        "ref ": "[313][A2][F]"
+    },
+    {
+        "nameUs": "Cashew Nut oil",
+        "category": 2,
+        "nameLatin": "Anacardium occidentale nut oil",
+        "namePt": "Óleo vegetal da castanha do caju",
+        "origin": "Natural, a partir da extração por prensagem a frio (esmagamento) da castanha-de-caju",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E] [156]"
+    },
+    {
+        "nameUs": "Castor oil (Ricinus communis) hydrogenated",
+        "category": 2,
+        "nameLatin": "PEG-40 hydrogenated castor oil",
+        "namePt": "Óleo de rícino hidrogenado",
+        "origin": "Artificial, a partir do pressionamento das sementes da planta mamona (Ricinus communis) para obtenção do óleo de rícino, em seguida é feita a hidrogenização usando a água",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [102] [183] "
+    },
+    {
+        "nameUs": "Cecalgum",
+        "category": 2,
+        "nameLatin": "sodium alginate",
+        "namePt": "alginato de sódio",
+        "origin": "Natural, a partir da extração de algas marrons, após a extração, o alginato de sódio é seco, separado, lavado, fervido e transformado em gel que é prensado, seco e moído.",
+        "mainFunction": "Espessamento, usado na composição do shampoo como espessador para facilitar o espalhamento pelos fios.",
+        "ref ": "[A2][E][208][A1]"
+    },
+    {
+        "nameUs": "Cell signaling proteins",
+        "category": 2,
+        "nameLatin": "Cytokines",
+        "namePt": "Citocinas",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Funcionam como um mensageiro químico para a regulação do sistema imune adaptativo e inato.",
+        "ref ": "[393]"
+    },
+    {
+        "nameUs": "Ceramida NP",
+        "category": 2,
+        "nameLatin": "Ceramide NP",
+        "namePt": "Ceramide 3",
+        "origin": "Sintético, produzido em laboratório por meio da síntese de lipídios.",
+        "mainFunction": "Lipídio natural, usado para ajudar a fortalecer a barreira cutânea e melhorar a hidratação.",
+        "ref ": "[283][A2][E][G1]"
+    },
+    {
+        "nameUs": "Ceresin",
+        "category": 2,
+        "nameLatin": "Ozokerite",
+        "namePt": "Ozocerita",
+        "origin": "Artificial, a partir da extração e purificação da cera fóssil mineral ozocerita, que é derivada do petróleo, xisto e carvão mineral, e é quimicamente neutralizada por ácidos",
+        "mainFunction": "Ligante, destinado a fornecer coesão em cosméticos",
+        "ref ": "[A2] [E] [148]"
+    },
+    {
+        "nameUs": "Cetearyl alcohol",
+        "category": 2,
+        "namePt": "Álcool cetoestearílico",
+        "origin": "Sintético, produzido a partir da mistura de álcool estearílico e álcool cetílico. ",
+        "mainFunction": "Utilizado em produtos farmacêuticos e cosméticos para estabilizar misturas entre água e óleo, também porporcioa lubricidade, consistência e emoliência.",
+        "ref ": "[467]"
+    },
+    {
+        "nameUs": "Cetone alpha",
+        "category": 2,
+        "nameLatin": "Alpha-isomethyl ionone",
+        "namePt": "Alfa-isometil ionona",
+        "origin": "Artificial, a partir do composto com odor de limão, o citronelal, com a butanona, e está dentro de uma categoria de compostos naturalmente encotrados em óleos essenciais de plantas, como o óleo de rosa",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[78] [E] [123]"
+    },
+    {
+        "nameUs": "Cetrimonium chloride",
+        "category": 2,
+        "nameLatin": "Cetrimonium chloride",
+        "namePt": "Cloreto de cetrimónio",
+        "origin": "Sintético, produzido a partir da reação entre n-hexadecilamina com cloreto de metila e hidróxido de sódio.",
+        "mainFunction": "Utilizado como agente condicionador e conservante, impedindo o crescimento de bactérias em soluções líquidas.",
+        "ref ": "[448] [449]"
+    },
+    {
+        "nameUs": "chalk",
+        "category": 2,
+        "nameLatin": "calcium carbonate",
+        "namePt": "carbonato de cálcio",
+        "origin": "Artificial, a partir de um mineral inorgânico quimicamente inerte com características alcalinas que resulta em reações do óxido de cálcio com dióxido de carbono.",
+        "mainFunction": "Composto, utilizado como auxiliar em pó de maquiagem associado com óxido de zinco.",
+        "ref ": "[A2][E][202]"
+    },
+    {
+        "nameUs": "china clay",
+        "category": 2,
+        "nameLatin": "Kaolin",
+        "namePt": "Argila Amarela",
+        "origin": "Natural, a partir da coletada diretamente do solo, composta por alumínio (óxido de alumínio), sílica (óxido de silício) e água. ",
+        "mainFunction": "Pó, utilizado no combate e retarda o envelhecimento cutâneo, nutre com seus sais minerais necessários para um tecido mais rígido e saudável sem deixá-lo ressecado. ",
+        "ref ": "[A2][E][223][A1]"
+    },
+    {
+        "nameUs": "Choline",
+        "category": 2,
+        "nameLatin": "Choline",
+        "namePt": "Colina",
+        "origin": "Natural , produzida pelo corpo humano ou encontrada em alimentos como a gema do ovo.",
+        "mainFunction": "Vitamina que move as gorduras para fora do figado para convertê-las em energia e ajuda na desintoxicação do organismo.",
+        "ref ": "[367] [368]"
+    },
+    {
+        "nameUs": "Chondroitin sulfate",
+        "category": 2,
+        "nameLatin": "Chondroitin sulfate",
+        "namePt": "Sulfato de condroitina",
+        "origin": "Natural e sintético, encontrado na cartilagem do tubarão ou de bovínos ou fabricado em laboratório.",
+        "mainFunction": "Componente natural da cartilagem que reduz dores articulares e melhora a mobilidade das articulações. ",
+        "ref ": "[359]"
+    },
+    {
+        "nameUs": "Chondroitin sulphate",
+        "category": 2,
+        "nameLatin": "Albumin",
+        "namePt": "Albumina",
+        "origin": "Natural, proteína encontrada na clara do ovo, no leite e no sangue.",
+        "mainFunction": "Ajuda na reconstrução  das fibras musculares, na cicatrização e favorece o ganho de massa muscular.",
+        "ref ": "[378] [379] "
+    },
+    {
+        "nameUs": "cinetina",
+        "category": 2,
+        "nameLatin": "Kinetin",
+        "namePt": "6-Furfurylaminopurine",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Regulador de crescimento de plantas, usado para promover a regeneração e rejuvenescimento da pele.",
+        "ref ": "[319][E][F][G1]"
+    },
+    {
+        "nameUs": "cis-9-Octadecenoic Acid",
+        "category": 2,
+        "nameLatin": "Oleic Acid",
+        "namePt": "Ácido octadecenóico",
+        "origin": "Natural a partir de óleos vegetais como o de soja.",
+        "mainFunction": "Emoliente e hidratante, utilizado em loções corporais e cremes para suavizar a pele.",
+        "ref ": "[A2] [E] [254]"
+    },
+    {
+        "nameUs": "Citral",
+        "category": 2,
+        "nameLatin": "Citral",
+        "namePt": "Citral (Lemonal)",
+        "origin": "Artificial, a partir da síntese com formol, o isobutileno (oriundo do petroléo) e o álcool isoprenol ou por processos de extração de plantas como erva cidreira, capim limão",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[A2] [E] [92] [93]"
+    },
+    {
+        "nameUs": "Citric acid",
+        "category": 2,
+        "nameLatin": "Citric acid",
+        "namePt": "Ácido cítrico",
+        "origin": "Artificial, a partir da fermetação de uma fonte de carboidratos, como a beterraba crua e a cana-de-açúcar, através do cultivo do fungo Aspergillus niger no sistema",
+        "mainFunction": "Agente tampão, destinado a estabilizar o pH dos produtos cosméticos",
+        "ref ": "[A2] [E] [137]"
+    },
+    {
+        "nameUs": "Citronellol",
+        "category": 2,
+        "nameLatin": "Rhodinol",
+        "namePt": "Citronelol",
+        "origin": "Natural, encontrado em diversos óleos essenciais.",
+        "mainFunction": "Utilizados para melhorar o perfume de produtos cosméticos.",
+        "ref ": "[446]"
+    },
+    {
+        "nameUs": "Citrus aurantium dulcius (orange) fruit extract",
+        "category": 2,
+        "nameLatin": "Citrus Aurantium Amara Extract",
+        "namePt": "Extrato de fruta de laranja amarga",
+        "origin": "Artificial, a partir das cascas de frutas da família Rutaceae, como a laranja-azeda",
+        "mainFunction": "Refrescante, destinado a conferir uma frescura agradável para a pele",
+        "ref ": "[A2] [E] [137]"
+    },
+    {
+        "nameUs": "Citrus limon (lemon) fruit extract",
+        "category": 2,
+        "nameLatin": "Citrus medica limonum extract",
+        "namePt": "Extrato de cascas de frutas cítricas",
+        "origin": "Artificial, a partir das cascas de frutas da família Rutaceae, como o limão, a laranja e o limão siciliano",
+        "mainFunction": "Tônico, destinado a produzir uma sensação de bem-estar na pele e cabelo",
+        "ref ": "[A2] [E] [137]"
+    },
+    {
+        "nameUs": "Citrus Medica Limonum Peel Oil",
+        "category": 2,
+        "nameLatin": "Citrus Medica Limonum Oil",
+        "namePt": "Óleo essencial de limão",
+        "origin": "Artificial, a partir da casca fresca do limão",
+        "mainFunction": "Tônico, destinado a produzir uma sensação de bem-estar na pele e cabelo",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Citrus tangerina (tangerine) extract",
+        "category": 2,
+        "nameLatin": "Citrus tangerina extract",
+        "namePt": "Extrato de tangerina cítrica",
+        "origin": "Artificial, a partir das cascas de frutas da família Rutaceae, como a tanjerina",
+        "mainFunction": "Tônico, destinado a produzir uma sensação de bem-estar na pele e cabelo",
+        "ref ": "[A2] [E] [137]"
+    },
+    {
+        "nameUs": "Cl 42090",
+        "category": 2,
+        "nameLatin": "Acid blue 9",
+        "namePt": "Ácido azul 9",
+        "origin": "Artificial, a partir do colorido composto ftalocianina sulfonamida de ferro com o peróxido de hidrogênio ",
+        "mainFunction": "Colorante de cabelo, destinado a dar coloração ao cabelo",
+        "ref ": "[A2] [E] [116] [117]"
+    },
+    {
+        "nameUs": "Coconut Oil",
+        "category": 2,
+        "nameLatin": "Cocos nucifera oil",
+        "namePt": "Óleo de coco",
+        "origin": "Natural, a partir da fruta coco que tem seu endosperma prensado para a retirada do óleo",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E] [187]"
+    },
+    {
+        "nameUs": "Coenzima Q10",
+        "category": 2,
+        "nameLatin": "Coenzyme Q10",
+        "namePt": "Ubiquinone",
+        "origin": "Natural e sintética. Também conhecido como Coenzima Q10, pode ser obtido a partir de fontes naturais, como a carne e o peixe, ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Coenzima Q10, utilizada como antioxidante para proteger a pele dos danos causados pelo envelhecimento e estresse ambiental.",
+        "ref ": "[294] [A2][E][G1]"
+    },
+    {
+        "nameUs": "Colágeno Marinho",
+        "category": 2,
+        "nameLatin": "Marine Collagen",
+        "namePt": "Fish collagen",
+        "origin": "Natural, obtido a partir de tecidos de peixes, como a pele e as escamas.",
+        "mainFunction": "Colágeno derivado de peixes, usado para melhorar a elasticidade da pele e reduzir rugas e linhas finas.",
+        "ref ": "[306][E][F]"
+    },
+    {
+        "nameUs": "Common salt",
+        "category": 2,
+        "nameLatin": "Sodium chloride",
+        "namePt": "Cloreto de sódio",
+        "origin": "Natural, a partir da cristalização dos sais dissolvidos na água do mar através de evaporadores industriais",
+        "mainFunction": "Regulador de viscosidade, destinado a aumentar ou diminuir a viscosidade dos cosméticos",
+        "ref ": "[A2] [E] [44]"
+    },
+    {
+        "nameUs": "Conjugated linoleic acid",
+        "category": 2,
+        "nameLatin": "CLA",
+        "namePt": "Ácido linoleico conjugado",
+        "origin": "Natural, encontrado em alimentos de origem animal, como derivados do leite, carne bovina, de frango e de porco.",
+        "mainFunction": "Um dos tipos de ômega 6, fortalece o sistema imunológico, podendo ajudar a previnir o surgimento de alguns tipos de câncer, como de mama e próstata. Ele também promove o emagrecimento, previne diabetes e favorece o ganho de massa muscular.",
+        "ref ": "[513]"
+    },
+    {
+        "nameUs": "Connective tissue protein",
+        "category": 2,
+        "nameLatin": "Collagen",
+        "namePt": "Colágeno",
+        "origin": "Natural, produzida pelo corpo humano e pelo ser encontrado em alimentos como carne e gelatina.",
+        "mainFunction": "Proteína que garante firmeza e elasticidade à pele.",
+        "ref ": "[313]"
+    },
+    {
+        "nameUs": "Coumarin",
+        "category": 2,
+        "nameLatin": "Coumarin",
+        "namePt": "Cumarina",
+        "origin": "Artificial, a partir das reações de Perkin, Pechmann, Reformatsky, Knoevenagel ou Witting, sendo amplamente encontradas no metabolismo de plantas e em alguns fungos e bactérias específicas",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[A2] [E] [88]"
+    },
+    {
+        "nameUs": "Crystalline silica",
+        "category": 2,
+        "nameLatin": "Ceria\/Silica",
+        "namePt": "\nSílica",
+        "origin": "Natural, a partir da extração de cascas de arroz",
+        "mainFunction": "Absorvedor de raios UV, destinado a proteger o produto cosmético dos efeitos da luz UV",
+        "ref ": "[A2] [E] [200]"
+    },
+    {
+        "nameUs": "Cucumber Extract",
+        "category": 2,
+        "nameLatin": "Cucumis sativus extract",
+        "namePt": "Extrato de pepino",
+        "origin": "Artificial, a partir da extração do pepino em uma mistura de água com algum álcool, como a glicerina, o butilenoglicol ou o propilenoglicol",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E] [150]"
+    },
+    {
+        "nameUs": "Curcuma longa extract",
+        "category": 2,
+        "nameLatin": "Turmeric extract",
+        "namePt": "Extrato de cúrcuma",
+        "origin": "Natural, a de processos de extração e concentração a partir da raiz da cúrcuma (Curcuma",
+        "mainFunction": "antioxidante, utilizado para proteger a pele contra os danos causados pelos radicais livres, além de possuir propriedades anti-inflamatórias, sendo usado em produtos para cuidados com a pele.",
+        "ref ": "[246][A2][E]"
+    },
+    {
+        "nameUs": "Cyklokapron",
+        "category": 2,
+        "nameLatin": "Tranexamic acid",
+        "namePt": "Ácido Tranexâmico",
+        "origin": "Artificial, a partir do aminoácido sintético derivado da lisina.",
+        "mainFunction": "Emoliente, utilizado no controle e profilaxia de hemorragias provocadas por hiperfibrinólise e ligadas a várias áreas, como cirurgias cardíacas.",
+        "ref ": "[A2][E][219]"
+    },
+    {
+        "nameUs": "Cysteine",
+        "category": 2,
+        "nameLatin": "Cysteine",
+        "namePt": "Cisteína",
+        "origin": "Natural, produzido pelo copo humano e encontrafo em carnes, ovos e produtos lácteos. ",
+        "mainFunction": "Aminoácido produzido pelo corpo humano que tem ação antioxidante, é importante para a produção de músculos, hosmônios e enzimas, fortalecendo o sistema imunológico e ajudando na cicatrização de feridas, também é importante na formação de colágeno e queratina, proteínas que mantém a hidratação, o brilho e a elasticidade da pele e dos cabelos.",
+        "ref ": "[345] [346]"
+    },
+    {
+        "nameUs": "Decamethylcyclopentasiloxane",
+        "category": 2,
+        "nameLatin": "Cyclopentasiloxane",
+        "namePt": "Dimetildiclorossilano ",
+        "origin": "Artificial, a partir da quebra por água do composto dimetildiclorosilano",
+        "mainFunction": "Condicionante de cabelo, destinado a deixar o cabelo mais fácil de pentear, flexível, macio e brilhante e \/ ou confere volume, leveza, brilho, etc.",
+        "ref ": "[A2] [E] [163]"
+    },
+    {
+        "nameUs": "Decametilciclopentasiloxano",
+        "category": 2,
+        "nameLatin": "Cyclomethicone",
+        "namePt": "Silicone",
+        "origin": "Artificial, a partir reação de polimerização de compostos como clorosilano e tetraetoxisilano.",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[E] [A2][N]"
+    },
+    {
+        "nameUs": "Deoxyribonucleic acid",
+        "category": 2,
+        "nameLatin": "DNA",
+        "namePt": "DNA"
+    },
+    {
+        "nameUs": "Deuterium oxide",
+        "category": 2,
+        "nameLatin": "Hydrogen Water",
+        "namePt": "Água Hidrogenada",
+        "origin": "Natural, a partir da fórmula que possui moléculas extras de hidrogênio e se apresenta como substância responsável por provocar a separação do ozônio e do oxigênio da água",
+        "mainFunction": "Condicionador da pele,  destinado à ação anti-inflamatória e anti-idade, que combate os sinais do envelhecimento enquanto proporciona hidratação profunda.",
+        "ref ": "[A2][E][220][N]"
+    },
+    {
+        "nameUs": "Dexpanthenol",
+        "category": 2,
+        "nameLatin": "Panthenol",
+        "namePt": "Pantenol",
+        "origin": "Artificial, a partir do pantolactona, aminoprapanol e pantotenato de cálcio ",
+        "mainFunction": "Condicionador de cabelo e pele, destinado a mantê-los em condições de maciez, flexibilidade, brilho e textura agradável",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Diammonium peroxodisulphate",
+        "category": 2,
+        "nameLatin": "Ammonium persulfate",
+        "namePt": "Persulfato de amônio",
+        "origin": "Artificial, a partir da reação por eletrólise de uma solução de sulfato de amônio ou bissulfato de amônio em ácido sulfúrico ",
+        "mainFunction": "Branqueador, destinado a clarear a sombra de cabelo ou da pele",
+        "ref ": "[A2] [E] [76]"
+    },
+    {
+        "nameUs": "Dibutyl adipate",
+        "category": 2,
+        "nameLatin": " Dibutyl adipate",
+        "namePt": "Adipato de dibutila",
+        "origin": "Sintético, produzido a partir da combinação de álcool butílico e do ácido adípico.",
+        "mainFunction": "Utilizado para amolecer cremes e loções, melhorando a textura dos produtos. Também é utilizado como solvente para filtros UV e agente criador de uma barreira protetora para o produto.",
+        "ref ": "[516]"
+    },
+    {
+        "nameUs": "Dimethicone crosspolymer",
+        "category": 2,
+        "nameLatin": "Cetyl dimethicone\/Vinyl dimethicone crosspolymer",
+        "namePt": "Crosspolímero de dimeticona",
+        "origin": "Artificial, a partir de repetições das estruturas químicas do silicone",
+        "mainFunction": "Formador de filme, destinado a produzir, mediante requerimento, um filme contínuo sobre a pele, cabelo e unhas",
+        "ref ": "[A2] [E] [164]"
+    },
+    {
+        "nameUs": "Dimethiconol",
+        "category": 2,
+        "nameLatin": "Propylene Glycol Dioleate",
+        "namePt": "Propilenoglicol Dioleato",
+        "origin": "Artificial a partir de propileno glicol e ácido oleico.",
+        "mainFunction": "Emoliente, utilizado em loções corporais e cremes para hidratação da pele.",
+        "ref ": "[A2] [E] [261]"
+    },
+    {
+        "nameUs": "Dimethyloldimethyl hydantoin",
+        "category": 2,
+        "nameLatin": "DMDM hydantoin",
+        "namePt": "DMDM Hidantoina",
+        "origin": "Artificial, a partir da reação do formol com o composto dimetil hidantoína em concentrações definidas",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E] [186]"
+    },
+    {
+        "nameUs": "Dioctadecyl ether",
+        "category": 2,
+        "nameLatin": "Distearyl ether",
+        "namePt": "Éter dioctadecil",
+        "origin": "Artifical, a partir da reação entre benzeno, hidrogênio e gâs oxigênio. ",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [201]"
+    },
+    {
+        "nameUs": "Dioctyl Carbonate",
+        "category": 2,
+        "nameLatin": "Dicaprylyl carbonate",
+        "namePt": "Dicaprilil Carbonato",
+        "origin": "Artificial, a partir do álcool caprílico (extraído naturalmente do óleo de palma ou óleo de palmiste) e do ácido carbônico ( extraído de matérias-primas petroquímicas)",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[F] [E] [N] [78] "
+    },
+    {
+        "nameUs": "DL-Citronellol",
+        "category": 2,
+        "nameLatin": "Citronellol",
+        "namePt": "Citronelol",
+        "origin": "Artificial, a partir da hidrogenação de nerol e geraniol, compostos encontrados naturalmente nos óleos essenciais de capim-limão, óleo de rosa,citronela,lavanda,laranja-natal, etc.",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[A2] [E] [78]"
+    },
+    {
+        "nameUs": "Docosahexaenoic acid",
+        "category": 2,
+        "nameLatin": "DHA",
+        "namePt": "Ácido docosahexaenoico (DHA)",
+        "origin": "Natural, encontrado em alimentos como peixes e água fria e algas marinhas.",
+        "mainFunction": "Ácido graxo de ômega-3 que participa da formação, desenvolvimento e funcionamento do cérebro e da retina.",
+        "ref ": "[503] [504]"
+    },
+    {
+        "nameUs": "Dodecanoic acid",
+        "category": 2,
+        "nameLatin": "Dodecanoic acid",
+        "namePt": "Ácido láurico",
+        "origin": "Natural, encontrado no coco.",
+        "mainFunction": "Utilizado para potencializar a proteção antimicrobiana da pele devido as suas propriedades antimicrobianas e antibacterianas.",
+        "ref ": "[420] [421]"
+    },
+    {
+        "nameUs": "Edetate sodium",
+        "category": 2,
+        "nameLatin": "Tetrasodium EDTA",
+        "namePt": "EDTA tetrassódico",
+        "origin": "Formalin",
+        "mainFunction": "Quelante, destinado a formar ligações com cargas químicas susceptíveis de afetar a estabilidade e\/ou o aspecto dos cosméticos",
+        "ref ": "[A2] [E] [104] [136] [137]"
+    },
+    {
+        "nameUs": "Egg Lecithin",
+        "category": 2,
+        "nameLatin": "lecitin",
+        "namePt": "Lecitina ",
+        "origin": "Natural, a partir da gema do ovo e de diversas fontes de óleos vegetais.",
+        "mainFunction": "Emulsificante, utilizadopara no tratamento dos problemas da pele como psoríase, eczema, esclerodermia, seborreia, acne e a formação de queloides causada pela absorção de gorduras.",
+        "ref ": "[A2][E][207][N]"
+    },
+    {
+        "nameUs": "Eicosanoids",
+        "category": 2,
+        "nameLatin": "Prostaglandins",
+        "namePt": "Prostaglandinas",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Após sinal de lesão ou doença, as células começam a produzir prostalglandinas, que faz com que os vasos sanguíneos e os músculos lisos se contraiam, resultando em câimbras e dor.",
+        "ref ": "[395] [396]"
+    },
+    {
+        "nameUs": "Eicosapentaenoic acid ",
+        "category": 2,
+        "nameLatin": "EPA",
+        "namePt": "Ácido eicosapentaenoico (EPA)",
+        "origin": "Natural, encontrado em alimentos como peixes e água fria e algas marinhas.",
+        "mainFunction": "Ácido graxo de ômega-3 que tem ação anti-inflamatória e traz muitos benefícios para o coração, proporcionando uma boa circulação e um bom sistema cardiovascular.",
+        "ref ": "[504] [505]"
+    },
+    {
+        "nameUs": "Elaeis guineensis oil",
+        "category": 2,
+        "nameLatin": "Palm Kernel Oil",
+        "namePt": "Óleo de palma \"Elaeis guineensis\"",
+        "origin": "Natural, óleo vegetal do fruto da palma.",
+        "mainFunction": "Emoliente, responsável por suavizar e amaciar a pele. Em produtos para o cabelo, eleé responsável por proteger de raios UV, facilitar na hora de pentear, combater as pontas duplas, restaurar os fios secos e dar brilho e suavidade para o cabelo.",
+        "ref ": "[519] [520]"
+    },
+    {
+        "nameUs": "Elastic protein",
+        "category": 2,
+        "nameLatin": "Elastin",
+        "namePt": "Elastina",
+        "origin": "Natural e sintética, produzido pelo corpo humano ou produzido em laboratórios.",
+        "mainFunction": "Responsável por dar elasticidade aos tecidos do corpo humano, mantendo a pela firme, jovem e elástica.",
+        "ref ": "[314]"
+    },
+    {
+        "nameUs": "EPO",
+        "category": 2,
+        "nameLatin": "Glucuronic acid",
+        "namePt": "Ácido glicurônico",
+        "origin": "Natural, produzído pelo fígado no corpo humano.",
+        "mainFunction": "Ajuda na desentoxicação de certos medicamentos e toxinas.",
+        "ref ": "[386] [387]"
+    },
+    {
+        "nameUs": "Epsom salt",
+        "category": 2,
+        "nameLatin": "Magnesium sulfate",
+        "namePt": "Sulfato de magnésio",
+        "origin": "Natural e sintético, encontrado na natureza em locais onde há fontes de água quente ou produzida artificialmente pela reação entre magnésio e ácido sulfúrico.",
+        "mainFunction": "Utilizado como carregador de ativos, possuindo ação rejuvenescedora. Também é utilizado na produção de sais de banhos, pois quando é colocado em grande quantidade na água, aumenta a densidade, o que faz com que o corpo flutue.",
+        "ref ": "[432] [433] [434] [435]"
+    },
+    {
+        "nameUs": "Ergotioneína",
+        "category": 2,
+        "nameLatin": "Ergothioneine",
+        "namePt": "2-Mercaptohistidine trimethylbetaine",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Derivado do aminoácido histidina, usado como agente antioxidante e hidratante para a pele.",
+        "ref ": "[315][E][F]"
+    },
+    {
+        "nameUs": "Erythorbate",
+        "category": 2,
+        "nameLatin": "Erythorbic Acid",
+        "namePt": "Ácido eritórbico",
+        "origin": "Artificial, pela é produzido pela fermentação de carboidratos encontrados em amidos e açúcares",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Erythropoietin (EPO)",
+        "category": 2,
+        "nameLatin": "EPO",
+        "namePt": "Eritropoetina",
+        "origin": "Natural, produzido pelo corpo humano e por animais.",
+        "mainFunction": "Hormônio glicoprotéico que estimula a medula óssea a fabricar determinadas substâncias que serão responsáveis pela produção de glóbulos vermelhos. Esse hormônio é utilizado no tratamento terapêutico da anemia em pacientes com problemas renais.",
+        "ref ": "[405] [474]"
+    },
+    {
+        "nameUs": "esqualano",
+        "category": 2,
+        "nameLatin": "Squalane",
+        "namePt": "Perhydrosqualene",
+        "origin": "Natural e sintética. Pode ser derivado de fontes naturais, como o azeite de oliva, ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Hidrocarboneto derivado do esqualeno, utilizado como emoliente e agente condicionante para hidratar e suavizar a pele.",
+        "ref ": "[300][A2][F][G1]"
+    },
+    {
+        "nameUs": "Ethanol",
+        "category": 2,
+        "nameLatin": "Alcohol",
+        "namePt": "Álcool",
+        "origin": "Artificial, a partir da fermentação de vegetais ricos em açúcares ou por hidratação do etileno",
+        "mainFunction": "Solvente, destinado a dissolver outras substâncias",
+        "ref ": "[A2] [E] [2] [14]"
+    },
+    {
+        "nameUs": "Ethoxylated lanolin",
+        "category": 2,
+        "nameLatin": "PEG 75 Lanolin",
+        "namePt": "Polietilenoglicol 75 Lanolina",
+        "origin": "Artificial, a partir do composto lanolina, um óleo natural das glândulas sebáceas de ovelha, que é obtido a partir da lã tosada",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[144] [145]"
+    },
+    {
+        "nameUs": "Ethyl alcohol",
+        "category": 2,
+        "nameLatin": "Ethanol",
+        "namePt": "Etanol",
+        "origin": "Natural, obtido a partir da cana-se-açúcar ou outras plantas e raízes.",
+        "mainFunction": "Utilizado em cosméticos para facilitar a entrada de um ativo na pele",
+        "ref ": "[465] [466]"
+    },
+    {
+        "nameUs": "Ethylene glycol phenyl ether",
+        "category": 2,
+        "nameLatin": "Phenoxyethanol",
+        "namePt": "Fenoxietanol",
+        "origin": "Artificial, a partir do processo de aquecimento do fenol, do carbonato de etileno e do flureto de potássio, contudo é encontrado naturalmente na planta do chá verde (Camellia sinensis)",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E] [100] [99] [21]"
+    },
+    {
+        "nameUs": "Ethylhexyl Glycerin",
+        "category": 2,
+        "nameLatin": "Ethylhexyglycerin",
+        "namePt": "Etilhexilglicerina",
+        "origin": "Artificial, a partir do álcool 2-etilhexanol, água, epicloridrina e um acelerador da reação, além de derivar da glicerina vegetal, comumente encontrada em óleo de palma e coco ",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [152] [153]"
+    },
+    {
+        "nameUs": "Ethylhydroxyethylcellulose",
+        "category": 2,
+        "nameLatin": "EHEC",
+        "namePt": "Etil hidroxietil celulose",
+        "origin": "Sintético, forma modificada da celulose.",
+        "mainFunction": "Utilizado em produtos cosméticos como estabilizante e para dar uma textura de gel.",
+        "ref ": "[486] [487]"
+    },
+    {
+        "nameUs": "Ext. D&C Violet Nº2 Jarocol Violet 43 (Cl 60730)",
+        "category": 2,
+        "nameLatin": "Acid violet 43",
+        "namePt": "Ácido Violeta 43",
+        "origin": "Artificial, a partir da reação de sulfonação do corante Violeta 2  que é convertido em sal de sódio",
+        "mainFunction": "Colorante de cabelo, destinado a dar coloração ao cabelo",
+        "ref ": "[A2] [E] [112] [113]"
+    },
+    {
+        "nameUs": "Extrato de Algas Marinhas",
+        "category": 2,
+        "nameLatin": "Marine Algae Extract",
+        "namePt": "Seaweed extract",
+        "origin": "Natural, obtido a partir de várias espécies de algas marinhas.",
+        "mainFunction": "Antioxidante, e agente hidratante para melhorar a textura e firmeza da pele.",
+        "ref ": "[320][E][F]"
+    },
+    {
+        "nameUs": "Extrato de Casca de Salgueiro",
+        "category": 2,
+        "nameLatin": "Willow Bark Extract",
+        "namePt": "Astragalus",
+        "origin": "Natural, obtido a partir da planta Astragalus membranaceus.",
+        "mainFunction": "Extrato, usado como agente antioxidante e anti-inflamatório para proteger e fortalecer a pele.",
+        "ref ": "[335][A2][F]"
+    },
+    {
+        "nameUs": "Extrato de Centella Asiática",
+        "category": 2,
+        "nameLatin": "Centella Asiatica Extract",
+        "namePt": "Gotu Kola extract",
+        "origin": "Natural, obtido a partir da planta Centella asiatica, também conhecida como Gotu Kola.",
+        "mainFunction": "Extrato vegetal, utilizado para melhorar a circulação e acalmar a pele irritada.",
+        "ref ": "[289][A2][E]"
+    },
+    {
+        "nameUs": "Extrato de chá verde",
+        "category": 2,
+        "nameLatin": "Green Tea Extract ",
+        "namePt": "Camellia sinensis extract",
+        "origin": "Natural, obtido a partir da planta Camellia sinensis, que é utilizada na produção de chá.",
+        "mainFunction": "Extrato de chá verde, usado como antioxidante e agente anti-inflamatório para proteger e acalmar a pele.",
+        "ref ": "[301][A2][F][G1]"
+    },
+    {
+        "nameUs": "Extrato de Ginkgo Biloba",
+        "category": 2,
+        "nameLatin": "Ginkgo Biloba Extract",
+        "namePt": "Ginkgo biloba leaf extract",
+        "origin": "Natural, obtido a partir das folhas da árvore Ginkgo biloba.",
+        "mainFunction": "Extrato de folha de ginkgo biloba, usado como antioxidante e agente anti-inflamatório para proteger a pele dos danos causados pelos radicais livres.",
+        "ref ": "[316][E][G1]"
+    },
+    {
+        "nameUs": "Extrato de Panax Ginseng",
+        "category": 2,
+        "nameLatin": "Panax Ginseng Extract",
+        "namePt": "Korean ginseng extract",
+        "origin": "Natural, obtido a partir da planta Panax ginseng, conhecida como ginseng coreano.",
+        "mainFunction": "Extrato de ginseng, usado para estimular e revitalizar a pele.",
+        "ref ": "[292][A2][G1]"
+    },
+    {
+        "nameUs": "Extrato de raiz de alcaçuz",
+        "category": 2,
+        "nameLatin": "Licorice Root Extract ",
+        "namePt": "Glycyrrhiza glabra extract",
+        "origin": "Natural, obtido a partir da raiz da planta Glycyrrhiza glabra, também conhecida como alcaçuz.",
+        "mainFunction": "Extrato de alcaçuz, utilizado para clarear a pele, reduzir a vermelhidão e acalmar irritações.",
+        "ref ": "[302][A2][F][G1]"
+    },
+    {
+        "nameUs": "Extrato de raiz de valeriana",
+        "category": 2,
+        "nameLatin": "Valerian Root Extract",
+        "namePt": "Valeriana officinalis extract",
+        "origin": "Natural, obtido a partir do extrato da planta Valeriana officinalis, também conhecida como valeriana.",
+        "mainFunction": "Extrato de valeriana, usado por suas propriedades calmantes e relaxantes da pele.",
+        "ref ": "[333][A2][F]"
+    },
+    {
+        "nameUs": "Extrato de Romã",
+        "category": 2,
+        "nameLatin": "Pomegranate Extract",
+        "namePt": "Punica granatum extract",
+        "origin": "Natural, obtido a partir do extrato da fruta romã.",
+        "mainFunction": "Extrato de romã, usado como antioxidante e agente anti-inflamatório para proteger a pele dos danos ambientais e melhorar sua aparência.",
+        "ref ": "[324][A2][F]"
+    },
+    {
+        "nameUs": "Extrato de Tremella Fuciformis",
+        "category": 2,
+        "nameLatin": "Tremella Fuciformis Extract",
+        "namePt": "Snow mushroom extract",
+        "origin": "Natural, obtido a partir do cogumelo Tremella fuciformis, também conhecido como cogumelo da neve.",
+        "mainFunction": "Extrato de cogumelo-da-neve, usado como hidratante e agente suavizante da pele.",
+        "ref ": "[331][E][G1]"
+    },
+    {
+        "nameUs": "Extrato de trevo vermelho",
+        "category": 2,
+        "nameLatin": "Red Clover Extract",
+        "namePt": "Trifolium pratense extract",
+        "origin": "Natural, obtido a partir do extrato da planta Trifolium pratense, também conhecida como trevo vermelho.",
+        "mainFunction": "Extrato de trevo vermelho, usado para promover a produção de colágeno e elastina, melhorando a firmeza e elasticidade da pele.",
+        "ref ": "[326][A2][F]"
+    },
+    {
+        "nameUs": "Factor I",
+        "category": 2,
+        "nameLatin": "Fibrinogen",
+        "namePt": "Fibrinogênio",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Proteína necessária para a formação de coágulo, é produzido quando há lesão de um vaso sanguíneo.",
+        "ref ": "[406]"
+    },
+    {
+        "nameUs": "Factor Ia",
+        "category": 2,
+        "nameLatin": "Fibrin",
+        "namePt": "Fibrina",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Ajuda a fechar feridas, iniciando o processo de cicatrização.",
+        "ref ": "[403]"
+    },
+    {
+        "nameUs": "Factor IIa",
+        "category": 2,
+        "nameLatin": "Thrombin",
+        "namePt": "Trombina",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Polipeptídeo plasmático que acelera a conversão de fibrinogênio em fibrina, proteína que ajuda no processo de cicatrização.",
+        "ref ": "[404]"
+    },
+    {
+        "nameUs": "Fat",
+        "category": 2,
+        "nameLatin": "Lipid",
+        "namePt": "Lipídio",
+        "origin": "Natural, encontrados em animais, vegetais e no corpo humano.",
+        "mainFunction": "Principal forma de armazenamento de energia no corpo, sendo acumulados no citoplasma das células de gordura. Também tem como função o isolamento térmico, é um componente das membranas celulares, transporta nutrientes e vitaminas, é um isolante que permite a condução do impulso nervoso, etc.",
+        "ref ": "[458] [459]"
+    },
+    {
+        "nameUs": "Fator de crescimento epidérmico",
+        "category": 2,
+        "nameLatin": "Epidermal Growth Factor ",
+        "namePt": "EGF",
+        "origin": "Sintético, produzido em laboratório por meio da engenharia genética, utilizando células hospedeiras como bactérias ou leveduras para produzir a proteína EGF.",
+        "mainFunction": "Peptídeo, utilizado para estimular a regeneração celular e promover a cicatrização.",
+        "ref ": "[285][A2][F][G1]"
+    },
+    {
+        "nameUs": "Fibrinolysin",
+        "category": 2,
+        "nameLatin": "Hematin",
+        "namePt": "Hematina",
+        "origin": "Natural, tem origem da hemina humana, que é extraída do sangue humano, sendo que a hemina se transforma em hematina em condições básicas.",
+        "mainFunction": "Utilizado para corrigir deficiência de heme no figado e acabar com a formação de produtores de profirinas.",
+        "ref ": "[383]"
+    },
+    {
+        "nameUs": "Finacea",
+        "category": 2,
+        "nameLatin": "Azelaic acid",
+        "namePt": "Ácido azelaico",
+        "origin": "Artifical, a partir da oxidação do ácido ricinolo (ômega 9), este produzido através de processos com o  óleo de mamona hidrolizado",
+        "mainFunction": "Agente tampão, destinado a estabilizar o pH dos produtos cosméticos",
+        "ref ": "[A2] [E] [155]"
+    },
+    {
+        "nameUs": "Formalin",
+        "category": 2,
+        "nameLatin": "Formaldehyde",
+        "namePt": "Formaldeído",
+        "origin": "Artificial, a partir do metanol, que é um álcool muito tóxico à saúde.",
+        "mainFunction": "Emoliente, utilizado contra bactérias e fungos e é estável em pH de 3 a 9. ",
+        "ref ": "[A2][E][230]"
+    },
+    {
+        "nameUs": "Framboesa cetona",
+        "category": 2,
+        "nameLatin": "Raspberry Ketone",
+        "namePt": "4-(4-Hydroxyphenyl)butan-2-one",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Agente clareador, utilizado para reduzir a hiperpigmentação e uniformizar o tom da pele.",
+        "ref ": "[325][A2][F][G1]"
+    },
+    {
+        "nameUs": "Fucogel",
+        "category": 2,
+        "nameLatin": "Biosaccharide GUM-1",
+        "namePt": "Goma biosacarídeo-1",
+        "origin": "Artificial, a partir do álcool sorbitol com processos de extração de substratos vegetais, como o milho ",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [160] [161]"
+    },
+    {
+        "nameUs": "Gastrointestinal hormone",
+        "category": 2,
+        "nameLatin": "Gastrin",
+        "namePt": "Gastrina",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Faz com que o estômago produza ácido para dissolver e digerir alimentos, tabém ajuda no crescimento normal da mucosa do estômago, intestino delgado e cólon.",
+        "ref ": "[391]"
+    },
+    {
+        "nameUs": "Globulin",
+        "category": 2,
+        "nameLatin": "Globulin",
+        "namePt": "Globulina",
+        "origin": "Natural, produzida no fígado dos seres humanos.",
+        "mainFunction": "Ajudam no transporte de substâncias essenciais para o funcionamento do organismo. ",
+        "ref ": "[363] [364]"
+    },
+    {
+        "nameUs": "Gluconic Acid Zinc(II) Salt",
+        "category": 2,
+        "nameLatin": "Zinc gluconate",
+        "namePt": "Gluconato de zinco",
+        "origin": "Artificial, a partir de ácido glucônico, óxido de zinco, água, dióxido de carbono com agitação e aquecimento",
+        "mainFunction": "Desodorizante, destinado a de reduzir ou ocultar odores corporais desagradáveis",
+        "ref ": "[A2] [E] [184]"
+    },
+    {
+        "nameUs": "Glucosinolates",
+        "category": 2,
+        "nameLatin": "Glucosinolates",
+        "namePt": "Glucosinolatos",
+        "origin": "Naturais, encontrados nas brássicas, como repolho e brócolis.",
+        "mainFunction": "Compostos químicos que contêm enxofre.",
+        "ref ": "[351]"
+    },
+    {
+        "nameUs": "Glutamic acid",
+        "category": 2,
+        "nameLatin": "Glu",
+        "namePt": "Ácido glutâmico",
+        "origin": "Natural, encontrado em alimentos de origem animal e vegetal, como ovos, leite, queijos, carnes, aspargo, agrião e alface.",
+        "mainFunction": "Aminoácido importante para o bom funcionamento do cérebro e para a formação de outroas substâncias essenciais para o corpo. Também é importante para o bom funcionamento do sistema imunológico, produção de energia e de proteínas, melhora da função cardíaca e do cérebro e eliminação de substâncias tóxicas da circulação.",
+        "ref ": "[508]"
+    },
+    {
+        "nameUs": "Glutamine",
+        "category": 2,
+        "nameLatin": "L-glutamine",
+        "namePt": "Glutamina",
+        "origin": "Natural e sintética, produzida pelo corpo humano, encontrada em alimentos como carne vermelha, ovos, espinafre, frango e peixe, ou produzida sinteticamente,  ",
+        "mainFunction": "Melhora as funções intestinais, o sistema imunológico e auxilía atletas na recuperação muscular e síntese de proteínas.",
+        "ref ": "[414] [415] [416]"
+    },
+    {
+        "nameUs": "Glutationa",
+        "category": 2,
+        "nameLatin": "Glutathione",
+        "namePt": "γ-L-Glutamyl-L-cysteinylglycine",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Tripeptídeo antioxidante, usado na ajuda a proteger a pele dos danos causados pelos radicais livres e promove a regeneração celular.",
+        "ref ": "[317][E] [G1]"
+    },
+    {
+        "nameUs": "Glyceryl stearate",
+        "category": 2,
+        "nameLatin": "Glyceryl stearate SE",
+        "namePt": "Monoestearato de glicerila (MEG AE)",
+        "origin": "Artificial, a partir da reação do ácido esteárico com a glicerina e misturado com 1% a 5% de sabões graxos",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [94]"
+    },
+    {
+        "nameUs": "Glycine",
+        "category": 2,
+        "nameLatin": "Glycine",
+        "namePt": "Glicina",
+        "origin": "Natural, é produzida pelo corpo humano e encontrada em alimentos ricos em proteínas.",
+        "mainFunction": "Fortalece o sistema imune, previne o aparecimento de doenças cardiovasculares, estimula o ganho de massa muscular e garante firmeza e elasticidade a pele. ",
+        "ref ": "[324] [325]"
+    },
+    {
+        "nameUs": "Glycine soja oil",
+        "category": 2,
+        "nameLatin": "Glycerine Soja Oil",
+        "namePt": "Óleo de Glycine Soja ",
+        "origin": "Natural, encontrado na soja, obtido a partir da prensagem ou extração.",
+        "mainFunction": "Utilizado para amaçiar e suavizar a pele.",
+        "ref ": "[454]"
+    },
+    {
+        "nameUs": "Growth hormone",
+        "category": 2,
+        "nameLatin": "Somatotropin (Growth Hormone)",
+        "namePt": "Somatotropina (Hormônio do Crescimento)",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Hormônio que estimula o crescimento de tecidos, como ossos e cartilagens.",
+        "ref ": "[397]"
+    },
+    {
+        "nameUs": "GSLs",
+        "category": 2,
+        "nameLatin": "Glucagon-like peptide 1 (GLP-1)",
+        "namePt": "Peptídeo semelhante ao glucagon 1 (GLP-1)",
+        "origin": "Natural, produzido pelo corpo humano pelo intestino, pâncreas e sistema nervoso central.",
+        "mainFunction": "Aumenta a liberação de insulina, age para diminuir a liberação de glucagon e o esvaziamento gástrico, reduz a glicemia e a ingestão de alimentos.",
+        "ref ": "[470] [471]"
+    },
+    {
+        "nameUs": "Gummi xanthanum",
+        "category": 2,
+        "nameLatin": "Xanthan gum",
+        "namePt": "Goma xantana",
+        "origin": "Artificial, a partir da fermentação química de um carboidrato (frutas e legumes por exemplo) com a bactéria Xanthomonas campestris",
+        "mainFunction": "Ligante, destinado a fornecer coesão em cosméticos",
+        "ref ": "[A1][A2] [E] "
+    },
+    {
+        "nameUs": "Haemoglobin",
+        "category": 2,
+        "nameLatin": "Hemoglobin",
+        "namePt": "Hemoglobina",
+        "origin": "Natural, proteína que está presente na corrente sanguínea de animais. ",
+        "mainFunction": "Proteína responsável por transportar oxigênio dos pulmões para os tecidos, pelos glóbulos vermelhos",
+        "ref ": "[297] [298]"
+    },
+    {
+        "nameUs": "Hendecanoic Acid",
+        "category": 2,
+        "nameLatin": "Undecanoic Acid",
+        "namePt": "Ácido Undecanóico",
+        "origin": "Natural a partir de óleo de castor e de linhaça.",
+        "mainFunction": "Antisséptico e antibacteriano, utilizado em formulações para combater a proliferação de bactérias e fungos na pele.",
+        "ref ": "[A2] [E] [253]"
+    },
+    {
+        "nameUs": "Hexahydro-1,3,5-tris(2-hydroxyethyl)-S-triazine",
+        "category": 2,
+        "nameLatin": "Phenol",
+        "namePt": "Fenol",
+        "origin": "Natural, encontrado no alcatrão de hulha (carvão mineral).",
+        "mainFunction": "Utilizado como antisséptico e anestésico no tratamento de feridas.",
+        "ref ": "[269] [270]"
+    },
+    {
+        "nameUs": "Hexamoll DINCH",
+        "category": 2,
+        "nameLatin": "Phthalates",
+        "namePt": "Ftalatos",
+        "origin": "Natural, a partir do anidrido ftálico (obtido por oxidação do naftaleno) e álcoois, por processos convencionais de esterificação",
+        "mainFunction": "Composto, utilizado para estabilizar cores, perfumes e texturas.",
+        "ref ": "[A2][E][229] "
+    },
+    {
+        "nameUs": "hexanoic acid",
+        "category": 2,
+        "nameLatin": "Lactobionic Acid",
+        "namePt": "Ácido Lactobiônico",
+        "origin": "Artificial, a partir da oxidação química ou microbiana da lactose.",
+        "mainFunction": "Emoliente, usado como antioxidante, hidratante, rejuvenescedor e cicatrizante, muito utilizado em cosméticos anti-idade e que combatem o fotoenvelhecimento.",
+        "ref ": "[A2][E][218]"
+    },
+    {
+        "nameUs": "Hexyl cinnamal",
+        "category": 2,
+        "nameLatin": "Cinnamaldehyde",
+        "namePt": "Hexil cinamaldeído",
+        "origin": "Artificial, a partir da separação por etapas do composto encontrado em óleos essenciais de casca de canela e canela cássia.",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto. ",
+        "ref ": "[F] [E] [141]"
+    },
+    {
+        "nameUs": "Hipromelose",
+        "category": 2,
+        "nameLatin": "hydroxypropyl methylcellulose",
+        "namePt": "hidroxipropilmetilcelulose",
+        "origin": "Artificial, a partir de um tratamento com álcali e óxido de propileno.",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[A2] [E] "
+    },
+    {
+        "nameUs": "Histidine",
+        "category": 2,
+        "nameLatin": "Histidine",
+        "namePt": "Histidina",
+        "origin": "Natural, encontrada em alimentos ricos em proteínas e produzida pelo corpo humano em pouca quantidade.",
+        "mainFunction": "Ajuda na produção de células sanguíneas e na manutenção das células do sistema nervoso. Possui ação antioxidante, anti-inflamatória e anti-secretora, ajudando a manter a saúde gástrica, evitar doenças cardíacas e prevenir o envelhecimento precoce.",
+        "ref ": "[328]"
+    },
+    {
+        "nameUs": "homopolymer",
+        "category": 2,
+        "nameLatin": "Polyglyceryl-3 caprylate",
+        "namePt": "Caprato de Policeril-3",
+        "origin": "Artificial, a partir da glicerólise de óleo de peixe utilizando-se a lipase Novozym® 435 como catalisador.",
+        "mainFunction": "Surfactante, destinado a diminuir a tensão superficial do cosmético, bem como auxiliar a distribuição uniforme do produto",
+        "ref ": "[77] [E]"
+    },
+    {
+        "nameUs": "Hormone from the pancreas",
+        "category": 2,
+        "nameLatin": "Insulin",
+        "namePt": "Insulina",
+        "origin": "Natural e sintética, produzida pelo corpo humano ou produzida em laboratório através da bactéria Escherichia coli.",
+        "mainFunction": "Ajuda no tranporte do açúcar do sangue para as células do corpo, onde será usado como energia.",
+        "ref ": "[304] [305]"
+    },
+    {
+        "nameUs": "Hormone that constricts blood vessels",
+        "category": 2,
+        "nameLatin": "Angiotensin",
+        "namePt": "Angiotensina",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Hormônio que causa a contração do músculo liso vascular renal e das arteríolas, levando o rim a guardar sal e água e aumentar a pressão arterial.",
+        "ref ": "[410]"
+    },
+    {
+        "nameUs": "Hormone that regulates hunger",
+        "category": 2,
+        "nameLatin": "Leptin",
+        "namePt": "Leptina",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Ajuda na regulação da ingestão de alimentos e no gasto de energia, gerando um aumento na queima de energia e diminuindo a ingestão alimentar.",
+        "ref ": "[392]"
+    },
+    {
+        "nameUs": "Hunger hormone",
+        "category": 2,
+        "nameLatin": "Ghrelin",
+        "namePt": "Ghrelina",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Peptídeo capaz de liberar hormônio de crescimento, além de aumentar a ingestão alimentar.",
+        "ref ": "[407]"
+    },
+    {
+        "nameUs": "Hyaluronic acid sodium",
+        "category": 2,
+        "nameLatin": "Sodium hyaluronate",
+        "namePt": "Hialuronato de sódio",
+        "origin": "Artificial, a partir  da fração definida do ácido hialurônico, obtida com elevado grau de pureza através de filtração molecular a partir de material biológico.",
+        "mainFunction": "Umectante, destinado a manter e reter a umidade do cosmético",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Hydriertes Lecithin",
+        "category": 2,
+        "nameLatin": "Hydrogenated lecithin",
+        "namePt": "Lecitina hidrogenada",
+        "origin": "Artificial, a partir de processos de hidrogenização da lecitina, a qual é extraída geralmente pelo processo de aquecimento e preciptação nos óleos de soja e milho ou isolada quimicamente das gemas de ovos",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [174] [175]"
+    },
+    {
+        "nameUs": "Hydrocortisone",
+        "category": 2,
+        "nameLatin": "Cortisol",
+        "namePt": "Cortisol",
+        "origin": "Natural, hormônio produzido pelas glândulas suprarrenais, que estão localizadas acima dos rins no corpo humano.",
+        "mainFunction": "Tem como função controlar o estresse, reduzir inflamações, ajudar no funcionamento do sistema imune e manter os níveis de açúcar no sangue constantes. ",
+        "ref ": "[307]"
+    },
+    {
+        "nameUs": "Hydroxcitronellal",
+        "category": 2,
+        "nameLatin": "Hydroxycitronellal",
+        "namePt": "Hidroxicitronelal",
+        "origin": "Artificial, a partir do composto com odor de limão, o citronelal, em reação com a dietanolamina, ácido sulfúrico e água",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[A2] [E] [121]"
+    },
+    {
+        "nameUs": "hydroxy",
+        "category": 2,
+        "nameLatin": "Steareth-2",
+        "namePt": "Álcool estearílico etoxilado 2 EO",
+        "origin": "Artificial, a partir do ácido esteárico, álcool cetílico e óxido de etileno",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [83] [N]"
+    },
+    {
+        "nameUs": "hydroxyacetic acid",
+        "category": 2,
+        "nameLatin": "Glycolic Acid",
+        "namePt": "Ácido Glicólico",
+        "origin": "Natural, a partir da reação do ácido cloroacético com o hidróxido de sódio, seguida de uma re-acidificação.",
+        "mainFunction": "Composto, utilizado como potencializador a renovador celular, suaviza os sinais de envelhecimento, favorece o rejuvenescimento, equilibra a textura e a oleosidade da pele e atua no clareamento de manchas e atenua cicatrizes.",
+        "ref ": "[A1][E]215]"
+    },
+    {
+        "nameUs": "hydroxycinnamic acids",
+        "category": 2,
+        "nameLatin": "Ferulic Acid",
+        "namePt": "Ácido Ferúlico",
+        "origin": "Natural, a partir das plantas, produzido como uma resposta às variações que o ambiente pode apresentar.",
+        "mainFunction": "Ativo, usado na prevenção do envelhecimento, através da proteção da pele contra radicais livres, e no rejuvenescimento, suavizando rugas e linhas de expressão.",
+        "ref ": "[A1][E][214]"
+    },
+    {
+        "nameUs": "Hydroxyethyl urea",
+        "category": 2,
+        "nameLatin": "Hydroxyethyl Urea",
+        "namePt": "Hidroxietil ureia",
+        "origin": "Natural, encontrada na ele humana.",
+        "mainFunction": "Agente hidratante, ajuda a reter a umidade na pele e evitando a perda de água transepidermal.",
+        "ref ": "[447]"
+    },
+    {
+        "nameUs": "Hydroxypropylmethylcellulose",
+        "category": 2,
+        "nameLatin": "HPMC",
+        "namePt": "Hidroxipropilmetilcelulose",
+        "origin": "Sintético, forma modificada da celulose.",
+        "mainFunction": "Utilizado para permitir que as partículas se distribuam por todo o produto, estabilizar, formar grânulos e aumentar a viscosidade em cosméticos. ",
+        "ref ": "[488] [489] [490]"
+    },
+    {
+        "nameUs": "Hyperglycemic-glycogenolytic factor",
+        "category": 2,
+        "nameLatin": "Glucagon",
+        "namePt": "Glucagon",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Estimula a produção de glicose pelo fígado",
+        "ref ": "[398] [399]"
+    },
+    {
+        "nameUs": "hypoallergenic",
+        "category": 2,
+        "nameLatin": "Sodium stearoyl glutamate",
+        "namePt": "Estearoil glutamato de sódio",
+        "origin": "Artificial, a partir do ácido glutâmico e ácidos graxos vegetais como o de palma ou de coco",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [N] [142]"
+    },
+    {
+        "nameUs": "Idebenona",
+        "category": 2,
+        "nameLatin": "Idebenone",
+        "namePt": "2,3-Dimethoxy-5-methyl-6-(10-hydroxydecyl)-1,4-benzoquinone",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Antioxidante, utilizado para proteger a pele contra danos causados pelo estresse oxidativo e envelhecimento.",
+        "ref ": "[318][E][F][G1]"
+    },
+    {
+        "nameUs": "inositol hexaphosphate",
+        "category": 2,
+        "nameLatin": "Phytic Acid",
+        "namePt": "Ácido Fítico",
+        "origin": "Natural, a partir da extração de sementes vegetais de leguminosas como arroz, feijão, soja e outras.",
+        "mainFunction": "Antoxidante, utilizado para reduzir o estresse oxidativo e os processos inflamatórios e previnem a hiperpigmentação pós-inflamatória.",
+        "ref ": "[A1][E][213][N]"
+    },
+    {
+        "nameUs": "Irgasan DP-300",
+        "category": 2,
+        "nameLatin": "Triclosan",
+        "namePt": "Triclosan",
+        "origin": "Artificial, a partir da combinação de carbono, hidrogênio, Cloro  e gâs oxigênio ",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Isoamyl Laurate",
+        "category": 2,
+        "nameLatin": "Isoamyl Laurate",
+        "namePt": "Laurato de isoamila",
+        "origin": "Sintético, pode ser produzido a partir do ácido láurico.",
+        "mainFunction": "Emulsificante e estabilizante (ajudam a manter substâncias misturadas), também pode ser usado como agente condicionador em produtos capilares, facilitando o desembaraçamento, ajudando a diminuir a quebra dos fios e selar as cutículas capilares.",
+        "ref ": "[523] [524] [525]"
+    },
+    {
+        "nameUs": "Isodonol",
+        "category": 2,
+        "nameLatin": "Oridonin",
+        "namePt": "Oridonina",
+        "origin": "Artificial, a partir de processos de extração e isolamento das folhas da erva Rabdosia rubescens",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [79]"
+    },
+    {
+        "nameUs": "Isoleucine",
+        "category": 2,
+        "nameLatin": "Isoleucine",
+        "namePt": "Isoleucina",
+        "origin": "Natural e sintética, encontrada em alimentos ou em suplementos alimentares.",
+        "mainFunction": "Ajuda na produção de proteínas, no ganho de massa muscular, aumenta a disposição e dá energia. ",
+        "ref ": "[331]"
+    },
+    {
+        "nameUs": "Isopropyl palmitate",
+        "category": 2,
+        "nameLatin": "Isopropyl palmitate",
+        "namePt": "Palmitato de isopropila",
+        "origin": "Artificial, a partir da reação do ácido palmítico (principal componente do óleo de palma) com o álcool isopropílico",
+        "mainFunction": "Ligante, destinado a fornecer coesão em cosméticos",
+        "ref ": "[A2] [E] [84]"
+    },
+    {
+        "nameUs": "Keratin",
+        "category": 2,
+        "nameLatin": "Keratin",
+        "namePt": "Queratina",
+        "origin": "Natural, produzida pelo corpo humano e por animais.",
+        "mainFunction": "Garante firmeza, elasticidade e firmeza para a pele, o cabelo e as unhas dos seres humanos e em animais forma penas e chifres.",
+        "ref ": "[360] [361] [362]"
+    },
+    {
+        "nameUs": "Kidney enzyme",
+        "category": 2,
+        "nameLatin": "Renin",
+        "namePt": "Renina",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Enzima que ajuda na formação de angiotensina, ajudando a regular a pressão arterial.",
+        "ref ": "[408] [409]"
+    },
+    {
+        "nameUs": "Kojic Dipalmitate",
+        "category": 2,
+        "nameLatin": "Kojic Dipalmitate",
+        "namePt": "Kojic acid dipalmitate",
+        "origin": "Sintético, produzido em laboratório por meio da modificação química do ácido kojico.",
+        "mainFunction": "Derivado do ácido kójico, usado para clarear a pele e reduzir a produção de melanina.",
+        "ref ": "[305][A2][F]"
+    },
+    {
+        "nameUs": "L-ascorbic acid",
+        "category": 2,
+        "nameLatin": "Ascorbic acid (Vitamin C)",
+        "namePt": "Ácido ascórbico (Vitamina C)",
+        "origin": "Natural e sintético, pode ser encontrada em frutas, flores e folhagens ou produzida a partir de uma síntese de glicose em laboratório. ",
+        "mainFunction": "Participa do crescimento dos tecidos, perticipa da regulação do sistema nervoso central, defesa do organismo contra infecções, auxilia no cuidado dos vasos sanguíneos, auxilia na cicatrização de feridas, etc.",
+        "ref ": "[302]"
+    },
+    {
+        "nameUs": "Lanolin (Gardner 6-8) ",
+        "category": 2,
+        "nameLatin": "PEG-30 Lanolin",
+        "namePt": "Polietilenoglicol 30 Lanolina",
+        "origin": "Artificial, a partir do petróleo e do composto lanolina, um óleo natural das glândulas sebáceas de ovelha que é obtido a partir da lã tosada",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [144] [145]"
+    },
+    {
+        "nameUs": "Lauryl Glycoside",
+        "category": 2,
+        "nameLatin": "Laurylglucosid",
+        "namePt": "Lauryl glucoside",
+        "origin": "Natural e sintético, de origem vegetal ou sintético.",
+        "mainFunction": "Utilizado para proporciona viscosidade para sabonetes líquidos, além da possibilidade de atuar reduzindo a tensão superficial em diversas formulações.",
+        "ref ": "[517] [518]"
+    },
+    {
+        "nameUs": "Lavender",
+        "category": 2,
+        "nameLatin": "Linalool",
+        "namePt": "Linalol",
+        "origin": "Artificial, a partir da reação do composto 2-metil-2-hepten-6-ona com acetileno e o produto é parcialmente hidrogenado ou através do processo de destilação por arraste de vapor em algumas plantas como manjerião, pau-rosa, loro e plantas cítricas",
+        "mainFunction": "Desodorizante, destinado a reduzir ou ocultar odores corporais desagradáveis",
+        "ref ": "[A2] [E] [89] [90]"
+    },
+    {
+        "nameUs": "Lemongrass Extract",
+        "category": 2,
+        "nameLatin": "Cymbopogon schoenanthus extract",
+        "namePt": "Extrato de capim-limão\/ capim-santo",
+        "origin": "Artificial, a partir de processos de extração do sumo das folhas,flores,caules, hastes,cascas ou raízes do capim-santo\/ capim-limão",
+        "mainFunction": "Calmante, destinado a ajudar no alívio de desconfortos na pele ou no couro cabeludo ",
+        "ref ": "[A2] [E] [139] [140]"
+    },
+    {
+        "nameUs": "Lemonol",
+        "category": 2,
+        "nameLatin": "Geraniol",
+        "namePt": "Geraniol",
+        "origin": "Artificial, a partir do isolamento do composto encontrado em óleos essenciais de citronela, palmarosa ou produzido a partir de reações em altas temperaturas com o pireno, substância com aroma de manjericão",
+        "mainFunction": "Tônico, destinado a produzir uma sensação de bem-estar na pele e cabelo",
+        "ref ": "[A2] [E] [127] [128]"
+    },
+    {
+        "nameUs": "Leucine",
+        "category": 2,
+        "nameLatin": "Leucine",
+        "namePt": "Leucina",
+        "origin": "Natural, encontrada em alimentos ricos em proteínas, como queijo, soja, ovos, peixe, etc.",
+        "mainFunction": "Fornece energia para os músculos, estimulando a produção e a manutenção da massa muscular, a força, o equilíbrio e a resistência.",
+        "ref ": "[330]"
+    },
+    {
+        "nameUs": "Lilial",
+        "category": 2,
+        "nameLatin": "Butylphenyl methylpropional",
+        "namePt": "Butilfenil metilpropional",
+        "origin": "Artificial, a partir de uma dupla oxidação avançada no composto 4-terc-butil tolueno",
+        "mainFunction": "Mascarante, destinado a reduzir ou inibir o odor ou o sabor de base do produto",
+        "ref ": "[A2] [E] [87]"
+    },
+    {
+        "nameUs": "Limonene",
+        "category": 2,
+        "nameLatin": "Limonene",
+        "namePt": "Limoneno",
+        "origin": "Artificial, a partir do processo de separação por centrifugação e destilação por arraste de vapor do óleo de casca de plantas cítricas",
+        "mainFunction": "Desodorizante, destinado a reduzir ou ocultar odores corporais desagradáveis",
+        "ref ": "[F] [E] [91]"
+    },
+    {
+        "nameUs": "Linoleic acid",
+        "category": 2,
+        "nameLatin": "LA",
+        "namePt": "Ácido linoleico",
+        "origin": "Natural, encontrado em óleos vegetais, como óleos de milho, soja, algodão e outros.",
+        "mainFunction": "Utilizado na composição de produtos cosméticos para ajudar a restaurar a função de barreira da pele, por meio da reconstrução do manto lipídico. Ele também pode estimular a produção de ceramidas, melhorando a hidratação e a perda de água por transpiração. No corpo humano, ele é importante para a manutenção da saúde cardiovascular, da integridade da pele e da regulação dos processos inflamatórios.",
+        "ref ": "[509] [510] [511]"
+    },
+    {
+        "nameUs": "Linolenic acid",
+        "category": 2,
+        "nameLatin": "Linolenic acid",
+        "namePt": "Ácido linolênico",
+        "origin": "Natural, encontrado em alimentos de origem animal, como peixes e aves.",
+        "mainFunction": "Utilizado para melhorar a função de barreira da pele e deminuir a perda de água  da pele pelo suor.",
+        "ref ": "[514] [515]"
+    },
+    {
+        "nameUs": "Linum Usitatissimum Oil\r",
+        "category": 2,
+        "nameLatin": "Linum Usitatissimum Seed Oil",
+        "namePt": "Óleo de semente de usitatissimum",
+        "origin": "Natural, óleo prensado a partir da semente seca e madura de linho",
+        "mainFunction": "Emoliente, responsável por suavizar e amaciar a pele. Também é utilizado como solvente.",
+        "ref ": "[528]"
+    },
+    {
+        "nameUs": "Lipase",
+        "category": 2,
+        "nameLatin": "Lipase",
+        "namePt": "Lipase",
+        "origin": "Natural, produzida pelo pâncreas no corpo humano.",
+        "mainFunction": "Enzima que participa da digestao alimentar ajudando o organismo a quebrar as moléculas de gordura para serem absorvidas com mais facilidade pelo intestino. ",
+        "ref ": "[354] [355]"
+    },
+    {
+        "nameUs": "Lyral",
+        "category": 2,
+        "nameLatin": "Hydroxyisohexyl 3-cyclohexene carboxaldehyde",
+        "namePt": "Lyral",
+        "origin": "Artificial, a partir do composto mirceno, o qual é encontrado naturalmente nas plantas tomilho, lúpulo e capim-limão",
+        "mainFunction": "Perfume, usada para perfumes e matérias-primas aromáticas",
+        "ref ": "[E] [126]"
+    },
+    {
+        "nameUs": "Lysine",
+        "category": 2,
+        "nameLatin": "Lysine",
+        "namePt": "Lisina",
+        "origin": "Natural, encontrada em alimentos como leite, soja e carne.",
+        "mainFunction": "Ajuda a combater infecções por vírus e também facilita a absorção de cálcio.",
+        "ref ": "[321]"
+    },
+    {
+        "nameUs": "Macrogol",
+        "category": 2,
+        "nameLatin": "Polyethylene glycol ",
+        "namePt": "Polietilenoglicol",
+        "origin": "Sintético, polímero formado a aprtir do etileno glicol.",
+        "mainFunction": "Laxatico osmótico utilizado para o tratamento da constipação.",
+        "ref ": "[424] [425]"
+    },
+    {
+        "nameUs": "Madecassoside",
+        "category": 2,
+        "nameLatin": "Madecassoside",
+        "namePt": "Madecassic acid",
+        "origin": "Natural, encontrado na planta Centella asiatica, também conhecida como Gotu Kola.",
+        "mainFunction": "Ácido, utilizado por suas propriedades calmantes e reparadoras.",
+        "ref ": "[290][E][F]"
+    },
+    {
+        "nameUs": "Magnesium sulfate",
+        "category": 2,
+        "nameLatin": "Epsom salt",
+        "namePt": "Sulfato de magnésio",
+        "origin": "Artificial,  a partir da reação do ácido súlfurico com magnésio ou com seus óxidos",
+        "mainFunction": "Surfactante, destinado a diminuir a tensão superficial do cosmético, bem como auxiliar a distribuição uniforme do produto",
+        "ref ": "[A2] [E] [42] [45]"
+    },
+    {
+        "nameUs": "Matrixyl 3000",
+        "category": 2,
+        "nameLatin": "Matrixyl 3000",
+        "namePt": "Palmitoyl tetrapeptide-7",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Peptídeo, usado para reduzir a inflamação da pele e melhorar a aparência das rugas.",
+        "ref ": "[308][A2][G1]"
+    },
+    {
+        "nameUs": "MBBT",
+        "category": 2,
+        "nameLatin": "Methylene bis-benzotriazolyl tetramethylbutylphenol",
+        "namePt": "Bisoctrizole",
+        "origin": "Artificial, a partir da absorção de UV híbrido, que é descrito como um filtro de UV orgânico produzido em partes orgânicas microfinas.",
+        "mainFunction": "Filtro UV, destinado a filtrar certos raios UV, a fim de proteger a pele ou os cabelos contra os efeitos nocivos destas radiações",
+        "ref ": "[F] [E] [78]"
+    },
+    {
+        "nameUs": "MCI",
+        "category": 2,
+        "nameLatin": "Methylchloroisothiazolinone",
+        "namePt": "Metilcloroisotiazolinona ",
+        "origin": "Artifcial, a partir da síntese do conservante Metilisotiazolinona como seu subproduto, ou através de processos químicos com amidas e com compostos formadores de ácidos carboxílicos ",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso. Presente em produtos cosméticos, como shampoos e cremes, por suas propriedades antifúngico e bactericida.",
+        "ref ": "[A2] [E] [138] [426] [427]"
+    },
+    {
+        "nameUs": "Melatonina",
+        "category": 2,
+        "nameLatin": "Melatonin",
+        "namePt": "N-Acetyl-5-methoxytryptamine",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Antioxidante, utilizado para proteger a pele dos danos causados pelos radicais livres e promover o reparo celular durante a noite.",
+        "ref ": "[321][E][F]"
+    },
+    {
+        "nameUs": "Methionine",
+        "category": 2,
+        "nameLatin": "Methionine",
+        "namePt": "Metionina",
+        "origin": "Natural e sintética, encontrada em alimentos ricos em proteínas ou produzida sinteticamente.",
+        "mainFunction": "Ajuda no ganho de massa muscular, fortalece o sistema imunológico e ajuda na produção de energia.",
+        "ref ": "[332] [333]"
+    },
+    {
+        "nameUs": "Methyl acetate",
+        "category": 2,
+        "nameLatin": "Methyl ethanoate",
+        "namePt": "Acetato de metila",
+        "origin": "Sintético, produzido pela reação de ácido acético com metanol.",
+        "mainFunction": "Utilizado na produção de perfumes e outros cosméticos.",
+        "ref ": "[444] [445]"
+    },
+    {
+        "nameUs": "Methyl Laurate",
+        "category": 2,
+        "nameLatin": "Methyl Laurate",
+        "namePt": "Laurato de Metila",
+        "origin": "Artificial a partir de ácido láurico e metanol.",
+        "mainFunction": "Emulsificante utilizado, para misturar ingredientes de produtos corporais.",
+        "ref ": "[A2] [E] [252]"
+    },
+    {
+        "nameUs": "Methyl Salicylate ",
+        "category": 2,
+        "nameLatin": "Methyl Salicylate",
+        "namePt": "Salicilato de metila",
+        "origin": "Natural e sintético, encontrado em plantas como galtérias e bétulas, ou produzido em laboratório pela reação entre ácido salicílico e o metanol, com catálise ácida.",
+        "mainFunction": "Agente esfoliante, utilizado em produtos de cuidado facial para remover células mortas da pele e melhorar a textura. Tabém é utilizado como anti-inflamatório e analgésico indicado para o tratamento de torcicolo, dor lombar, reumatismo, tendinite, bursite ou espasmos e tensões musculares.",
+        "ref ": "[A2] [E] [264] [373] [374]"
+    },
+    {
+        "nameUs": "Methylguanidine-acetic acid",
+        "category": 2,
+        "nameLatin": "Creatine",
+        "namePt": "Creatina",
+        "origin": "Nutriente natural e de origem animal, é sintetizada no fígado, no pâncreas e nos ríns a partir de alguns aminoácidos ( glicina, arginina e metionina).",
+        "mainFunction": "Fonte de produção de energia para as células musculares, de modo que melhora a força e o tônus muscular. ",
+        "ref ": "[295] [296]"
+    },
+    {
+        "nameUs": "Microcrystalline Cellulose",
+        "category": 2,
+        "nameLatin": "Cellulose Powder",
+        "namePt": "Celulose em pó ",
+        "origin": "Artificial; a partir da moagem a seco e\/ou hidrólise ácida de folhas de papel de celulose produzidas a partir da polpa de madeiras de plantas, como da árvore bétula.",
+        "mainFunction": "Emulsificante; destinado a tornar as fases de compostos que não se misturam mais uniformes possível.",
+        "ref ": "[E] [320]"
+    },
+    {
+        "nameUs": "Mustela",
+        "category": 2,
+        "nameLatin": "Mustela Cera",
+        "namePt": "Cera de Vison",
+        "origin": "Artificial, a partir de gorduras da pele do animal vison (também chamado de mink) ",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[A2] [E] [168]"
+    },
+    {
+        "nameUs": "N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine",
+        "category": 2,
+        "nameLatin": "EDTA (Ethylene diamine tetraacetic acid)",
+        "namePt": "EDTA",
+        "origin": "Sintético, produzido a partir da etilenodiamina, formaldeído e uma fonte de cianeto.",
+        "mainFunction": "Utilizado para evitar a mudança do cheiro, mudança de cor e evitar a redução do poder de limpeza e de espumação dos sabonetes e shampoos.",
+        "ref ": "[271] [272]"
+    },
+    {
+        "nameUs": "N-[3-(dimethylamino)propyl]stearamide",
+        "category": 2,
+        "nameLatin": "Stearamidopropyl dimethylamine",
+        "namePt": "Estearamidopropil dimetilamina",
+        "origin": "Artificial, a partir de óleos vegetais",
+        "mainFunction": "Antiestático, destinado a reduzir as interações das cargas elétricas do produto e neutralizando-as ",
+        "ref ": "[A2] [E] [185]"
+    },
+    {
+        "nameUs": "N-coco acyl derivs.",
+        "category": 2,
+        "nameLatin": "Sodium Cocoyl Glutamate",
+        "namePt": "Cocoil Glutamato de Sódio",
+        "origin": "Artificial, a partir do óleo de coco, milho e açúcares de frutas em processos de fermentação",
+        "mainFunction": "Surfactante, destinado a diminuir a tensão superficial do cosmético, bem como auxiliar a distribuição uniforme do produto",
+        "ref ": "[A2] [E] [189]"
+    },
+    {
+        "nameUs": "Nano TiO2",
+        "category": 2,
+        "nameLatin": "Nanoparticulate titanium dioxide",
+        "namePt": "Dióxido de titânio nanoparticulado",
+        "origin": "Artificial, a partir da síntese química do dióxido de titânio seguida de moagem em moinhos de alta energia.",
+        "mainFunction": "filtro solar,  usado para proteger a pele dos danos causados pelos raios UV do sol.",
+        "ref ": "[239][A2][E]"
+    },
+    {
+        "nameUs": "Natriumsalicylat",
+        "category": 2,
+        "nameLatin": "Sodium salicylate",
+        "namePt": "Salicilato de sódio",
+        "origin": "Artificial, a partir da reação do fenolato de sódio com dióxido de carbono em altas temperaturas e pressão, e deriva do ácido salicílico, o qual é encontrado naturalmente em cascas de salgueiro, cravos e em óleos essenciais de diversas plantas",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E] [120] [134] "
+    },
+    {
+        "nameUs": "neuropeptídeos",
+        "category": 2,
+        "nameLatin": "Neuropeptides",
+        "namePt": "Neurotransmitter peptides",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Peptídeos, utilizados para ajudar a melhorar a comunicação celular e a função neuromuscular da pele.",
+        "ref ": "[322][E][G1]"
+    },
+    {
+        "nameUs": "Niacinamida",
+        "category": 2,
+        "nameLatin": "Niacinamide",
+        "namePt": "Vitamin B3",
+        "origin": "Natural e sintética. Também conhecida como niacinamida, pode ser encontrada em alimentos como carne, peixe e vegetais, ou produzida sinteticamente em laboratório.",
+        "mainFunction": "niacinamida, é usada para clarear a pele, reduzir a hiperpigmentação e melhorar a textura.",
+        "ref ": "[296][E][F]"
+    },
+    {
+        "nameUs": "Nitrilotriethanol Tris",
+        "category": 2,
+        "nameLatin": "Triethanolamine",
+        "namePt": "Trietanolamina",
+        "origin": "Artificial, a partir da sintetização do TEA, colocando amôniaem contato com óxido de etileno a uma temperatura.",
+        "mainFunction": "Solvente, usado para gerar emulsões estáveis em pH levemente alcalino.",
+        "ref ": "[A2][E][227]"
+    },
+    {
+        "nameUs": "Nome em inglês",
+        "category": 2,
+        "nameLatin": "Nome INCI",
+        "namePt": "Nome em português",
+        "origin": "Origem",
+        "mainFunction": "Funçao principal na formulação",
+        "Column6": "Funçao secundária",
+        "ref ": "Referencias"
+    },
+    {
+        "nameUs": "Norepinephrine",
+        "category": 2,
+        "nameLatin": "Noradrenaline",
+        "namePt": "Noradrenalina",
+        "origin": "Natural, homônio produzido pelas glândulas suprarrenais, localizadas acima dos rins no corpo humano. ",
+        "mainFunction": "Tem como função o aumento da glicose no sague, vasoconstrição, dilatação das pupilas e regulação do funcionamento do cérebro. ",
+        "ref ": "[306]"
+    },
+    {
+        "nameUs": "O,O-Diethyl O-pentyl phosphorothioate",
+        "category": 2,
+        "nameLatin": "Polyethylene glycol 30 lanolin",
+        "namePt": "Polietilenoglicol 30 Lanolina",
+        "origin": "Natural e sintético, de origem animal e petroquímica. ",
+        "mainFunction": "Utilizado como emulsificante e surfactante na indústria de cosméticos. ",
+        "ref ": "[278] [279]"
+    },
+    {
+        "nameUs": "Octadecan-1-ol",
+        "category": 2,
+        "nameLatin": "Stearyl alcohol",
+        "namePt": "Álcool estearílico",
+        "origin": "Artificial, a partir da adição de hidrogênio no ácido estearílico, e é encontrado naturalmente em óleos vegetais e sebos animais ",
+        "mainFunction": "Sobreengordurante, destinado a reabastecer os lípidos (gordura natural) do cabelo ou das camadas superiores da pele",
+        "ref ": "[A2] [E] [147]"
+    },
+    {
+        "nameUs": "Octadecanoic Acid",
+        "category": 2,
+        "nameLatin": "Stearic Acid",
+        "namePt": "Ácido Esteárico",
+        "origin": "Natural a partir de óleos vegetais como o de coco e de palma.",
+        "mainFunction": "Emoliente e estabilizante, utilizado em produtos corporais para hidratação e melhoria da textura.",
+        "ref ": "[A2] [E] [257] [264]"
+    },
+    {
+        "nameUs": "octadecyl",
+        "category": 2,
+        "nameLatin": "Steareth-20",
+        "namePt": "Álcool estearílico etoxilado 20 EO",
+        "origin": "Artificial, a partir do ácido esteárico, álcool cetílico e óxido de etileno",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [77] [83] [N]"
+    },
+    {
+        "nameUs": "Octadecyl octanoate",
+        "category": 2,
+        "nameLatin": "Stearyl caprylate",
+        "namePt": "Estearil caprilato",
+        "origin": "Artificial, a partir da reação ácido octanóico com éster octadecil",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [105]"
+    },
+    {
+        "nameUs": "Octanediol",
+        "category": 2,
+        "nameLatin": "Caprylyl glycol",
+        "namePt": "Caprilil glicol",
+        "origin": "Artificial, a partir da síntese do álcool etilenoglicol",
+        "mainFunction": "Condicionante de cabelo, destinado a deixar o cabelo mais fácil de pentear, flexível, macio e brilhante e \/ ou confere volume, leveza, brilho, etc.",
+        "ref ": "[A2] [E] [103]"
+    },
+    {
+        "nameUs": "Octanohydroxamic acid",
+        "category": 2,
+        "nameLatin": "Caprylhydroxamic acid",
+        "namePt": "Ácido caprilhidroxâmico",
+        "origin": "Artificial, a partir do coco, sendo preparado por processos químicos e físicos com os compostos cloridrato de hidroxilamina, álcool e os aceleradores da reação N-octoato e 4-dimetilaminopiridina",
+        "mainFunction": "Quelante, destinado a formar ligações com cargas químicas susceptíveis de afetar a estabilidade e\/ou o aspecto dos cosméticos",
+        "ref ": "[A2] [E] [169] [170] [171]"
+    },
+    {
+        "nameUs": "Octyl Acetate",
+        "category": 2,
+        "nameLatin": "Octyl Acetate",
+        "namePt": "Acetato de Octila",
+        "origin": "Artificial a partir de ácido acético e octanol.",
+        "mainFunction": "Emoliente, utilizado em loções corporais e cremes para hidratação da pele.",
+        "ref ": "[A2] [E] [259] [266]"
+    },
+    {
+        "nameUs": "Octyl methoxycinnamate",
+        "category": 2,
+        "nameLatin": "Ethylhexyl methoxycinnamate",
+        "namePt": "Metoxicinamato de Etilexila",
+        "origin": "Artificial, a partir da reação do ácido p-metoxicinâmico com 2-etil hexanol utilizando a enzima (aceleradora da reação) de Rhizopus oryzae",
+        "mainFunction": "Absorvedor de raios UV, destinado a proteger o produto cosmético dos efeitos da luz UV",
+        "ref ": "[A2] [E] [98]"
+    },
+    {
+        "nameUs": "Oestrogen",
+        "category": 2,
+        "nameLatin": "Estrogen",
+        "namePt": "Estrogênio",
+        "origin": "Natural e sintético, produzido pelos ovários no corpo humano ou produzido em laboratório artificialmente.",
+        "mainFunction": "Tem como função o desenvolvimento da mama e de pelos pubianos, tem um papel importante o ciclo menstrual, na saúde óssea, vascular e de reprodução.",
+        "ref ": "[310] [311]"
+    },
+    {
+        "nameUs": "Oils palm kernel hydrogenated",
+        "category": 2,
+        "nameLatin": "Hydrogenated palm kernel oil",
+        "namePt": "Óleo de palmiste hidrogenado",
+        "origin": "Artificial, a partir do óleo de palmiste extraído do núcleo da amêndoa da árvore do dendezeiro que passa por adição de hidrogênio para tornar-lo sólido",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E] [190] [191]"
+    },
+    {
+        "nameUs": "Olea europaea leaf extract",
+        "category": 2,
+        "nameLatin": "Olive leaf extract",
+        "namePt": "Extrato de folha de oliveira",
+        "origin": "Natural, a partir das folhas da oliveira (Olea europaea).",
+        "mainFunction": "antioxidante, utilizado para proteger a pele contra os danos causados pelos radicais livres, sendo usado em produtos para cuidados com a pele.",
+        "ref ": "[243][A2][E]"
+    },
+    {
+        "nameUs": "Óleo da árvore do chá",
+        "category": 2,
+        "nameLatin": "Tea Tree Oil",
+        "namePt": "Melaleuca oil",
+        "origin": "Natural, obtido a partir das folhas da árvore Melaleuca alternifolia, também conhecida como árvore do chá.",
+        "mainFunction": "Óleo de melaleuca, usado por suas propriedades antimicrobianas e anti-inflamatórias para tratar problemas de pele, como acne.",
+        "ref ": "[330][E][F]"
+    },
+    {
+        "nameUs": "Oligopeptídeos",
+        "category": 2,
+        "nameLatin": "Oligopeptides",
+        "namePt": "Short-chain peptides",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Peptídeos, utilizado como mensageiros celulares, promovendo a produção de colágeno, elastina e outros componentes essenciais da pele.",
+        "ref ": "[323][A2][G1]"
+    },
+    {
+        "nameUs": "Ornithine",
+        "category": 2,
+        "nameLatin": "Ornithine",
+        "namePt": "Ornitina",
+        "origin": "Natural e sintético, produzido pelo corpo humano e em laboratórios.",
+        "mainFunction": "Aminoácido que ajuda no desenvolvimento de massa muscular e na redução da gordura corporal.",
+        "ref ": "[347] [348]"
+    },
+    {
+        "nameUs": "Oxtocin",
+        "category": 2,
+        "nameLatin": "Oxytocin",
+        "namePt": "Ocitocina",
+        "origin": "Natural e sintético, hormônio produzido no cérebro ou artificialmente em laboratórios.",
+        "mainFunction": "Tem como função facilitar o parto e a amamentação, regular as interações sociais, expressão das emoções e a libido, aumentando o prazer do contado íntimo. Nos homens, ela é capaz de diminuir a agressividade, favorecer a ejaculação e regular o crescimento da próstata.",
+        "ref ": "[315]"
+    },
+    {
+        "nameUs": "PA",
+        "category": 2,
+        "nameLatin": "Phosphatidic acid",
+        "namePt": "Ácido fosfatídico",
+        "origin": "Natural, encontrado em todas as membranas celulares.",
+        "mainFunction": "Participa do controle de processos de síntese proteica muscular.",
+        "ref ": "[422] [423]"
+    },
+    {
+        "nameUs": "Palmitic acid",
+        "category": 2,
+        "nameLatin": "Palmitic acid",
+        "namePt": "Ácido palmítico",
+        "origin": "Natural, encontrado em gorduras animais e vegetais, incluindo óleo de palma, óleo de coco e óleo de palmiste. Também está presente no leitos e em seus derivados.",
+        "mainFunction": "Utilizado como agente de consistência, dando estabilidade ás formulações. Além disso, graças a sua propriedade emoliente, serve para deixar a pele mais macia e suave.",
+        "ref ": "[512]"
+    },
+    {
+        "nameUs": "Palmitoil Tetrapeptídeo-7",
+        "category": 2,
+        "nameLatin": "Palmitoyl Tetrapeptide-7",
+        "namePt": "Palmitoyl-L-lysyl-L-threonyl-L-threonylglycyl-L-isoleucine",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Peptídeo, usado para estimular a produção de colágeno e melhorar a firmeza da pele.",
+        "ref ": "[307][E][G1]"
+    },
+    {
+        "nameUs": "Palmitoyl pentapeptide-3",
+        "category": 2,
+        "nameLatin": "Palmitoyl pentapeptide-4",
+        "namePt": "Palmitoil pentapeptídeo-4",
+        "origin": "Artificial, a partir da sintetização de aminoácidos.",
+        "mainFunction": "peptídeo, utilizado para estimular a produção de colágeno na pele, ajudando a reduzir a aparência de rugas e linhas finas.",
+        "ref ": "[241][A2][E]"
+    },
+    {
+        "nameUs": "Palmityl alcohol",
+        "category": 2,
+        "nameLatin": "Cetyl alcohol",
+        "namePt": "Álcool cetílico",
+        "origin": "Artificial, a partir de óleos vegetais de coco ou de palmiste ou produzido a partir do etileno e de fontes petroquímicas, como a parafina",
+        "mainFunction": "Opacificante, destinado a reduzir a transparência ou translucidez dos cosméticos",
+        "ref ": "[A2] [E] [95] [96]"
+    },
+    {
+        "nameUs": "Paraffinum Liquidum",
+        "category": 2,
+        "nameLatin": "Paraffinum ",
+        "namePt": "Parafina",
+        "origin": "Artificial, a partir de uma complexa combinação de hidrocarbonetos derivados do petróleo",
+        "mainFunction": "Antiestático, destinado a reduzir as interações das cargas elétricas do produto e neutralizando-as ",
+        "ref ": "[A2] [E] "
+    },
+    {
+        "nameUs": "Parathyroid hormone (PTH)",
+        "category": 2,
+        "nameLatin": "Parathyroid hormone (PTH)",
+        "namePt": "Paratormônio (PTH)",
+        "origin": "Natural, produzido pelo corpo humano nas células das paratireoides.",
+        "mainFunction": "Hormônio responsável pela manutenção dos níveis de cálcio e fosfato no sangue, mantendo os ossos saudáveis.",
+        "ref ": "[475]"
+    },
+    {
+        "nameUs": "PCA de sódio",
+        "category": 2,
+        "nameLatin": "Sodium PCA",
+        "namePt": "Sodium pyroglutamate",
+        "origin": "Sintético, produzido em laboratório por meio da modificação do ácido glutâmico.",
+        "mainFunction": "Ingrediente, usado como hidratante que ajuda a reter a umidade na pele.",
+        "ref ": "[299][E][G1]"
+    },
+    {
+        "nameUs": "Pentahydroxyhexanal",
+        "category": 2,
+        "nameLatin": "Saccharide isomerate",
+        "namePt": "Isomerato de sacarídeo",
+        "origin": "Artificial, a partir da conversão enzimática de glicose e sacarose.",
+        "mainFunction": " hidratante, utilizado para manter a pele hidratada por mais tempo, sendo usado em produtos para cuidados com a pele e cabelos.",
+        "ref ": "[240][A2][E]"
+    },
+    {
+        "nameUs": "Peptide hormone",
+        "category": 2,
+        "nameLatin": "Secretin",
+        "namePt": "Secretina",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Tem como função impedir a liberação do suco gástrico, quando necessário, assim como é responsável por estimular o pâncreas a secretar o suco pancreático.",
+        "ref ": "[390]"
+    },
+    {
+        "nameUs": "Peptídeos",
+        "category": 2,
+        "nameLatin": "Peptides ",
+        "namePt": "Protein fragments",
+        "origin": "Sintético, produzido em laboratório por meio da quebra de proteínas maiores em fragmentos menores.",
+        "mainFunction": "Fragmentos de proteínas, utilizados para fortalecer e reparar a estrutura da pele.",
+        "ref ": "[295][A2][F][G1]"
+    },
+    {
+        "nameUs": "Peptídeos de Cobre",
+        "category": 2,
+        "nameLatin": "Copper Peptides",
+        "namePt": "Glycyl-L-histidyl-L-lysine-Cu2+",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Péptido de cobre, usado para estimular a produção de colágeno e elastina, melhorando a firmeza da pele.",
+        "ref ": "[314][E][F]"
+    },
+    {
+        "nameUs": "Peptídeos de Seda",
+        "category": 2,
+        "nameLatin": "Silk Peptides",
+        "namePt": "Silk amino acids",
+        "origin": "Natural e sintética. Pode ser obtido a partir da seda natural ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Aminoácidos derivados da seda, usados como hidratantes e suavizantes da pele.",
+        "ref ": "[328][A2][G1]"
+    },
+    {
+        "nameUs": "Permethrin",
+        "category": 2,
+        "nameLatin": "Lime water",
+        "namePt": "Permetrina",
+        "origin": "Natural, encontrado em flores do Chrysanthemum cinerariaefolium.",
+        "mainFunction": "Utilizado no controle de diversas espécies de insetos.",
+        "ref ": "[443]"
+    },
+    {
+        "nameUs": "Phenoxuethanol",
+        "category": 2,
+        "nameLatin": "Ethylene glycol monophenyl ether ",
+        "namePt": "Fenoxietanol",
+        "origin": "Natural e sintético, encontrado em plantas, como o chá-verde ou a chicória, a versão utilizada em produtos é tipicamente sintética, produzida através do processo do fenol em conjunto com o óxido de etileno.",
+        "mainFunction": "Conservante utilizado em cosmético e alimentos, também é utilizado como estabilizante em perfumes e sabonetes.",
+        "ref ": "[529] [530]"
+    },
+    {
+        "nameUs": "Phenylalanine",
+        "category": 2,
+        "nameLatin": "Phenylalanine",
+        "namePt": "Fenilalanina",
+        "origin": "Natural, encontrada em alimentos ricos em proteínas, como ovos, soja, frango, carnes, etc.",
+        "mainFunction": "Ajuda na produção de proteínas no corpo humano e na produção de tirosina, um aminoácido que faz parte da produção de neurotransmissores. Pode aliviar a dor crônica, combater a ansiedade e depressão, ajudar no emagrecimento, etc.",
+        "ref ": "[320]"
+    },
+    {
+        "nameUs": "Phenylmethanol",
+        "category": 2,
+        "nameLatin": "Benzyl alcohol",
+        "namePt": "Álcool benzílico",
+        "origin": "Artificial, a partir da quebra por água do cloreto de benzila com soda cáustica",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E] [L]"
+    },
+    {
+        "nameUs": "Phosphatides",
+        "category": 2,
+        "nameLatin": "Creatinine",
+        "namePt": "Creatinina",
+        "origin": "Natural, produzida nos músculos do copo humano.",
+        "mainFunction": "Faz parte das reações que produzem energia necessária para a contração muscular.",
+        "ref ": "[377]"
+    },
+    {
+        "nameUs": "Phospholipids",
+        "category": 2,
+        "nameLatin": "Phospholipids",
+        "namePt": "Fosfolipídios",
+        "origin": "Natural, encontrado em células vegetais e animais.",
+        "mainFunction": "Componente fudamental nas membranas celulares,responsávelpor manter a estrutura.",
+        "ref ": "[357] [358]"
+    },
+    {
+        "nameUs": "Pigment",
+        "category": 2,
+        "nameLatin": "Melanin",
+        "namePt": "Melanina",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Pigmento natural do corpo humano que fornece cor à pele eproteção contra os raios ultravioletas.",
+        "ref ": "[317]"
+    },
+    {
+        "nameUs": "piritionato de zinco",
+        "category": 2,
+        "nameLatin": "Zinc Pyrithione",
+        "namePt": "Coal Tar",
+        "origin": "Natural, obtido a partir da destilação de carvão mineral.",
+        "mainFunction": "Substância, usada no tratamento de condições de pele, como psoríase e eczema, devido às suas propriedades anti-inflamatórias e queratolíticas.",
+        "ref ": "[336][A2][F] [G1]"
+    },
+    {
+        "nameUs": "Plasmin",
+        "category": 2,
+        "nameLatin": "Plasmin",
+        "namePt": "Plasmina",
+        "origin": "Natural, produzida na corpo humano por meio de uma proteína chamada plasminogênio.",
+        "mainFunction": "Limita o crescimento do coágulo por meio da degradação da fibrina.",
+        "ref ": "[463] [464]"
+    },
+    {
+        "nameUs": "Polihidroxiácidos",
+        "category": 2,
+        "nameLatin": "Polyhydroxy Acids ",
+        "namePt": "Polyhydroxy Acids",
+        "origin": "Sintético, produzido em laboratório. Refere-se a uma classe de ácidos hidroxílicos que são derivados de fontes sintéticas.",
+        "mainFunction": "Ácidos polihidroxi, utilizados para esfoliar suavemente a pele e promover a renovação celular.",
+        "ref ": "[298][E][G1]"
+    },
+    {
+        "nameUs": "Poly BDN 20",
+        "category": 2,
+        "nameLatin": "Denatonium benzoate ",
+        "namePt": "Benzoato de denatônio ",
+        "origin": "Artificial, a partir de um processo de reações com lidocaína, haleto de benzila, um hidróxido de metal e ácido benzóico",
+        "mainFunction": "Desnaturante, destinado a tornar cosméticos com sabores impróprios para ingestão ",
+        "ref ": "[A2] [E] [109]"
+    },
+    {
+        "nameUs": "Poly(dimethylsiloxane)",
+        "category": 2,
+        "nameLatin": "Dimethicone",
+        "namePt": "Dimeticona",
+        "origin": "Artificial, a partir do quartzo com várias etapas de processamento formando polímeros de silicone",
+        "mainFunction": "Antiespumante, destinado a suprimir espuma durante a fabricação ou reduzir a tendência de produtos acabados para gerar espuma",
+        "ref ": "[A2] [E] [97]"
+    },
+    {
+        "nameUs": "Polybutylene Glycol-8\/5\/3 Glycerin",
+        "category": 2,
+        "nameLatin": "PEG\/PPG\/Polybutylene Glycol-8\/5\/3 Glycerin",
+        "namePt": "Polibutilenoglicol - 8\/5\/3 Glicerina",
+        "origin": "Artifical, a partir de um polímero derivado do petróleo a partir do etileno glicol",
+        "mainFunction": "Umectante, destinado a manter e reter a umidade do cosmético",
+        "ref ": "[F] [E] [78]"
+    },
+    {
+        "nameUs": "Polyglyceryl-10 stearate",
+        "category": 2,
+        "nameLatin": "Decaglyceryl monostearate",
+        "namePt": "Estearato de poligliceril-10",
+        "origin": "Sintético, éster resultante da reação de ácido esteárico com um polímero de glicerina.",
+        "mainFunction": "Emulsionantes (os aditivos que ajudam a misturar dois líquidos que normalmente não fazem isso) e emoliente (função de dar maciez à pele, têm propriedades suavizantes , formando uma película que ajuda a uniformizar a textura da pele).",
+        "ref ": "[534]"
+    },
+    {
+        "nameUs": "Polyoxyethylen(12)cetyl-Stearylether",
+        "category": 2,
+        "nameLatin": "Ceteareth-12",
+        "namePt": "Ceteareth-12",
+        "origin": "Artificial, a partir do óxido de etileno com álcool cetílico ou com o álcool estearílico (ambos derivados do óleo de coco)",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [165]"
+    },
+    {
+        "nameUs": "Polyoxyethylen(20)cetyl-Stearylether",
+        "category": 2,
+        "nameLatin": "Ceteareth-20",
+        "namePt": "Ceteareth-20",
+        "origin": "Artificial, a partir do óxido de etileno com álcool cetílico ou com o álcool estearílico (ambos derivados do óleo de coco)",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E] [165]"
+    },
+    {
+        "nameUs": "Polyoxypropylene 15 stearyl ether",
+        "category": 2,
+        "nameLatin": "PPG-15 Stearyl ether",
+        "namePt": "éter estearílico",
+        "origin": "Artificial, a partir de reações entre álcoois graxos superiore e óxido de propileno",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Polypeptide",
+        "category": 2,
+        "nameLatin": "Protein",
+        "namePt": "Proteína",
+        "origin": "Natural, encontradas nas células e tecidos do corpo e em alimentos como carnes, peixes, sementes, leguminosas, laticínios, ovos, etc.",
+        "mainFunction": "Determinam a forma e a estrutura das células. As funções das proteínas são específicas a cada uma delas e permitem as células manter sua integridade, defender-se de agentes externos, reparar danos, controlar e regular funções celulares. etc.",
+        "ref ": "[455] [456]"
+    },
+    {
+        "nameUs": "Polysorbate 20",
+        "category": 2,
+        "nameLatin": "Ethoxylated Sorbitan Monolaurate",
+        "namePt": " Monolaurato de Sorbitan Etoxilado",
+        "origin": "Artificial, a partir de duas reações concecutivas, uma entre ácidos graxos obtendo esteres, em seguida estes ésteres são modificados pela adição de óxido de eteno, obtendo-se então os ésteres de sorbitan etoxilados.  ",
+        "mainFunction": "Emulsificante, utilizado por gerar um baixo grau de irritabilidade, podendo ser utilizado em shampoos infantis.",
+        "ref ": "[A2][E][228]"
+    },
+    {
+        "nameUs": "Polysorbate 80",
+        "category": 2,
+        "nameLatin": "Polysorbate 80",
+        "namePt": "Ácido salicílico",
+        "origin": "Sintético, produzido a partir da reação de óxido de etileno e sorbitano.",
+        "mainFunction": "Utilizado em cosméticos como estabilizante, emulsificante e para reduzir a tensão superficial dos produtos.",
+        "ref ": "[495] [496]"
+    },
+    {
+        "nameUs": "Potassium hydrogen carbonate",
+        "category": 2,
+        "nameLatin": "Glycerin",
+        "namePt": "Glicerina",
+        "origin": "Natural e sintético, pode ser encontrada em óleos e gorduras ou produzida.",
+        "mainFunction": "Utilizado como umectante em batons, maquiagens, desodorantes, cremes hidratantes, etc.",
+        "ref ": "[288]"
+    },
+    {
+        "nameUs": "Potassium muriate",
+        "category": 2,
+        "nameLatin": "Potassium chloride",
+        "namePt": "Cloreto de potássio",
+        "origin": "Artificial, a partir da separação e formação de cristais dos minerais silvinita e carnalita, ou obtido na reação do hidróxido de potássio (ou outras bases de potássio) com ácido clorídrico",
+        "mainFunction": "Regulador de viscosidade, destinado a aumentar ou diminuir a viscosidade dos cosméticos",
+        "ref ": "[A2] [E] [48]"
+    },
+    {
+        "nameUs": "Probióticos",
+        "category": 2,
+        "nameLatin": "Probiotics ",
+        "namePt": "Beneficial bacteria",
+        "origin": "Natural, refere-se a bactérias benéficas encontradas na pele ou no corpo humano, que podem ser isoladas e utilizadas em produtos cosméticos.",
+        "mainFunction": "Bactérias benéficas, usadas em produtos probióticos para equilibrar a flora bacteriana da pele.",
+        "ref ": "[287][A2][E]"
+    },
+    {
+        "nameUs": "Progestogen",
+        "category": 2,
+        "nameLatin": "Progesterone",
+        "namePt": "Progesterona",
+        "origin": "Natural, produzido pelas células do ovário no corpo humano.",
+        "mainFunction": "Tem como função a ajuda na regulação do ciclo menstrual e na preparação do organismo para a gestação.",
+        "ref ": "[312]"
+    },
+    {
+        "nameUs": "Proline",
+        "category": 2,
+        "nameLatin": "2-Pyrrolidinecarboxylic acid",
+        "namePt": "Prolina",
+        "origin": "Natural e sintética, é um aminoácido produzido pelo corpo humano, encontrado em alimentos como carnes, queijos, peixes, feijão, etc, também é produzida artificialmente.",
+        "mainFunction": " Aminoácido que participa da formação do colágeno, uma proteína que é importante para manter a elasticidade e firmeza da pele, além de ser essencial para a formação de tendões, músculos e cartilagens, manter a saúde do coração, cicatrizar feridas e fortalecer o sistema imunológico.",
+        "ref ": "[334] [439]"
+    },
+    {
+        "nameUs": "Propylene Carbonate",
+        "category": 2,
+        "nameLatin": "Propylene Carbonate",
+        "namePt": "Propileno Carbonato",
+        "origin": "Artificial a partir de propileno glicol e dióxido de carbono.",
+        "mainFunction": "Solvente, utilizado em produtos de cuidado pessoal como esmaltes e removedores de esmalte.",
+        "ref ": "[A2] [E] [260] [267] "
+    },
+    {
+        "nameUs": "Propylene glycol ",
+        "category": 2,
+        "nameLatin": "PG",
+        "namePt": "Propilenoglicol",
+        "origin": "Artificial, a partir da hidratação de óxido de propileno, derivado do petróleo",
+        "mainFunction": "Umectante, destinado a manter e reter a umidade do cosmético",
+        "ref ": "[A2] [E] [162]"
+    },
+    {
+        "nameUs": "Quaternium-41",
+        "category": 2,
+        "nameLatin": "Polyquaternium-7",
+        "namePt": "Poliquatérnio 7",
+        "origin": "Artificial, a partir da repetição química da estrutura formadora de géis, a acrilamida, e do poliquaternário 6",
+        "mainFunction": "Formador de filme, destinado a produzir, mediante requerimento, um filme contínuo sobre a pele, cabelo e unhas",
+        "ref ": "[A2] [E] [132] [133]"
+    },
+    {
+        "nameUs": "Relaxin",
+        "category": 2,
+        "nameLatin": "Relaxin",
+        "namePt": "Relaxina",
+        "origin": "Natural, produzido pelo corpo humano. ",
+        "mainFunction": "Hormônio produzido pelo corpo lúteo dos ovários que ajuda a amolecer as articulações e ligamentos pélvicos para ajudar na passagem do bebê durante o parto.",
+        "ref ": "[365]"
+    },
+    {
+        "nameUs": "Relaxin hormone",
+        "category": 2,
+        "nameLatin": "Urobilinogen",
+        "namePt": "Urobilinogênio",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Pigmento biliar responsável por avaliar a saúde do corpo, se encontrado em alta ou baixa quantidade na urina indica que há um problema. Também é responsável pela coloração das fezes e da urina.",
+        "ref ": "[385]"
+    },
+    {
+        "nameUs": "Relaxin-like factor",
+        "category": 2,
+        "nameLatin": "Bilirubin",
+        "namePt": "Bilirrubina",
+        "origin": "Natural, produzido pelo fígado no corpo humano.",
+        "mainFunction": "Pigmento biliar responsável por avaliar o funcionamento do fígado, quando há muita bilirrubina no sangue pode haver algo de errado no fígado. Também é responsável pela coloração das fezes e da urina.",
+        "ref ": "[384]"
+    },
+    {
+        "nameUs": "Resveratrol",
+        "category": 2,
+        "nameLatin": "Resveratrol",
+        "namePt": "3,5,4'-Trihydroxy-trans-stilbene",
+        "origin": "Natural, encontrado em plantas como a uva e o amendoim, ou sintético, produzido em laboratório.",
+        "mainFunction": "Antioxidante com propriedades anti-envelhecimento que ajuda a proteger a pele dos danos causados pelos radicais livres.",
+        "ref ": "[286][A2][F][G1]"
+    },
+    {
+        "nameUs": "retinaldeído",
+        "category": 2,
+        "nameLatin": "Retinaldehyde",
+        "namePt": "Retinal",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Forma ativa da vitamina A,  usada para estimular a renovação celular, suaviza as rugas e melhora a textura da pele.",
+        "ref ": "[327][A2][F][G1]"
+    },
+    {
+        "nameUs": "Retinol",
+        "category": 2,
+        "nameLatin": "Retinol",
+        "namePt": "Vitamin A",
+        "origin": "Natural e sintética. Pode ser derivada de fontes como óleo de peixe, fígado e cenoura, ou produzida sinteticamente em laboratório.",
+        "mainFunction": "retinol, é usada para promover a renovação celular e melhorar a textura da pele.",
+        "ref ": "[280] [A2][E][G1]"
+    },
+    {
+        "nameUs": "Ribonucleic acid",
+        "category": 2,
+        "nameLatin": "RNA",
+        "namePt": "RNA"
+    },
+    {
+        "nameUs": "Saccharide",
+        "category": 2,
+        "nameLatin": "Carbohydrate",
+        "namePt": "Carboidrato",
+        "origin": "Natural, encontradas principalmente em alimentos de origem vegetal.",
+        "mainFunction": "Fornece a maior parte de energia necessária para manutenção das atividades das pessoas e, principalmente, prover o cérebro de energia suficiente para o seu funcionamento.",
+        "ref ": "[457]"
+    },
+    {
+        "nameUs": "Saliciloil Fitosfingosina",
+        "category": 2,
+        "nameLatin": "Salicyloyl Phytosphingosine",
+        "namePt": "Salicyloyl-phytosphingosine",
+        "origin": "Sintético, produzido em laboratório por meio da modificação química de compostos naturais, como o ácido salicílico e a esfingosina.",
+        "mainFunction": "Ingrediente antimicrobiano e anti-inflamatório, usado para tratar problemas de pele, como acne.",
+        "ref ": "[284][A2][E][G1]"
+    },
+    {
+        "nameUs": "Salt cake",
+        "category": 2,
+        "nameLatin": "Sodium sulfate",
+        "namePt": "Sulfato de sódio",
+        "origin": "Artificial, a partir dos processos de síntese do ácido clorídrico ou do dóxido de enxofre como um subproduto das reações",
+        "mainFunction": "Regulador de viscosidade, destinado a aumentar ou diminuir a viscosidade dos cosméticos",
+        "ref ": "[A2] [E] [118]"
+    },
+    {
+        "nameUs": "Scleroprotein",
+        "category": 2,
+        "nameLatin": "C-reactive protein",
+        "namePt": "Proteína C-reativa",
+        "origin": "Natural, produzida pelo fígado no corpo humano.",
+        "mainFunction": "Ajuda a defender o organismo de infecções e outros problemas inflamatórios.",
+        "ref ": "[380] [381]"
+    },
+    {
+        "nameUs": "Serine",
+        "category": 2,
+        "nameLatin": "Serine",
+        "namePt": "Serina",
+        "origin": "Natural e sintética, produzida pelo corpo humano, encontrada em alimentos como ovos, leite e carnes, e produzida artificialmente por meio da fermnetação. ",
+        "mainFunction": "Ajuda na defesa do corpo, no fortalecimento do sistema nervoso e no crescimento dos músculos.",
+        "ref ": "[335] [336] "
+    },
+    {
+        "nameUs": "Serine protease",
+        "category": 2,
+        "nameLatin": "Serine protease",
+        "namePt": "Serina protease",
+        "origin": "Natural, encontrado em quase todos os organismos vivos.",
+        "mainFunction": "Ajudam na digestão protéica, regulação da pressão arterial e da coagulação sanguínea.",
+        "ref ": "[371] [372]"
+    },
+    {
+        "nameUs": "Serum globulin",
+        "category": 2,
+        "nameLatin": "Transferrin",
+        "namePt": "Transferrina",
+        "origin": "Natural, produzida principalmente pelo fígado no corpo humano.",
+        "mainFunction": "Tem como função transportar o ferro para a medula, baço, fígado e músculos, mantendo um bom funcionamento do organismo.",
+        "ref ": "[382]"
+    },
+    {
+        "nameUs": "Shea butter",
+        "category": 2,
+        "nameLatin": "Butyrospermum Parkii ",
+        "namePt": "Butyrospermum Parkii (Shea) Butter Extract",
+        "origin": "Natural, a partir do fruto da árvore de karité (Butyrospermum parkii).",
+        "mainFunction": "emoliente,usado para hidratar e suavizar a pele, sendo usado em produtos para cuidados com a pele e cabelos.",
+        "ref ": "[244][A2][E]"
+    },
+    {
+        "nameUs": "Siegesbeckia Orientalis Extract",
+        "category": 2,
+        "nameLatin": "Darutoside",
+        "namePt": "Darutoside",
+        "origin": "Artificial, a partir da planta Siegesbeckia, uma erva daninha chamada Erva de São Paulo ",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[F] [E] [78] [179] [180]"
+    },
+    {
+        "nameUs": "Sodium  benzoate ",
+        "category": 2,
+        "nameLatin": "Benzoic acid sodium salt",
+        "namePt": "Benzoato de sódio",
+        "origin": "Sintético, produzido a partir de uma reação entre ácido benzóico e hidróxido de sódio.",
+        "mainFunction": "Utilizado como conservante em produtos cosméticos por conta das propriedades antifúngicas e antimicrobianas.",
+        "ref ": "[441] [442]"
+    },
+    {
+        "nameUs": "Sodium 3,6-dioxoheptanoate",
+        "category": 2,
+        "nameLatin": "Eucalyptus essential oil",
+        "namePt": "Óleo essencial de eucalipto",
+        "origin": "Natural e sintético, produzido por uma complexa mistura de muitos componentes ou obtido pela destilação das folhas ou ramos jovens. ",
+        "mainFunction": "Utilizado na recuperação de problemas respiratórios por suas propriedades balsâmicas, antimicrobianas e anti sépticas.",
+        "ref ": "[283] [284]"
+    },
+    {
+        "nameUs": "Sodium Acrylates Copolymer\r",
+        "category": 2,
+        "nameLatin": "Sodium Acrylates (Vinyl-Alcohol) Copolymer",
+        "namePt": "Copolímero de acrilatos de sódio",
+        "origin": "Sintético, polímero produzido artificialmente.",
+        "mainFunction": "Utilizado para dar viscosidade e textura aos produtos dosméticos cremosos.",
+        "ref ": "[531]"
+    },
+    {
+        "nameUs": "Sodium Carboxymethylcellulose",
+        "category": 2,
+        "nameLatin": "Cellulose Gum",
+        "namePt": "Carboximetilcelulose sódica",
+        "origin": "Artificial; a partir de processos químicos com a celulose ( composto presente nas plantas como o algodão; árvores; grama; linho) e sal sódico",
+        "mainFunction": "Regulador de viscosidade; destinado a aumentar ou diminuir a viscosidade dos cosméticos",
+        "ref ": "[A2] [E] [301] [302]"
+    },
+    {
+        "nameUs": "Sodium hydroxide",
+        "category": 2,
+        "nameLatin": "Sodium hydroxide",
+        "namePt": "Hidróxido de sódio",
+        "origin": "Artificial, a partir da reação de eletrólise do sal de cozinha em solução aquosa",
+        "mainFunction": "Agente tampão, destinado a estabilizar o pH dos produtos cosméticos",
+        "ref ": " [A2] [H] [11]"
+    },
+    {
+        "nameUs": "Sodium Laureth Sulfate",
+        "category": 2,
+        "nameLatin": "Sodium Laureth Sulfate",
+        "namePt": "Lauril éter sulfato de sódio ",
+        "origin": "Artificial, a partir da reação do álcool laurílico, derivado do óleo de palmiste, com o ácido sulfúrico",
+        "mainFunction": "Surfactante, destinado a diminuir a tensão superficial do cosmético, bem como auxiliar a distribuição uniforme do produto",
+        "ref ": "[A2] [E] [81]"
+    },
+    {
+        "nameUs": "Sodium lauryl ether sulfate",
+        "category": 2,
+        "nameLatin": "Sodium lauryl phosphate",
+        "namePt": "Lauril fosfato de sódio",
+        "origin": "Artificial, a partir da aplicação do ácido sulfúrico em rochas ricas em fósfato ",
+        "mainFunction": "Surfactante, destinado a diminuir a tensão superficial do cosmético, bem como auxiliar a distribuição uniforme do produto",
+        "ref ": "[A2] [E] [101]"
+    },
+    {
+        "nameUs": "Sodium Lauryl Sulfate",
+        "category": 2,
+        "nameLatin": "Sodium Lauryl Sulfate",
+        "namePt": "Sulfato de Sódio Lauryl",
+        "origin": "Artificial a partir de sulfato de sódio e ácido láurico.",
+        "mainFunction": "Detergente e espumante, utilizado em sabonetes e shampoos para limpeza.",
+        "ref ": "[A2] [E] [255]"
+    },
+    {
+        "nameUs": "Sodium phosphate tribasic",
+        "category": 2,
+        "nameLatin": "Trisodium phosphate",
+        "namePt": "Fosfato trissódico",
+        "origin": "Sintético, produzido a partir do ácido fosfórico.",
+        "mainFunction": "Utilizado como agente de limpeza e regulador de acidez na formulação de maquiagens, tintas para cabelo, perfumes, produtos para banho, etc.",
+        "ref ": "[428]"
+    },
+    {
+        "nameUs": "Sodium polyacrylate",
+        "category": 2,
+        "nameLatin": "Sodium polyacrylate",
+        "namePt": "Poliacrilato de sódio",
+        "origin": "Sintético, produzido a partir da polimerização de ácido acrílico e pós-tratamento com soda cáustica.",
+        "mainFunction": "Mantém a textura de um produto macia e suave, forma também camadas de filme: cria um filme fino e flexível que dá uma sensação de suavidade na pele após lavagem. Também é utilizado na produção de fraldas e absorventes por ser uma substância superabsorvente.",
+        "ref ": "[526] [527]"
+    },
+    {
+        "nameUs": "Sodium saccharin",
+        "category": 2,
+        "nameLatin": "Sodium saccharin",
+        "namePt": "Sacarina sódica",
+        "origin": "Sintético, produzida a partir do ácido tuoleno sulfôico.",
+        "mainFunction": "Utilizada em cosméticos e produtos de higiene bucal com redução de açúcar, como gloss labial, creme dental e enxaguante bucal.",
+        "ref ": "[491] [492]"
+    },
+    {
+        "nameUs": "soft paraffin",
+        "category": 2,
+        "nameLatin": "petrolatums",
+        "namePt": "Petrolatos",
+        "origin": "Natural, a partir da cana de açúcar renovável, 100% vegetal.",
+        "mainFunction": "Emoliente, usado como óleo mineral em maquiagens.",
+        "ref ": "[A2][E][232]"
+    },
+    {
+        "nameUs": "Somatomedin C",
+        "category": 2,
+        "nameLatin": "Insulin-like Growth Factor (IGF)",
+        "namePt": "Fator de Crescimento Semelhante à Insulina (IGF)",
+        "origin": "Natural, produzido pelo corpo humano.",
+        "mainFunction": "Hormônios peptídicos relacionados ao metabolismo, incentivar a proliferação, impedir uma forma de morte celular programada e a diferenciar tipos celulares.",
+        "ref ": "[411]"
+    },
+    {
+        "nameUs": "Sorbistat potassium",
+        "category": 2,
+        "nameLatin": "Potassium sorbate",
+        "namePt": "Sorbato de potássio",
+        "origin": "Artificial, a partir do ácido sórbico, o qual é encontrado naturalmente em frutas como laranja, tangerina, limão, caju e maracujá",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "ref ": "[A2] [E] [154] "
+    },
+    {
+        "nameUs": "Sorbitan",
+        "category": 2,
+        "nameLatin": "Sorbitan",
+        "namePt": "Sorbitana",
+        "origin": "Sintético, produzido a partir da desidratação do sorbitol.",
+        "mainFunction": "Utilizado como emulsificante na produção de cremes, emulsões, pomadas, etc.",
+        "ref ": "[440]"
+    },
+    {
+        "nameUs": "Sphingomyelin",
+        "category": 2,
+        "nameLatin": "Sphingomyelin",
+        "namePt": "Esfingomielina",
+        "origin": "Natural, encontrada nas membranas plasmáticas das células animais.",
+        "mainFunction": "Ajudam na transmissão dos impulsos nervosos devido às suas propriedades isolantes. ",
+        "ref ": "[369]"
+    },
+    {
+        "nameUs": "Stearamidopropyl Dimethylamine",
+        "category": 2,
+        "nameLatin": "Dimethiconol",
+        "namePt": "Dimeticonol",
+        "origin": "Artificial a partir de dimetil siloxano e outros componentes.",
+        "mainFunction": "Emoliente e condicionador, utilizado em produtos para cuidado do cabelo, para dar brilho e suavidade aos fios.",
+        "ref ": "[A2] [E] [262]"
+    },
+    {
+        "nameUs": "Stearic acid",
+        "category": 2,
+        "nameLatin": "Octadecanoic Acid",
+        "namePt": "Ácido esteárico",
+        "origin": "Natural, a partir de óleos vegetais, como da soja e da semente de algodão, ou a partir de sebos animais ",
+        "mainFunction": "Sobreengordurante, destinado a reabastecer as gorduras naturais do cabelo ou das camadas superiores da pele",
+        "ref ": "[A2] [E] [295]"
+    },
+    {
+        "nameUs": "steer",
+        "category": 2,
+        "nameLatin": "Lead",
+        "namePt": "Chumbo",
+        "origin": "Natural, a partir de sulfeto de chumbo II, encontrado no mineral galena, que possui cerca de 87% de chumbo em sua composição.",
+        "mainFunction": "Composto, usado na composição de grande parte dos batons convencionais",
+        "ref ": "[A2][E][231]"
+    },
+    {
+        "nameUs": "Sulfated dextran",
+        "category": 2,
+        "nameLatin": "Dextran sulfate",
+        "namePt": "Sulfato de dextrana",
+        "origin": "Natural, a partir de bactérias do gênero Leuconostoc que produzem dextrana sulfatada.",
+        "mainFunction": "polissacarídeo, usado por possuir ação antienvelhecimento, pois melhora a elasticidade da pele, aumenta a hidratação e suaviza rugas e linhas finas.",
+        "ref ": "[235][A2][E]"
+    },
+    {
+        "nameUs": "Sulfated fucan",
+        "category": 2,
+        "nameLatin": "Fucoidan",
+        "namePt": "Fucoidan",
+        "origin": "Natural, a partir de algas marinhas.",
+        "mainFunction": "polissacarídeo, usado por possuir propriedades anti-inflamatórias e antioxidantes, sendo usado em produtos para cuidados com a pele e cabelos.",
+        "ref ": "[245][A2][E]"
+    },
+    {
+        "nameUs": "Sweet Almond Oil",
+        "category": 2,
+        "nameLatin": "Prunus amygdalus dulcis oil",
+        "namePt": "Óleo de amêndoas ",
+        "origin": "Artificial, a partir da extração por prensagem, aquecimento e secagem das nozes das amendôas ou através da extração utilizando solventes como o dióxido de carbono ",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [108]"
+    },
+    {
+        "nameUs": "Tartrazine",
+        "category": 2,
+        "nameLatin": "Acid yellow 23",
+        "namePt": "Ácido amarelo 23",
+        "origin": "Artificial, a partir da eletrólise de cloreto de sódio em solução aquosa.",
+        "mainFunction": "Colorante de cabelo, destinado a dar coloração ao cabelo",
+        "ref ": "[A2] [E] [198]"
+    },
+    {
+        "nameUs": "Taurine",
+        "category": 2,
+        "nameLatin": "Taurine",
+        "namePt": "Taurina",
+        "origin": "Natural e sintética, produzida naturalmente por animais e pelo corpo humano, tembém é produzida em laboratório a partir da reação de aziridina  com ácido sulfúrico.  ",
+        "mainFunction": "Nutriente encontrado em alimentos como peixe, frango, peru, carne vermleha e frutos do mar. No corpo humano, é importante para o funcionamentoo do sistema nervoso central, da imunidade, da visão e da fertilidade. ",
+        "Column6": "N",
+        "ref ": "[340] [341] [342]"
+    },
+    {
+        "nameUs": "tert-Butyl",
+        "category": 2,
+        "nameLatin": "2,3-terc-butil-4-hidroxianisol BHA",
+        "namePt": "BHA",
+        "origin": "Artificial, a partir da mistura de 2 isômeros, o 2 e o 3-terc-butil-4-hidroxianisol, sendo formado a partir do 4-metoxifenol e do isobutileno.",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de micro-organismos",
+        "ref ": "[A2] [E] [199]"
+    },
+    {
+        "nameUs": "Tetrahexyldecyl ascorbic acid",
+        "category": 2,
+        "nameLatin": "Tetrahexyldecyl ascorbate",
+        "namePt": "Tetrahexildecil ascorbato",
+        "origin": "Artificial, a partir do ácido L-ascórbico e álcoois graxos.",
+        "mainFunction": "vitamina C, usado por apresentar ação antioxidante, clareadora de manchas na pele e estimulante da produção de colágeno, sendo usado em produtos para cuidados com a pele.",
+        "ref ": "[247][A2][E]"
+    },
+    {
+        "nameUs": "Theobroma Cacao seed butter",
+        "category": 2,
+        "nameLatin": "Cocoa butter",
+        "namePt": "Manteiga da semente de Theobroma Cacao",
+        "origin": "Natural, gordura vegetal.",
+        "mainFunction": "Melhora a consistência das emulsões e atua como uma barreira protetora para a pele, preservando o equilíbrio da hidratação e é recomendada para a pele seca e delicada.",
+        "ref ": "[535]"
+    },
+    {
+        "nameUs": "Thioctic acid",
+        "category": 2,
+        "nameLatin": "Alpha-lipoic acid",
+        "namePt": "Ácido alfa-lipóico",
+        "origin": "Natural, produzido pelo fígado no corpo humano e encontrado em carnes de animais e plantas, como brócolis, espinafre, couve de bruxelas e farelo de arroz.",
+        "mainFunction": "Hipoglicemiante, reduz a resistência a insulina, ajudando a contralar os níveis glicêmicos e podendo assim, auxiliar em complicações de diabetes, como neuropatias e catarata.",
+        "ref ": "[375] [376]"
+    },
+    {
+        "nameUs": "Threonine",
+        "category": 2,
+        "nameLatin": "Threonine",
+        "namePt": "Treonina",
+        "origin": "Natural e sintética, encotrado em alimentos como carnes, laticínios e ovos, e produzida artificialmente por um processo de fermentação.",
+        "mainFunction": "Ajuda no crescimento, na produção de neurotransmissores e na formação de colágeno e elastina. ",
+        "ref ": "[337] [338] [339]"
+    },
+    {
+        "nameUs": "Thyrocalcitonin",
+        "category": 2,
+        "nameLatin": "Pyruvic acid",
+        "namePt": "Ácido pirúvico",
+        "origin": "Natural, produzido pelo corpo humano a partir da degradação da glicose.",
+        "mainFunction": "Utilizado no tratamento antiacne, na redução de manchas na pele, tratamento de linhas de expressão, rugas e acnes, possui ação antimicrobiana e antiseborreica.",
+        "ref ": "[388] [389]"
+    },
+    {
+        "nameUs": "Tocophrenol",
+        "category": 2,
+        "nameLatin": "Tocophrenol",
+        "namePt": "Tocoferol",
+        "origin": "Natural, encontrado na vitamina E.",
+        "mainFunction": "Utilizada em cosméticos como antioxidante, ajudando a combater os radicais livres, hidratando e recuperando a elasticidade natural da pele e ajudando a suavizar as linhas finas e rugas.",
+        "ref ": "[493] [494]"
+    },
+    {
+        "nameUs": "Triacylglycerol",
+        "category": 2,
+        "nameLatin": "Uric acid",
+        "namePt": "Ácido úrico",
+        "origin": "Natural, produzido pelo corpo humano a partir digestão das proteínas, que formam uma substância chamada purina, que dão origem ao ácido úrico.",
+        "mainFunction": "Substância formada pelo organismo a partir da digestão de proteínas e eliminado pelos rins, mas quando há algum problema renal, o ácido úrico é acumulado nas articulações, causando artrite gotosa. ",
+        "ref ": "[473]"
+    },
+    {
+        "nameUs": "Triethanolamine",
+        "category": 2,
+        "nameLatin": "TEA ",
+        "namePt": "Trietanolamina",
+        "origin": "Sintético, produzido a partir da reação de etanolamina com óxido de etileno.",
+        "mainFunction": "Utitlizado na indústria cosmética como regulador de pH, também é reponsável como suavizar a pele e torná-la mais macia.",
+        "ref ": "[417] [418] [419]"
+    },
+    {
+        "nameUs": "Triglyceride",
+        "category": 2,
+        "nameLatin": "Triglyceride",
+        "namePt": "Triglicerídeo",
+        "origin": "Natural, produzida pelo corpo humano.",
+        "mainFunction": "Principais gorduras do corpo humano e servem como reserva de energia.",
+        "ref ": "[356]"
+    },
+    {
+        "nameUs": "Triglycerin Diisostearate",
+        "category": 2,
+        "nameLatin": "Polyglyceryl-3 Diisostearate (PG3DS)",
+        "namePt": "Diisoestearato de poligliceril-3",
+        "origin": "Artificial, a partir da extração e prensagem da mamona, reagindo com glicerol e ácidos graxos  ",
+        "mainFunction": "Emulsificante, destinado a tornar as fases de compostos que não se misturam mais uniformes possível ",
+        "ref ": "[A2] [E]"
+    },
+    {
+        "nameUs": "Tryptophan",
+        "category": 2,
+        "nameLatin": "Tryptophan",
+        "namePt": "Triptofano",
+        "origin": "Natural, encontrado em alimentos como ovos, nozes, chocolate amargo e amêndoas.",
+        "mainFunction": "Ajuda na formação e manutenção dos músculos, na proteção de serotonina e melatonina, compostos que atuam no sistema nervoso, ajudando a regular o sono, o humor, a memória e o apetite, sendo usado no tratamento e na prevenção de depressão, ansiedade, insônia e no processo de emagrecimento. ",
+        "ref ": "[323]"
+    },
+    {
+        "nameUs": "Turkey Red Oil",
+        "category": 2,
+        "nameLatin": "Sulfated castor oil",
+        "namePt": "Óleo de rícino sulfonado",
+        "origin": "Artificial, a partir do pressionamento das sementes da planta mamona ( Ricinus communis) para obtenção do óleo de rícino, o qual passa pelo processo de reação com soda cáustica, o acelerador ácido EDTA e o ácido sulfúrico",
+        "mainFunction": "Umectante, destinado a manter e reter a umidade do cosmético",
+        "ref ": "[A2] [E] [102]"
+    },
+    {
+        "nameUs": "Tyrosine",
+        "category": 2,
+        "nameLatin": "Tyrosine",
+        "namePt": "Tirosina",
+        "origin": "Natural, encontrada em alimentos como queijos, ovos, peixes, nozes, etc.",
+        "mainFunction": "Ajuda na produção de neurotransmissores, melanina e hormônios da tireoide. Pode ajudar na melhora do humor, estresse, memória, concentração e ansiedade. ",
+        "ref ": "[322]"
+    },
+    {
+        "nameUs": "Undecylenic acid zinc salt",
+        "category": 2,
+        "nameLatin": "Zinc undecylenate",
+        "namePt": "Undecilenato de zinco",
+        "origin": "Artificial, a partir da reação do ácido undecilênico com óxido de zinco.",
+        "mainFunction": "antibacteriano,  usado para controlar a oleosidade da pele e prevenir acne.",
+        "ref ": "[242][A2][E]"
+    },
+    {
+        "nameUs": "uréia",
+        "category": 2,
+        "nameLatin": "Urea",
+        "namePt": "Carbamide",
+        "origin": "Sintético, produzido em laboratório.",
+        "mainFunction": "Também conhecida como ureia, usado como agente hidratante que ajuda a reter a umidade na pele.",
+        "ref ": "[332][E][F]"
+    },
+    {
+        "nameUs": "Uvinul A Plus",
+        "category": 2,
+        "nameLatin": "Diethylamino hydroxybenzoyl hexyl benzoate",
+        "namePt": "Benzoato de dietilamino-hidroxibenzoil-hexil",
+        "origin": "Artificial, a partir das reações do ácido 2-(4-(dietilamino)-2-hidroxibenzoil)benzóico, composto DDC, o álcool hexanol e aceleradores químicos",
+        "mainFunction": "Absorvedor de raios UV, destinado a proteger o produto cosmético dos efeitos da luz UV",
+        "ref ": "[F] [E] [80] [114] [115]"
+    },
+    {
+        "nameUs": "Valine",
+        "category": 2,
+        "nameLatin": "Valine",
+        "namePt": "Valina",
+        "origin": "Natural, encontrado em alimentos.",
+        "mainFunction": "Ajuda no crescimento muscular, melhora a concentração e o foco, aumenta a disposição e dá energia.",
+        "ref ": "[329]"
+    },
+    {
+        "nameUs": "Vaseline",
+        "category": 2,
+        "nameLatin": "Petrolatum",
+        "namePt": "Petrolato",
+        "origin": "Artificial, a partir do petróleo no processo de retirada da parafina( matéria-prima da produção de velas)",
+        "mainFunction": "Antiestático, destinado a reduzir as interações das cargas elétricas do produto e neutralizando-as ",
+        "ref ": "[A2] [E] [146]"
+    },
+    {
+        "nameUs": "Veneno de abelha",
+        "category": 2,
+        "nameLatin": "Bee Venom",
+        "namePt": "Apitoxin",
+        "origin": "Natural, obtido do veneno de abelhas.",
+        "mainFunction": "Veneno de abelha, usado para estimular a produção de colágeno e melhorar a elasticidade da pele.",
+        "ref ": "[312][A2][F]"
+    },
+    {
+        "nameUs": "Vitamin A palmitate",
+        "category": 2,
+        "nameLatin": "Retinyl palmitate",
+        "namePt": "Palmitato de retinila",
+        "origin": "Artificial, a partir da Vitamina A (encontrada naturalmente em vegetais amarelos, verdes, e em animais e seus derivados) e do ácido palmítico ( derivado do óleo de palma) em uma síntese tecnologica com a enzima lipase ",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [172] [173]"
+    },
+    {
+        "nameUs": "Vitamin B12 ",
+        "category": 2,
+        "nameLatin": "Cyanocobalamin",
+        "namePt": "Vitamina B12 (cianocobalamina)",
+        "origin": "Natural, encontrada em alimentos de origem animal, como ovos, leite, peixe, frango e fígado.",
+        "mainFunction": "Vitamina necessária para o desenvolvimento e manutenção das funções do sistema nervoso central, e para o metabolismo das proteínas e dos carboidratos dos alimentos, ajudando a manter uma boa disposição física e mental. Também é essencial para a formação das células sanguíneas, prevenindo a anemia magalobástica.",
+        "ref ": "[497]"
+    },
+    {
+        "nameUs": "Vitamin B9",
+        "category": 2,
+        "nameLatin": "Folic acid",
+        "namePt": "Ácido fólico",
+        "origin": "Natural e sintético, produzido em laboratório ou encontrado em alguns alimentos como o feijão, o espinafre e os aspargos.  ",
+        "mainFunction": "Vitamina que auxilia no crescimento celular, na produção de hemácias, na síntese de DNA e na manutenção da função cognitiva.",
+        "ref ": "[299] [300] [301]"
+    },
+    {
+        "nameUs": "Vitamin C ",
+        "category": 2,
+        "nameLatin": "Ascorbic acid",
+        "namePt": "Vitamina C (ácido ascórbico)",
+        "origin": "Natural, encontrada em frutas, verduras e legumes.",
+        "mainFunction": "Vitamina que atua como antioxidante e fortalece o sistema imunológico, além de estimular a absorção de ferro dos alimentos e manter a saúde da pele.",
+        "ref ": "[498]"
+    },
+    {
+        "nameUs": "Vitamin D ",
+        "category": 2,
+        "nameLatin": "Cholecalciferol",
+        "namePt": "Vitamina D (colecalciferol)",
+        "origin": "Natural, produzida pelo corpo humano a partir da exposição à luz solar e encontrada em alimentos de origem animal, como peixes e ovos.",
+        "mainFunction": "Vitamina essencial para o equilíbrio de cálcio e fósforo no organismo, ajudando a evitar a osteoporose, além de fortalecer o sistema imunológico, prevenir a diabetes e manter a saúde do coração.",
+        "ref ": "[499]"
+    },
+    {
+        "nameUs": "Vitamin E ",
+        "category": 2,
+        "nameLatin": "Tocopherol",
+        "namePt": "Vitamina E (tocoferol)",
+        "origin": "Natural, encontrada em óleos vegetais e frutos secos.",
+        "mainFunction": "Vitamina responsável por evitar os danos causados pelos radicais livres das células, melhorar o sistema imune, a saúde da pele e do cabelo, previnir doenças neurológicas e cardiovasculares, combater a infertilidade e melhorar a resistência e a força muscular.",
+        "ref ": "[500]"
+    },
+    {
+        "nameUs": "Vitamin E acetate",
+        "category": 2,
+        "nameLatin": "Tocopheryl acetate",
+        "namePt": "Acetato de Tocoferol",
+        "origin": "Artificial, a partir da reação do composto d-alfa tocoferol, derivado do óleo de soja ou de colza, com o ácido acético (composto principal do vinagre)",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "ref ": "[A2] [E] [106] [107]"
+    },
+    {
+        "nameUs": "Vitamin K",
+        "category": 2,
+        "nameLatin": "Vitamin K",
+        "namePt": "Vitamina K",
+        "origin": "Natural, produzida pelo corpo humano e encontrada em alimentos de origem vegetal e animal.",
+        "mainFunction": "Vitamina que participa do processo de coagulação sanguínea, evitando hemorragias, também estimula a fixação de cálcio nos ossos, sendo importante para o fortalecimento ósseo e para prevenir a osteoporose.",
+        "ref ": "[501]"
+    },
+    {
+        "nameUs": "Vitamina E",
+        "category": 2,
+        "nameLatin": "Vitamin E ",
+        "namePt": "tocopherol",
+        "origin": "Natural e sintética. Também conhecido como vitamina E, pode ser obtido a partir de fontes naturais, como óleos vegetais, ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Antioxidante, usado para proteger a pele contra danos causados pelos radicais livres e ajuda a melhorar a saúde e a aparência da pele.",
+        "ref ": "[334][A2][G1]"
+    },
+    {
+        "nameUs": "White mulberry root extract",
+        "category": 2,
+        "nameLatin": "Morus alba root extract",
+        "namePt": "Extrato da raiz de amora branca",
+        "origin": "Natural, a partir da fervura de um líquido de extração que fica em contato com a raíz da amora branca",
+        "mainFunction": "Condicionador da pele, destinado a amaciar e suavizar a pele ",
+        "ref ": "[A2] [E] [188]"
+    },
+    {
+        "nameUs": "Wintergreen Oil",
+        "category": 2,
+        "nameLatin": "Quaternium-18",
+        "namePt": "Alquilamidopropiltrimônio Cloreto de Amônio",
+        "origin": "Artificial a partir de quaternários de amônio.",
+        "mainFunction": "Agente condicionante, utilizado em produtos para cabelo, para melhorar a textura e facilitar o desembaraço.",
+        "ref ": "[A2] [E] [263] [268]"
+    },
+    {
+        "nameUs": "Wool Alcohols",
+        "category": 2,
+        "nameLatin": "Lanolin alcohol",
+        "namePt": "Álcool de lanolina",
+        "origin": "Artificial, a partir do composto lanolina, um óleo natural das glândulas sebáceas de ovelha, que é obtido a partir da lã tosada, com ácido acético (principal composto do vinagre) e soda caústica",
+        "mainFunction": "Emoliente, destinado a amaciar e suavizar a pele",
+        "ref ": "[A1] [A2] [E] [145] [149] [305]"
+    },
+    {
+        "nameUs": "wool grease",
+        "category": 2,
+        "nameLatin": "lanolin",
+        "namePt": "lanolina",
+        "origin": "Natural, a partir da cera de lã bruta gerada pelos beneficiadores têxteis como um sub produto do processo.",
+        "mainFunction": "Emulsificante, utilizado em pomadas para as peles mais sensíveis por conta de suas propriedades químicas.",
+        "ref ": "[A2][E][206]"
+    },
+    {
+        "nameUs": "zafran",
+        "category": 2,
+        "nameLatin": "Saffron",
+        "namePt": "Açafrão",
+        "origin": "Natural, a apartir da secagem dos três estigmas vermelhos da flor de Crocus sativus L",
+        "mainFunction": "Composto, utilizado para auxiliar na perda de peso associado com o controle da saciedade, redução do estresse, diminuição da ansiedade e dos sintomas da depressão pela contribuição na inibição da recaptação de Serotonina",
+        "ref ": "[A2] [E] [143]"
+    },
+    {
+        "nameUs": "Zinc White",
+        "category": 2,
+        "nameLatin": "zinc oxide",
+        "namePt": "óxido de zinco",
+        "origin": "Artificial, a partir do processo de volatilização do zinco por aquecimento indireto e possui um alto grau de pureza.",
+        "mainFunction": "Antisséptico, utilizado  para a ação suavizante, cicatrizante e protetora da pele nas afecções que apresentam erupções superficiais.",
+        "ref ": "[A2][E][203]"
+    },
+    {
+        "nameLatin": "Thiamine",
+        "namePt": "Vitamina B1",
+        "origin": "Natural, encontrada em diversos alimentos, como levedura de cerveja, gérmen de trigo, cereais integrais, frutos secos e carnes.",
+        "mainFunction": "Vitamina essencial para gerar energia para o organismo, proteger o sistema nervoso, manter a saúde cardiovascular, proteger a saúde dos olhos, previnir a diabetes, melhorar o sistema imune, melhorar o humor e combater a anemia megaloblástica.",
+        "ref ": "[502]"
+    },
+    {
+        "nameUs": "Hydroxyacetophenone",
+        "category": 2,
+        "nameLatin": "Hydroxyacetophenone",
+        "namePt": "Hidroxiacetofenona",
+        "origin": "Natural, encontrado em herbáceas (ervas).",
+        "mainFunction": "Antioxidante utilizado em produtos cosméticos.",
+        "ref ": "[536]"
+    },
+    {
+        "nameUs": "Polyglyceryl-3 Caprylate\r",
+        "category": 2,
+        "nameLatin": "Polyglyceryl-3 Caprylate\r",
+        "namePt": "Caprilato de Poligliceril-3",
+        "origin": "Natural, encontrado em herbáceas (ervas).",
+        "mainFunction": "Emulsificante vegetal suave (é um tipo de aditivp que ajuda na mistura de duas substâncias que, em outras situações, não se misturam).",
+        "ref ": "[537]"
+    },
+    {
+        "nameUs": "Disodium EDTA",
+        "category": 2,
+        "nameLatin": "Disodium EDTA",
+        "namePt": "EDTA Dissódico",
+        "origin": "Artificial, a partir do etilenodiamina, formaldeído e cianeto de sódio",
+        "mainFunction": "Protege a função original de antioxidantes naturais (vitamina C e vitamina E, por exemplo), faz o cheiro de fragâncias não ser alterado, evita a mudança na coloração dos produtos, impede a degradação de insumos naturais, como óleos e extratos vegetais, combate a alteração na função de limpeza e espumação de shampoos e sabonetes, pois evita que íons de cálcio e magnésio sofram precipitação.",
+        "ref ": "[A2] [E] [104] [538]"
+    },
+    {
+        "nameUs": "Adapalene",
+        "category": 2,
+        "nameLatin": "Differen",
+        "namePt": "Adapaleno",
+        "origin": "Sintético, produzido a partir do ácido naftóico com atividade retinóide.",
+        "mainFunction": "Retinoide que reduz a inflamação na pele que causa acne.",
+        "ref ": "[539] [541]"
+    },
+    {
+        "nameUs": "Benzoyl peroxide",
+        "category": 2,
+        "nameLatin": "Benzoyl peroxide",
+        "namePt": "Peróxido de benzoíla",
+        "origin": "Sintético, produzido a partir da uma reação entre hidroperóxido de sódio e cloreto de benzoila.",
+        "mainFunction": "Atua como agente antimicrobiano e ao mesmo tempo esfolia a camada superficial da pele.",
+        "ref ": "[539] [540]"
+    },
+    {
+        "nameUs": "Poloxamer 407",
+        "category": 2,
+        "nameLatin": "Pluronic",
+        "namePt": "Poloxamer 407",
+        "origin": "Sintético, copolímero anfifílico sintético baseado em bloco hidrofílico de poli(óxido de etileno) (PEO) e bloco hidrofóbico de poli(óxido de propileno) (PPO) organizado em uma estrutura tribloco PEO – PPO – PEO.",
+        "mainFunction": "Utilizado como emulsificante (aditivo que ajuda na mistura de duas substâncias que, em outras situações, não se misturam) e surfactante(reduz a tensão superficial de um líquido) em produtos cosméticos.",
+        "ref ": "[542] [543]"
+    },
+    {
+        "nameUs": "Etidronic acid",
+        "category": 2,
+        "nameLatin": "Etidronic acid",
+        "namePt": "Ácido etidrônico",
+        "origin": "Sintético, produzido a partir do tricloreto de fósforo e o ácido acético.",
+        "mainFunction": "Atua como um agente quelante, removendo íons metálicos da água e de outros ingredientes cosméticos. Essa ação é essencial para evitar a formação de depósitos, manchas e reações indesejadas na fórmula, garantindo a eficácia do produto.",
+        "ref ": "[544] [545]"
+    },
+    {
+        "nameUs": "Agar-agar",
+        "category": 2,
+        "nameLatin": "Agar",
+        "namePt": "Ágar-ágar",
+        "origin": "Natural, extraído de diversos tipos e espécies de algas vermelhas pertencentes à classe Rhodophyceae.",
+        "mainFunction": "Agente de viscosidade que controla a espessura e textura de produtos cosméticos, sendo uma goma utilizada para aumentar a viscosidade e como agente de ligação.",
+        "ref ": "[546] [547]"
+    },
+    {
+        "nameUs": "Witch hazel water",
+        "category": 2,
+        "nameLatin": "Distilled Witch Hazel",
+        "namePt": "Água de Hamamélis",
+        "origin": "Natural, é obtida através da destilação da Hamamelis Virginiana, uma planta nativa das florestas Norte Americanas, muito utilizada pelos índios para curar doenças e tratar da pele.",
+        "mainFunction": "Condicionador de pele, age como adstringente para firmar a pele e também como emoliente, proporcionando suavidade à pele e ao cabelo.",
+        "ref ": "[548] [549]"
+    },
+    {
+        "nameUs": "Avobenzone",
+        "category": 2,
+        "nameLatin": "Butyl Methoxydibenzoylmethane",
+        "namePt": "Avobenzona",
+        "origin": "Sintético, é preparado submetendo o fenetol e o metilbenzeno, como materiais de partida, a reações de alquilação, oxidação, esterificação, acilação e condensação.",
+        "mainFunction": "Agente protetor solar que ajuda a prevenir danos causados pela exposição aos raios UV do sol, contribuindo para a proteção contra o câncer de pele e o envelhecimento precoce.",
+        "ref ": "[550] [551]"
+    },
+    {
+        "nameUs": "Caprylyl methicone",
+        "category": 2,
+        "nameLatin": "Trimethyl-(methyl-tetradecyl-trimethylsilyloxysilyl)oxysilane",
+        "namePt": "Caprilil meticona",
+        "origin": "Sintético, polímero de silicone sintético.",
+        "mainFunction": "Utilizada como condicionador para suavizar e hidratar a pele, contribuindo para prevenir a perda de umidade.",
+        "ref ": "[552] [553]"
+    },
+    {
+        "nameUs": "Capryloyl glycine",
+        "category": 2,
+        "nameLatin": "N-(1-oxooctyl)glycine",
+        "namePt": "Capriloil glicina",
+        "origin": "Natural, encontrado no óleo de coco.",
+        "mainFunction": "Atua como surfactante, proporcionando espuma e limpeza, e também como emoliente para suavizar a pele e o cabelo.",
+        "ref ": "[554] [555]"
+    },
+    {
+        "nameUs": "Carbomer",
+        "category": 2,
+        "nameLatin": "Carbomer",
+        "namePt": "Carbômer",
+        "origin": "Sintético, produzido a partir da polimerização de ácido acrílico ou seus derivados, como acrilato de sódio, acrilato de potássio ou acrilato de metila com um agente de reticulação.",
+        "mainFunction": "Atua como estabilizador de emulsão, prevenindo a separação de ingredientes, e também aumenta a viscosidade da fórmula, conferindo espessamento.",
+        "ref ": "[556] [557]"
+    },
+    {
+        "nameUs": "Chlorphenesin",
+        "category": 2,
+        "nameLatin": "Chlorphenesin",
+        "namePt": "Clorfenesina",
+        "origin": "Sintético, produzido a partir da condensação de glicidol e p-clorofenol na presença de um catalisador tal como um sal de amônio quaternário ou uma amina terciária.",
+        "mainFunction": "Conservante utilizado na fórmula de cosméticos para proteger contra a contaminação por agentes externos, prevenindo o crescimento microbiano.",
+        "ref ": "[558] [559]"
+    },
+    {
+        "nameUs": "Sucrose Cocoate",
+        "category": 2,
+        "nameLatin": "Sucrose Cocoate",
+        "namePt": "Cocoato de sacarose",
+        "origin": "Sintético, produzido através da esterificação química do óleo de coco com sacarose.",
+        "mainFunction": "Atua como emoliente, retendo umidade, e como agente emulsificante, mantendo ingredientes diversos unidos, além de desempenhar papel antiestático.",
+        "ref ": "[560] [561]"
+    },
+    {
+        "nameUs": "Coco-Caprylate",
+        "category": 2,
+        "nameLatin": "Coco-Caprylate",
+        "namePt": "Coco-caprilato",
+        "origin": "Sintético, produzido a partir da combinação de ésteres de álcool graxo derivado de coco (do tipo não secante) com ácidos caprílico e cáprico, também de coco.",
+        "mainFunction": "Age como emoliente e agente condicionante, proporcionando espalhamento e lubrificação sem resíduos oleosos. Sua rápida absorção ajuda a suavizar e hidratar a pele seca ou danificada.",
+        "ref ": "[562] [563]"
+    },
+    {
+        "nameUs": "Coco-Glycoside",
+        "category": 2,
+        "nameLatin": "Coco-Glycoside",
+        "namePt": "Coco-glicosídeo",
+        "origin": "Natural ou sintético, derivado do óleo de coco ou da glicose ou produzido sinteticamente em laboratório.",
+        "mainFunction": "Emulsionante eficaz que limpa e remove a sujeira e a oleosidade da pele. Reconhecido por sua suavidade, é um ingrediente não irritante para a pele.",
+        "ref ": "[564] [565]"
+    },
+    {
+        "nameUs": "Titanium dioxide",
+        "category": 2,
+        "nameLatin": "Titanium dioxide",
+        "namePt": "Dióxido de titânio  ",
+        "origin": "Sintético, produzido a partir de processos químicos.",
+        "mainFunction": "Confere opacidade a produtos cosméticos e é usado como filtro solar em alguns produtos. Ao contrário de um corante, não adiciona cor, mas contribui para a aparência opaca dos produtos.",
+        "ref ": "[566] [567]"
+    },
+    {
+        "nameUs": "Ensulizole",
+        "category": 2,
+        "nameLatin": "Phenylbenzimidazole Sulfonic Acid",
+        "namePt": "Ensulizol "
+    }
+]

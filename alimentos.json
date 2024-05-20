@@ -1,0 +1,3157 @@
+[
+    {
+        "nameUs": "\nModified Starch",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "\nModified Starch",
+        "namePt": "Amido modificado",
+        "mainFunction": "Umectante; destinado a proteger os alimentos da perda de umidade em ambiente de baixa umidade relativa ou destinado a facilitar a dissolução de uma substância seca em meio aquoso.",
+        "origin": "Artificial, a partir do amido provido do milho ou mandioca que tem sua cadeia química alterada por ações enzimáticas, térmicas ou por substâncias especificas como ácidos.",
+        "ref": "[A1] [D] [211]"
+    },
+    {
+        "nameUs": "\nmonocalcium phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium Dihydrogenphosphate",
+        "namePt": "Fosfato monocálcico",
+        "mainFunction": "Composto, destinado a estabilizar e regular a acidez de alimentos. ",
+        "origin": "Artificial, a partir da reação de ácido fosfórico puro com o carbonato de cálcio",
+        "ref": "[A1][B][P1]"
+    },
+    {
+        "nameUs": " coffee essence",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "instant coffee",
+        "namePt": "Café solúvel",
+        "mainFunction": "Bebida, derivada de grãos de café fermentados que permite que as pessoas preparem café quente rapidamente adicionando água",
+        "origin": "Natural, a partir da desidratação do extrato aquoso de café torrado.",
+        "ref": "[A1] [359] [B]"
+    },
+    {
+        "nameUs": " wholemeal flour",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "whole wheat flour\r",
+        "namePt": "Farinha de trigo integral",
+        "mainFunction": "Substância, utilizada na produção de massas,  contem alto teor de nutrientes traz muitos benefícios, como auxiliar no bom funcionamento do intestino, possibilitar a sensação de saciedade, reduzir os índices de colesterol ruim no sangue e diminuir as taxas de glicose.\n",
+        "origin": "Natural, a partir da moagem do grão inteiro, utiliza-se a casca, a parte interna e o gérmen.",
+        "ref": "[A1][361][P1]"
+    },
+    {
+        "nameUs": "1-hydroxypropan-2-one",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium bicarbonate",
+        "namePt": "Bicarbonato de sódio",
+        "mainFunction": "Utilizado como fermento pela liberação de gás carbônico.",
+        "origin": "Natural e sintético, na natureza é encontrado principalmente no mineral nahcolita e artificialmente é produzido a partir do carbonato de sódio, da amônia, do dióxido de carbono, água e cloreto de sódio.",
+        "ref": "[374] [375]"
+    },
+    {
+        "nameUs": "1,3,5-triazine-2,4,6(1H,3H,5H)-trione",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Citric acid",
+        "namePt": "Ácido cítrico",
+        "mainFunction": "Utilizado na indústria de alimentos como conservante.  ",
+        "origin": "Natural e sintético, extraído de frutas ou produzido pela fermentação.",
+        "ref": "[381]"
+    },
+    {
+        "nameUs": "2-(4-chlorophenoxy)-N,N-dimethylethanamine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium sulfate",
+        "namePt": "Sulfato de cálcio",
+        "mainFunction": "Utilizado para ajudar a manter a consistência dos alimentos e evitar que eles estraguem rápido.",
+        "origin": "Natural, encontrado na natureza em diversas formas, como gipsita, anidrita e alabastro.",
+        "ref": "[378]"
+    },
+    {
+        "nameUs": "2,3,5-trimethyl-6-phenyltetrahydro-2H-pyran-2-one",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Glycerol (Glycerin)",
+        "namePt": "Glicerol (Glicerina)",
+        "mainFunction": "Utilizado na indústria alimentícia para conservar alimentos e bebidas, mas também é utilizado na indústria farmacêutica, têxtil, e de cosméticos, tintas, vernizes e de tabaco.",
+        "origin": "Natural e sintético, de origem vegetal e animal, mas também pode ser produzido sinteticamente. ",
+        "ref": "[389]"
+    },
+    {
+        "nameUs": "2,5-dihydroxycyclohexa-2,5-diene-1,4-dione",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Linalool",
+        "namePt": "Linalol",
+        "mainFunction": "Utilizado como conservante na indústria de alimentos. ",
+        "origin": "Natural, substância orgânica presente em óleos essenciais de diversas plantas. ",
+        "ref": "]383] [384] "
+    },
+    {
+        "nameUs": "3,7-dimethyl-6-octenal",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Monosodium phosphate",
+        "namePt": "Fosfato monossódico",
+        "mainFunction": "Utilizado como regulador de acidez, emulsionante e conservante na indústria de alimentos e bebidas.",
+        "origin": "Sintético, produzido pela neutralização parcial do ácido fosfórico.",
+        "ref": "[376] [377]"
+    },
+    {
+        "nameUs": "Acesulfame Potassium",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Acesulfame K ( E950)",
+        "namePt": "Acessulfame de potássio",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Artificial, a partir d",
+        "ref": "[A] [D]"
+    },
+    {
+        "nameUs": "Acesulfame potassium",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Acesulfame K",
+        "namePt": "Acesulfame de potássio",
+        "mainFunction": "Adoçante sem calorias utilizado em alimentos e bebidas.",
+        "origin": "Sintético, produzido a partir de uma reação química envolvendo ácido acetoacético e potássio.",
+        "ref": "[475]"
+    },
+    {
+        "nameUs": "acetic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "vinegar",
+        "namePt": "Vinagre",
+        "mainFunction": "Condimento, utilizado para adicionar sabor e preservar a comida.",
+        "origin": "Natural, a partir da fermentação acética do vinho.",
+        "ref": "[A1][366][P1]"
+    },
+    {
+        "nameUs": "Acetic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ethanoic acid",
+        "namePt": "Ácido acético",
+        "mainFunction": "Utilizado para dar um sabor ácido aos alimentos, principal ingrediente do vinagre. ",
+        "origin": "Natural e sintético, é encontrado em tecidos animais e vegetais e produzido pela oxidação do etanol do vinho.",
+        "ref": "[428] [429]"
+    },
+    {
+        "nameUs": "Achiotillo",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Annatto",
+        "namePt": "Urucum",
+        "mainFunction": "Corante, utilizado para  temperar e dar cor a certos tipos de alimentos. ",
+        "origin": "Natural, extraída convencionalmente das sementes do urucum. ",
+        "ref": "[A1][P1]"
+    },
+    {
+        "nameUs": "Acid yellow 23",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Tartrazine (INS 102)",
+        "namePt": "Tartrazina",
+        "mainFunction": "Corante, destinado a conferir, intensificar ou restaurar a cor de um alimento.",
+        "origin": "Artificial, a partir do ácido 4,5-di-hidroxi-5-oxo-1-(4-sulfofenil)-4-(4-sulfofenil-azo)-1H-pirazol-3-carboxílico",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Agar",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Agar-agar",
+        "namePt": "Ágar",
+        "mainFunction": "Espessante; destinado a aumentar a viscosidade de um alimento.\/ Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento.\/Emulsionante\/Emulsificante; destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Natural; a partir das algas marinhas vermelhas do filo Rodophyta, chamadas de agarofitas.",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Agrobacterium tumefaciens",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Rhizobium radiobacter",
+        "namePt": "Agrobacterium tumefaciens",
+        "mainFunction": "Doadora de gene; (bactéria) destinada a proporcionar a modificação genética de alguma semente em laboratório; como sementes do milho; soja e algodão; objetivando o controle de pragas e insetos na lavoura.",
+        "origin": "Natural; a partir do solo ( local onde se prolifera e habita)",
+        "ref": "[A1] [341] [342] [344]"
+    },
+    {
+        "nameUs": "Alpha Tocopherol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "RRR-α-Tocopherol Concentrate",
+        "namePt": "Alfa-tocoferol ",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação \/ Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.\/ Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Natural, a partir principalmente de óleos vegetais, extraído principalmente das semente de algodão, soja, girassol e germe de trigo, e industrialmente é isolado por destilação a vapor a vácuo com óleo vegetal (os quais contêm vitamina E) de produtos comestíveis. ",
+        "ref": "[A1] [B] [D] [I] [V] [266]"
+    },
+    {
+        "nameUs": "Alpha-Amylase",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Alpha-amylase enzyme",
+        "namePt": "Alfa-amilase",
+        "mainFunction": "Melhorador de Farinha; destinado a; quando agregado à farinha; melhorar sua qualidade nutritiva.",
+        "origin": "Natural; a partir da fermentação de carboidratos por fungos filamentosos (mofos ou bolores) ou bactérias que se encontram dentro de tecidos de plantas.",
+        "ref": "[A1] [B] [D] [70] [71]"
+    },
+    {
+        "nameUs": "Ammonium Bicarbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ammonium Salt",
+        "namePt": "Bicarbonato de amônio ",
+        "mainFunction": "Fermento químico; destinado a aumentar o volume da massa através da liberação de gás por parte das substâncias do fermento",
+        "origin": "Artificial, a partir do aquecimento do hidróxido de amônia com o gás dioxido de carbono",
+        "ref": "[A1] [B] [D] [231]"
+    },
+    {
+        "nameUs": "Ammonium chloride\n",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Salt armoniack",
+        "namePt": "Cloreto de amônio",
+        "mainFunction": "Fermento Biológico; destinado a ser utilizado em processos de tecnologia alimentar que envolvem fermentação.",
+        "origin": "Artificial, a partir da reação da amônia ( obtida por aquecimento do carvão) com ácido clorídrico",
+        "ref": "[A1] [B] [D] [50]"
+    },
+    {
+        "nameUs": "Ammonium hydroxide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ammonia",
+        "namePt": "Amônia",
+        "mainFunction": "Utilizada em sistemas de refrigeração, estando presente em indústrias de laticínios, carnes e alimentos em geral.",
+        "origin": "Natural e sintético, encontrado no ar e no solo ou produzido por síntese a partir de nitrogênio e hidrogênio.",
+        "ref": "[444] [445]"
+    },
+    {
+        "nameUs": "Amylopectin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Waxy starch",
+        "namePt": "Amilopectina",
+        "mainFunction": "Utilizada para aumentar a viscosidade e como agente estabilizante.",
+        "origin": "Natural, encontrada no amido, que é encontrado em vegetais.",
+        "ref": "[504] [505]"
+    },
+    {
+        "nameUs": "Anacardium occidentale nut oil",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cashew Nut oil",
+        "namePt": "Óleo vegetal da castanha do caju",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe conferir uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil",
+        "origin": "Natural, a partir da extração por prensagem a frio (esmagamento) da castanha-de-caju",
+        "ref": "[A1] [A2] [Q] [156]"
+    },
+    {
+        "nameUs": "Anise alcohol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Anisyl Alcohol",
+        "namePt": "Álcool anisílico",
+        "mainFunction": "Aromatizante, destinado a conferir ou reforçar o aroma e\/ou sabor dos alimentos",
+        "origin": "Artificial, a partir da adição de hidrogênio ao composto p-metoxibenzaldeído, e é um álcool encontrado naturalmente em vagens de baunilha e nas sementes de anis",
+        "ref": "[D] [110] [111] [194]"
+    },
+    {
+        "nameUs": "Ara",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Arabinose",
+        "namePt": "Arabinose"
+    },
+    {
+        "nameUs": "Ascorbic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vitamin C",
+        "namePt": "Ácido ascórbico",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor. Antioxidante; destinado a evitar que os demais ingredientes degradem por oxidação ",
+        "origin": "Natural; a partir de frutas cítricas; folhas verdes; jaboticaba; brócolis; pimentão; etc. ",
+        "ref": "[A1] [B] [D] [242]"
+    },
+    {
+        "nameUs": "Ascorbyl Palmitate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Palmitoyl L-Ascorbic Acid",
+        "namePt": "Palmitato de ascorbila",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Artificial, a partir da fermentação do ácucar dextrose de milho e do óleo de palma.",
+        "ref": "[A1] [B] [D][265]"
+    },
+    {
+        "nameUs": "Asparagine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2-Amino-3-carbamoylpropanoic acid",
+        "namePt": "Asparagina",
+        "mainFunction": "Utilizada no processamento de café para reduzir o teor de acrilamida(substância formada quando alimentos são expostos a altas temperaturas).",
+        "origin": "Natural, encontrada em alimentos, como leite, ovos, frutos do mar, carnes, batatas etc.",
+        "ref": "[508] [509]"
+    },
+    {
+        "nameUs": "Aspartame",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "APM",
+        "namePt": "Aspartame",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Artificial, a partir de fermentação e síntese microbiana para formação da fenilalanina e do ácido aspártico",
+        "ref": "[A1] [D] [212]"
+    },
+    {
+        "nameUs": "Bacillus thuringiensis",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Bacillus thuringiensis subsp. Kurstaki ",
+        "namePt": "Bacillus thuringiensis",
+        "mainFunction": "Doadora de gene; (bactéria) destinada a proporcionar a modificação genética de alguma semente em laboratório; como sementes do milho; soja e algodão; objetivando o controle de pragas e insetos na lavoura.",
+        "origin": "Natural; a partir do solo ( local onde se prolifera e habita) e foram originalmente descoberta em solo alemão; na região da Turíngia.",
+        "ref": "[A1] [341] [342] [343]"
+    },
+    {
+        "nameUs": "Baker's yeast",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Yeast",
+        "namePt": "Levedura",
+        "mainFunction": "Utilizada no processo de fermentação de alimentos como pães, bolos e pizzas. ",
+        "origin": "Natural, fungos geralmente unicelulares.",
+        "ref": "[422] [423]"
+    },
+    {
+        "nameUs": "Bamboo fiber",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Bamboo cellulose",
+        "namePt": "Fibra de bambu",
+        "mainFunction": "Utilizada como antiaglutinante, estabilizante, melhorador de textura e modificador de viscosidade.",
+        "origin": "Natural, extraída da planta do bambu.",
+        "ref": "[470] [471]"
+    },
+    {
+        "nameUs": "Barley Flour",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "wholemeal rye flour",
+        "namePt": "Farinha de centeio integral",
+        "mainFunction": "Substância, utilizada para o preparo de pães, biscoitos, pizzas, tortas e outras massas. ",
+        "origin": "Natural, a partir do grão integral e farinha de centeio leve a partir de grãos parcialmente desbastados e tem um sabor mais forte que o trigo.",
+        "ref": "[A1][B] [363] [P1]"
+    },
+    {
+        "nameUs": "Benzoic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Benzoic acid",
+        "namePt": "Ácido benzoico",
+        "mainFunction": "Utilizado como conservante de alimentos.",
+        "origin": "Natural e sintético, encontrado em ameizas, morangos, amoras, framboesa, groselha, em basálmos, em resinas e na casca na árvore benjoeiro, mas também pode ser produzida artificialmente em laboratórios. ",
+        "ref": "[402]"
+    },
+    {
+        "nameUs": "Benzoic acid, sodium salt",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Saccharin",
+        "namePt": "Sacarina",
+        "mainFunction": "Utilizado como adoçante de baixa caloria, sendo um substituto saudável para o açúcar.",
+        "origin": "Sintético, derivado do petróleo.",
+        "ref": "[408] [409]"
+    },
+    {
+        "nameUs": "Beta-carotene",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "E160a",
+        "namePt": "Corante natural betacaroteno",
+        "mainFunction": "Corante, utilizado para melhorar a cor e aparência dos alimentos ",
+        "origin": "Natural, a partir da extração  e moajem de frutas de cor amarela ou laranja ",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Biotin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "d-Biotin",
+        "namePt": "Vitamina B7 (Biotina)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.\/ Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Natural, a partir de partes de animais como fígado, rim, pâncreas, além de leveduras e leite e é encontrado em algumas bactérias como Lysinibacillus sphaericus e Achromobacter.",
+        "ref": "[A1] [D] [261]"
+    },
+    {
+        "nameUs": "Bordeaux red",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Bordeaux red",
+        "namePt": "Vermelho Bordeaux S",
+        "mainFunction": "Corante, destinado a conferir, intensificar ou restaurar a cor de um alimento.",
+        "origin": "Artificial, a partir da tinta do alcatrão de carvão",
+        "ref": "[B] [D][213]"
+    },
+    {
+        "nameUs": "Brilliant Blue FCF",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "FD&C Blue No. 1",
+        "namePt": "Azul brilhante FCF",
+        "mainFunction": "Corante alimentício azul utilizado em laticínios, balar, cereais etc.",
+        "origin": "Sintético, produzido a partir da tinta do alcatrão de carvão.",
+        "ref": "[510]"
+    },
+    {
+        "nameUs": "Brown sugar",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "demerara sugar",
+        "namePt": "Açúcar Mascavo",
+        "mainFunction": "Açucar, utilizado para dar sabor à alimentos, possui menos calorias e auxilia no processo de emagrecimento.",
+        "origin": "Natural, a partir de caldo bruto extraído da cana-de-açúcar, passando por proces de concentração e cristalização",
+        "ref": "[A1] [357]"
+    },
+    {
+        "nameUs": "Butyl acetate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Butyl ethanoate",
+        "namePt": "Acetato de butila",
+        "mainFunction": "Utilizado para dar um sabor característico em balas, doces e biscoitos.",
+        "origin": "Sintético, produzido a partir da esterificação do ácido acético com o NButanol.",
+        "ref": "[502]"
+    },
+    {
+        "nameUs": "Butylated Hydroxyanisole",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "B.H.A.",
+        "namePt": "Butil Hidroxianisol",
+        "mainFunction": "Antioxidante; destinado a evitar que os demais ingredientes degradem por oxidação ",
+        "origin": "Artificial, a partir de processos de misturas, reações, separações e aquecimentos com a substância 4-terc-butilfenol e a acetona",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Butylated hydroxyanisole (BHA)",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2-(3-tert-Butyl-4-hydroxyanisole)",
+        "namePt": "BHA (butil-hidroxianisole)",
+        "mainFunction": "Utilizado como antioxidante e conservante em alimentos e produtos de cuidados pessoais para prolongar a vida útil e prevenir a oxidação.",
+        "origin": "Sintético, produzido por uma reação química.",
+        "ref": "[511] [512]"
+    },
+    {
+        "nameUs": "Butylated hydroxytoluene",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "BHT",
+        "namePt": "Hidroxitolueno butilado",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Artificial, produzido a partir do petróleo",
+        "ref": "[A2] [D] [157]"
+    },
+    {
+        "nameUs": "Butylated Hydroxytoluene",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "B.H.T",
+        "namePt": "Hidróxido de tolueno butilado",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Natural, a partir das plantas Thymus longicaulis, Teucrium leucocladum e outros organismos.",
+        "ref": "[A1] [B] [S] [276]"
+    },
+    {
+        "nameUs": "Butylated hydroxytoluene (BHT)",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2,6-Di-tert-butyl-4-methylphenol",
+        "namePt": "BHT (butil-hidroxitolueno)",
+        "mainFunction": "Utilizado como antioxidante e conservante em alimentos e produtos de cuidados pessoais para prolongar a vida útil e prevenir a oxidação.",
+        "origin": "Sintético, produzido por uma reação química.",
+        "ref": "[511] [513]"
+    },
+    {
+        "nameUs": "C8H8O3",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vanillin",
+        "namePt": "Vanilina",
+        "mainFunction": "Aromatizante, sendo largamente utilizado em alimentos, bebidas",
+        "origin": "Natural, a partir da extração da vagem de uma orquídea tropical, a Vanilla planifolia",
+        "ref": "[A1] [358]"
+    },
+    {
+        "nameUs": "Caffeic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Caffeic acid",
+        "namePt": "Ácido cafeico",
+        "mainFunction": "Agente antioxidante, neuroprotetor, antiinflamatório, antiproliferativo, antibacteriano antiviral antiaterosclerótico e anticancerígeno. ",
+        "origin": "Natural, composto fenólico encontrado no café.",
+        "ref": "[391]"
+    },
+    {
+        "nameUs": "Caffeine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "1,3,7-Trimethylxanthine",
+        "namePt": "Cafeína",
+        "mainFunction": "Realçador de Sabor, destinado a ressar ou realçar o sabor\/aroma de um alimento.",
+        "origin": "Natural, a partir dos grãos de café, folhas de chá e de mate, nas sementes de cacau e em várias partes do guaraná",
+        "ref": "[A1] [D] [222] [223]"
+    },
+    {
+        "nameUs": "Calcium bromide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium bromine",
+        "namePt": "Brometo de cálcio",
+        "mainFunction": "Utilizado como catalisador em reações químicas e na indústria de refrigeração de alimentos.",
+        "origin": "Sintético, produzido a partir da reação entre ácido bromídrico e óxido de cálcio.",
+        "ref": "[437]"
+    },
+    {
+        "nameUs": "Calcium Carbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "E 170",
+        "namePt": "Carbonato de cálcio",
+        "mainFunction": "Antiumectante, destinado a reduzir as características higroscópicas (absorção de água) dos alimentos e diminuir a tendência de adesão, umas às outras, das partículas individuais.",
+        "origin": "Natural, a partir da rocha cálcario (matéria-prima do giz)  que passa por processos de separação da água, secagem e moagem do produto final",
+        "ref": "[A1] [B] [D] [227] [228]"
+    },
+    {
+        "nameUs": "Calcium chloride anhydrous",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium chloride",
+        "namePt": "Cloreto de cálcio",
+        "mainFunction": "Utilizado para absorver a água, aumentando a viscosidade da massa, podendo ser usado em doces, produtos lácteos, poupas, frutas, legumes, etc. Também é utilizado em produtos lácteos e queijos como um agente estabilizante, permitindo a coagulação do leite.",
+        "origin": "Sintético, produzido a partir de pedra calcária.",
+        "ref": "[440] [441]"
+    },
+    {
+        "nameUs": "Calcium iodide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium (II) Iodide",
+        "namePt": "Iodeto de cálcio",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir da reação de óxido de cálcio, ou carbonato de cálcio, ou hidróxido de cálcio com ácido clorídrico",
+        "ref": "[I] [V] [271]"
+    },
+    {
+        "nameUs": "Calcium Lactate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2-Hydroxypropanoic Acid Calcium Salt",
+        "namePt": "Lactato de cálcio",
+        "mainFunction": "Melhorador de Farinha; substância agregada à farinha; destinada a melhorar sua qualidade tecnológica para os fins a que se destina.",
+        "origin": "Artificial; a partir do ácido lático ( obtido por fermentação bacteriana de açúcares como a dextrose) com carbonato de cálcio",
+        "ref": "[A1] [B] [D] [310]"
+    },
+    {
+        "nameUs": "Calcium Oxide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lime",
+        "namePt": "Óxido de cálcio",
+        "mainFunction": "Melhorador de Farinha; destinado a; quando agregado à farinha; melhorar sua qualidade nutritiva.",
+        "origin": "Natural; a partir principalmente de rochas que contêm o mineral calcita, conchas do mar e giz.",
+        "ref": "[A1] [B] [D] [62]"
+    },
+    {
+        "nameUs": "Calcium Pantothenate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Dextro Calcium Pantothenate",
+        "namePt": "Pantotenato de cálcio",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural; a partir de moléculas de ácido pantotênico",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Calcium Propionate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium Propanoate",
+        "namePt": "Propionato de cálcio",
+        "mainFunction": "Conservante; destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial; a partir do ácido propiónico com hidróxido de cálcio (conhecido como cal hidratada)",
+        "ref": "[A1] [B] [S] [299]"
+    },
+    {
+        "nameUs": "Calcium propionate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium propionate",
+        "namePt": "Propionato de cálcio",
+        "mainFunction": "Utilizado como conservante, impede o crescimento de mofos, leveduras e bactérias.",
+        "origin": "Natural, composto orgânico encontrado na natureza.",
+        "ref": "[540]"
+    },
+    {
+        "nameUs": "Calcium Silicate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium orthosilicate",
+        "namePt": "Silicato de cálcio",
+        "mainFunction": "Agente de Filtração; destinado a auxiliar a filtração de alimentos; facilitando a absorção de impurezas e sua remoção no momento da filtração.",
+        "origin": "Natural; a partir de minerais; solo e rochas na crosta terrestre; mas é sintetizado para obtenção da sua fomra pura através de reações e processos físicos com água destilada; silício; ácido cítrico; álcool; nitrato de cálcio e o composto queTEOS",
+        "ref": "[A1] [B] [D] [324]"
+    },
+    {
+        "nameUs": "Calcium Stearoyl Lactylate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "CSL",
+        "namePt": "Estearoil 2 lactil lactato de cálcio",
+        "mainFunction": "Emulsionante\/Emulsificante; destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Artificial; a partir do ácido lático ( obtido por fermentação bacteriana de açúcares) com ácido esteárico ( derivado de óleos e gorduras) e hidróxido de cálcio (conhecido como cal hidratada)",
+        "ref": "[A1] [B] [D] [300]"
+    },
+    {
+        "nameUs": "Calcium Sulfate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Gypsum ",
+        "namePt": "Sulfato de cálcio",
+        "mainFunction": "Melhorador de Farinha; destinado a; quando agregado à farinha; melhorar sua qualidade nutritiva.",
+        "origin": "Natural; a partir de formações mineráis com algumas variações na concentração de água na sua estrutura química. Locais os quais são encontrados comumente são em falhas geológicas; na base de deslocamentos divergentes de placas tectônicas e associados à rocha calcário.",
+        "ref": "[A1] [B] [D] [311]"
+    },
+    {
+        "nameUs": "Candelilla Wax",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 902",
+        "namePt": "Cera candelila",
+        "mainFunction": "Substância mastigatória em base de goma de mascar; destinada a amolecer a goma dos chicletes",
+        "origin": "Natural; a partir das folhas da planta candelilla, Euphorbia antisyphilitica (Fam. Euforbiaceae).",
+        "ref": "[A1] [B] [303]"
+    },
+    {
+        "nameUs": "Caramel Color",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Caramel",
+        "namePt": "Corante Caramelo (I,II,III, IV)",
+        "mainFunction": "Corante; destinado a conferir; intensificar ou restaurar a cor de um alimento.",
+        "origin": "Artificial, a partir do aquecimento de carboidratos compostos por frutose, dextrose (glicose), açúcar invertido, sacarose, xarope de malte, melaço e\/ou hidrolisados de amido sob temperatura controlada, podendo haver adição de ácidos, bases e\/ou sais",
+        "ref": "[A1] [B] [D] [209]"
+    },
+    {
+        "nameUs": "Carboxymethyl cellulose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Thickener INS 466",
+        "namePt": "Espessante INS 466",
+        "mainFunction": "Composto, utilizada como espessante, estabilizador, gelificante, modificador de textura.",
+        "origin": "Artificial, a partir do processo de celulose.",
+        "ref": "[A1][P1][371]"
+    },
+    {
+        "nameUs": "carmine lake",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Carmine Natural Dye",
+        "namePt": "Corante Natural Carmim ",
+        "mainFunction": " Cornate, utilizado na elaboração de iogurte por possuir elevada resistência ao meio ácido.",
+        "origin": "Artifixcial, a partir de um pigmento de vermelho intenso feito com Dactylopius Coccus, um inseto mexicano, conhecido por Cochonilha.",
+        "ref": "[A1][364][P1]"
+    },
+    {
+        "nameUs": "Carnauba Wax",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 903",
+        "namePt": "Cera carnaúba",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe conferir uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil",
+        "origin": "Natural; a partir de botões e folhas da palmeira brasileira Copernicia cereferia (Arruda) Mart., conhecida como carnaúba",
+        "ref": "[A1] [B] [Q]"
+    },
+    {
+        "nameUs": "Carrageenan",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Irish moss extract",
+        "namePt": "Carragena",
+        "mainFunction": "Utilizado como espessante, gelificante e estabilizante em alimentos, especialmente em produtos lácteos e sobremesas.",
+        "origin": "Natural, extraída de algas marinhas vermelhas.",
+        "ref": "[456]"
+    },
+    {
+        "nameUs": "Cellulose Gum",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium Carboxymethylcellulose",
+        "namePt": "Carboximetilcelulose sódica",
+        "mainFunction": "Espessante; destinado a aumentar a viscosidade de um alimento.",
+        "origin": "Artificial; a partir de processos químicos com a celulose ( composto presente nas plantas como o algodão; árvores; grama; linho) e sal sódico",
+        "ref": "[A1] [B] [D] [301] [302]"
+    },
+    {
+        "nameUs": "Cellulose Powder",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Microcrystalline Cellulose",
+        "namePt": "Celulose em pó ",
+        "mainFunction": "Espessante; destinado a aumentar a viscosidade de um alimento.\/ Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento.\/Emulsionante\/Emulsificante; destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Artificial; a partir da moagem a seco e\/ou hidrólise ácida de folhas de papel de celulose produzidas a partir da polpa de madeiras de plantas; como da árvore bétula.",
+        "ref": "[B] [D] [320] "
+    },
+    {
+        "nameUs": "Cera alba",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Beeswax",
+        "namePt": "Cera de abelha",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe conferir uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil",
+        "origin": "Artificial, a partir da retirada da cera no favo de mel, passando por processos de aquecimento, derretimento e filtragem ",
+        "ref": "[A1] [A2] [D] [143]"
+    },
+    {
+        "nameUs": "CGA",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Chlorogenic acid",
+        "namePt": "Ácido clorogênico",
+        "mainFunction": "Agente antioxidante, neuroprotetor e hipoglicemiante. ",
+        "origin": "Natural, composto fenólico encontrado no café.",
+        "ref": "[390]"
+    },
+    {
+        "nameUs": "Chlorophyll",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Chlorin",
+        "namePt": "Clorofila",
+        "mainFunction": "Pigmento natural utilizada como corante e antioxidante em alimentos.",
+        "origin": "Natural, de origem vegetal, extraído das folhas das plantas.",
+        "ref": "[515]"
+    },
+    {
+        "nameUs": "Cholecalciferol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vitamin D3",
+        "namePt": "Vitamina D3 (Colecalciferol)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir do cacau, alfafa, ovos, frutos do mar",
+        "ref": "[A1] [I] [V] [248]"
+    },
+    {
+        "nameUs": "Choline chloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Choline chloride C-11",
+        "namePt": "Cloreto de colina",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de plantas e orgãos de animais e é produzido em laboratório a partir das reações com trimetilamina (encontrado em organismos como a esponja do mar Hippospongia communis) e ácido clorídrico concentrado e tratamento final com óxido de etileno sob pressão",
+        "ref": "[A1] [I] [V] [268] [269] [270]"
+    },
+    {
+        "nameUs": "CI Food Blue 1",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 133",
+        "namePt": "Azul brilhante",
+        "mainFunction": "Corante, destinado a conferir, intensificar ou restaurar a cor de um alimento.",
+        "origin": "Artificial, a partir de hidrocarbonetos aromáticos derivados do petróleo.",
+        "ref": "[A1] [B] [D][214]"
+    },
+    {
+        "nameUs": "Cinnamon Powder",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Whole Cinnamon",
+        "namePt": "Canela em pó",
+        "mainFunction": "Aromatizante destinada a fins terapêuticos e culinários",
+        "origin": "Natural, a partir da extração e moagem das cascas da canela em pau",
+        "ref": "[A1] [D] [207]"
+    },
+    {
+        "nameUs": "Citric acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 330",
+        "namePt": "Ácido cítrico",
+        "mainFunction": "Acidulante, destinado a aumentar a acidez ou conferir um sabor ácido aos alimentos.\n\/Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Artificial, a partir da fermetação de uma fonte de carboidrato, como a beterraba crua e a cana-de-açúcar, através do cultivo do fungo Aspergillus niger no sistema",
+        "ref": "[A1] [D]"
+    },
+    {
+        "nameUs": "Citric acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2-Hydroxypropane-1,2,3-tricarboxylic acid",
+        "namePt": "Ácido cítrico",
+        "mainFunction": "Acidulante, saborizante, conservante e antioxidante em alimentos e bebidas.",
+        "origin": "Natural, encontrado em frutas cítricas.",
+        "ref": "[446] [447] [448]"
+    },
+    {
+        "nameUs": "Citric acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2-Hydroxy-1,2,3-propanetricarboxylic acid",
+        "namePt": "Ácido cítrico",
+        "mainFunction": "Utilizado  como conservanate, antioxidante e para dar um sabor ácido aos alimentos.",
+        "origin": "Natural e sintético, encontrado em frutas cítricas como laranja e limão ou produzido por meio da fermentação de carboidratos encontrados em amidos e açúcares.",
+        "ref": "[430] [431] [432]"
+    },
+    {
+        "nameUs": "citric acid acidulant",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "C6H8O7",
+        "namePt": "Acidulante Ácido Cítrico",
+        "mainFunction": "Aditivo, utilizado como aromatizante para potenciar outros sabores.",
+        "origin": "Natural, a partir de frutas citricas potencializadoras de manutenção de celulas.",
+        "ref": "[A1] [348] [B] [D]"
+    },
+    {
+        "nameUs": "Citronellol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "DL-Citronellol",
+        "namePt": "Citronelol",
+        "mainFunction": "Aromatizante, destinado a conferir ou reforçar o aroma e\/ou sabor dos alimentos",
+        "origin": "Artificial, a partir da hidrogenação de nerol e geraniol, compostos encontrados naturalmente nos óleos essenciais de capim-limão, óleo de rosa,citronela,lavanda,laranja-natal, etc.",
+        "ref": "[A1] [A2] [D] [127]"
+    },
+    {
+        "nameUs": "Cocoa Butter Substitute",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cocoa Butter Equivalent ",
+        "namePt": "Substituto da Manteiga de Cacau",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe conferir uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil",
+        "origin": "Natural, a partir de plantas como a palma, açafrão-dos-tintureiros, girassol ou óleo de coco ",
+        "ref": "[A1] [D] [Q] [193]"
+    },
+    {
+        "nameUs": "Common salt",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium chloride",
+        "namePt": "Cloreto de sódio",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir da cristalização dos sais dissolvidos na água do mar através de evaporadores industriais",
+        "ref": "[A1] [I] [V] [44]"
+    },
+    {
+        "nameUs": "Copper Sulfate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cupric Sulfate",
+        "namePt": "Sulfato de cobre",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir do ácido sulfúrico com compostos de cobre, além disso pode ser encontrado em formas diferentes a partir do mineral raro calcocianita encontrado no vulcão ativo Vesúvio e do mineral calcantila encontrada no lago da gruta azul na chapada Diamantina ",
+        "ref": "[A1] [I] [V] [274]"
+    },
+    {
+        "nameUs": "Corn Syrup",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Glucose Syrup",
+        "namePt": "Xarope de milho",
+        "mainFunction": "Edulcorante; destinado a conferir sabor doce ao alimento",
+        "origin": "Artificial; a partir do amido de milho (farinha produzida a partir das sementes do milho) através da quebra de suas moléculas com o uso de água",
+        "ref": "[A1] [D] [210] [345]"
+    },
+    {
+        "nameUs": "Cyanocobalamin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vitamin B12",
+        "namePt": "Vitamina B12 (Cianocobalamina)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de produção bacteriana (Streptomyces griseus), por isolamento de fígado de mamíferos, e é encontrada em fontes animais como carnes, ovos, leites e em algas marinhas, como laver roxo seco e alga nori e o cogumelo seco shiitake.",
+        "ref": "[A1] [I] [V] [249] [250]"
+    },
+    {
+        "nameUs": "Dicalcium Phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium Phosphate, Dibasic",
+        "namePt": "Fosfato bicálcico",
+        "mainFunction": "Fermento químico, destinado a aumentar o volume da massa através da liberação de gás por parte das substâncias do fermento",
+        "origin": "Artificial, a partir da aplicação de um ácido adequado, como o ácido sulfurico, no óxido de cálcio (cal) ou no hidróxido de cálcio (cal hidratada) em temperaturas altas.",
+        "ref": "[A1] [D] [259]"
+    },
+    {
+        "nameUs": "Dicalcium phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium hydrogen phosphate",
+        "namePt": "Fosfato de cálcio dibásico",
+        "mainFunction": "Utilizado como fermento químico em produtos de panificação e biscoitos.",
+        "origin": "Sintético, produzido a partir de reações químicas.",
+        "ref": "[518] [519]"
+    },
+    {
+        "nameUs": "Dietary fiber",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Roughage",
+        "namePt": "Fibra alimentar",
+        "mainFunction": "Fonte de Fibras, destinado a auxiliar o funcionamento do trânsito intestinal, não tendo relação direta com os demais componentes do alimento.",
+        "origin": "Natural, a partir de aveia, cevada, vagem, abobrinha, maçã com casca, abacaxi, grãos integrais, oleaginosas, leguminosas, sementes, batata, banana verde, grãos integrais, cogumelos, leveduras, casca de camarão, frutos do mar, invertebrados , etc.",
+        "ref": "[A1] [251] [252]"
+    },
+    {
+        "nameUs": "Diglycerides",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Diacylglycerol",
+        "namePt": "Diglicerídeos",
+        "mainFunction": "Emulsificante, destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Artificial, a partir da produção industrial por quebras de substâncias presentes em gorduras e óleos (como óleo de soja e óleo de canola) com a colaboração de aceleradores da reação ( como a enzima Novozym 435) em temperaturas muito altas.",
+        "ref": "[B] [D][264]"
+    },
+    {
+        "nameUs": "Disodium Inosinate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium Inosinate",
+        "namePt": "Inosinato dissódico",
+        "mainFunction": "Realçador de Sabor, destinado a ressar ou realçar o sabor\/aroma de um alimento.",
+        "origin": "Artificial, a partir de carnes, como frango,  ou a partir da goma de tapioca",
+        "ref": "[A1] [D] [221]"
+    },
+    {
+        "nameUs": "Disodium inosinate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Disodium inosinate",
+        "namePt": "Inosinato dissódico",
+        "mainFunction": "Utilizado para dar sabor a um alimento.",
+        "origin": "Natural e sintético, encontrado na natureza, obtido a partir da fermentação bacteriana de açúcares ou produzido a partir de fontes animais.",
+        "ref": "[538]"
+    },
+    {
+        "nameUs": "Drinking Alcohol\r",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Drinking Alcohol",
+        "namePt": "Álcool Potável",
+        "mainFunction": "Composto, utilizado para produção de bebidas alcoólicas.",
+        "origin": "Artificial, a partir da fermentação de alimentos de natureza açucarada ou amilácea.",
+        "ref": "[A1] [352] [B] [D]"
+    },
+    {
+        "nameUs": "E102",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Tartrazine",
+        "namePt": "Tartrazina",
+        "mainFunction": "Utilizado na indústria de alimentos como corante.",
+        "origin": "Sintético, obtido a partir da tinta do alcatrão de carvão.",
+        "ref": "[558]"
+    },
+    {
+        "nameUs": "E200",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sorbic acid",
+        "namePt": "Ácido sórbico",
+        "mainFunction": "Utilizado como conservante de alimentos devido à sua proriedade antimicrobiana. ",
+        "origin": "Natural e sitético, pode ser encontrado na natureza ou produzido por meio de procedimentos químicos.",
+        "ref": "[393] [394]"
+    },
+    {
+        "nameUs": "E200",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Succinic acid",
+        "namePt": "Ácido succínico",
+        "mainFunction": "Antioxidante, estimula o sistema nervoso e melhora a imunidade do corpo.",
+        "origin": "Natural, encontrado no âmbar báltico, uma resina fóssil.",
+        "ref": "[395]"
+    },
+    {
+        "nameUs": "E270",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lactic acid",
+        "namePt": "Ácido láctico",
+        "mainFunction": "Utilizado como acidulante, conservante, descotaminante, regulador de pH e ajuda a tornar mais frote o sabor dos alimentos. É utilizado na produção de balas, vinhos sucos, cervejas, refrigerantes, biscoitos, laticínios, entre outros.  ",
+        "origin": "Natural e sintético, pode ser produzido, extraído do leite ou da fermentação de amido de milho.",
+        "ref": "[397] [398] [399]"
+    },
+    {
+        "nameUs": "E296",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Malic acid",
+        "namePt": "Ácido málico",
+        "mainFunction": "Aumenta a imunidade do corpo, melhora a saúde oral, reduz os riscos de acumulações de metais tóxicos no organismo e torna a pele mais firme e lisa.",
+        "origin": "Natural, encontrado em frutas e legumes, principalmente nas maçãs. ",
+        "ref": "[392]"
+    },
+    {
+        "nameUs": "E420",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sorbitol",
+        "namePt": "Sorbitol",
+        "mainFunction": "Utilizado como edulcorante, ou seja, são utilizados para dar sabor doce aos alimentos.",
+        "origin": "Natural ou sintético, encontrado em frutas como maçãs, peras e amores, mas também pode ser produzido a partir da glucose.",
+        "ref": "[426]"
+    },
+    {
+        "nameUs": "E440",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pectin",
+        "namePt": "Pectina",
+        "mainFunction": "Utilizado como estabilizante e geleificante, ou seja, utilizado para produzir uma textura de gel nos alimentos.",
+        "origin": "Natural e sintética, encontrada em alimentos como laranja e maça, ou produzido em laboratório utilizando o bagaço da maçã.",
+        "ref": "[424] [425] "
+    },
+    {
+        "nameUs": "E960",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Stevioside",
+        "namePt": "Esteviosídeo",
+        "mainFunction": "Utilizado como agente flavorizante e endulcorante, ou seja, para adoçar e realçar o sabor de um alimento.",
+        "origin": "Natural, encontrado em frutas, vegetais ou cereais.",
+        "ref": "[413] [414]"
+    },
+    {
+        "nameUs": "EHEC",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ethylhydroxyethylcellulose",
+        "namePt": "Etil hidroxietil celulose",
+        "mainFunction": "Utilizado para engrossar, ligar e estabilizar alimentos.",
+        "origin": "Sintético, forma modificada da celulose.",
+        "ref": "[528]"
+    },
+    {
+        "nameUs": "Erythorbic Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "D-Araboascorbic Acid",
+        "namePt": "Ácido eritórbico",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Artificial, a partir da a biofermentação do açúcar comumente produzido do amido de milho, a dextrose",
+        "ref": "[A1] [A2] [D] [R] [197] [198]"
+    },
+    {
+        "nameUs": "Erythritol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Erythrite",
+        "namePt": "Eritritol",
+        "mainFunction": "Adoçante natural utilizado em alimentos.",
+        "origin": "Natural,  encontrado no milho, em frutas e vegetais ou fermentado a partir de glicose.",
+        "ref": "[465] [466]"
+    },
+    {
+        "nameUs": "Ethanol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Alcohol",
+        "namePt": "Álcool etílico",
+        "mainFunction": "Aromatizante, destinado a conferir ou reforçar o aroma e\/ou sabor dos alimentos",
+        "origin": "Artificial, a partir da fermentação de vegetais ricos em açúcares ou por hidratação do etileno",
+        "ref": "[A1] [D] [2] [14] [208]"
+    },
+    {
+        "nameUs": "Ethyl 2-methylbutanoate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Phosphoric acid",
+        "namePt": "Ácido fosfórico",
+        "mainFunction": "Ultilizado para regular a acidez, estabilizante de cor, emulsificante, antioxidante e aromatizante.",
+        "origin": "Sintético, produzido a partir de um fosfato de tricálcio de base mineral.",
+        "ref": "[373]"
+    },
+    {
+        "nameUs": "Ethyl acetate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Aluminum sulfate",
+        "namePt": "Sulfato de alumínio",
+        "mainFunction": "Utilizado na indústria alimentícia para tornar os produtos mais claros.",
+        "origin": "Natural e sintético, encontrado na natureza em pequenas quantidade em minerais, como alunitas e jarositas, mas pode ser produzido pela reação entre ácido sulfúrico e hidróxido de alumínio. ",
+        "ref": "[379] [380]"
+    },
+    {
+        "nameUs": "Ethyl Cellulose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Modified Cellulose",
+        "namePt": "Etilcelulose ",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe conferir uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil.",
+        "origin": "Artificial; a partir da celulose passando por processos de substituição química.",
+        "ref": "[A1] [B] [D] [321]"
+    },
+    {
+        "nameUs": "Ethylenediamine tetraacetic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Edetic acid",
+        "namePt": "EDTA (Ácido Etilenodiamino Tetraacético)",
+        "mainFunction": "Sequestrante; destinado a formar ligações com cargas químicas susceptíveis de afetar negativamente a composição do produto alimentício",
+        "origin": "Artificial, a partir do etilenodiamina, formaldeído e cianeto de sódio",
+        "ref": "[A1] [D] [104]"
+    },
+    {
+        "nameUs": "Ethylenediaminetetraacetic acid (EDTA)",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Edetate",
+        "namePt": "EDTA (ácido etilenodiaminotetracético)",
+        "mainFunction": "Agente quelante utilizado em alimentos, produtos de limpeza e de cuidados pessoais para conferir estabilidade.",
+        "origin": "Sintético, produzido a partir de etilenodiamina, formaldeido e uma fonte de cianeto.",
+        "ref": "[463] [464]"
+    },
+    {
+        "nameUs": "Extra virgin olive oil",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "namePt": "Azeite de Oliva Extra Virgem",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural; a partir de azeitonas selecionadas e prensadas a frio (prensa hidráulica) imediatamente após a colheita",
+        "ref": "[204] [203]"
+    },
+    {
+        "nameUs": "Ferric pyrophosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Iron Pyrophosphate",
+        "namePt": "Pirofosfato férrico",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir da reação de um sal férrico com um pirofosfato metálico, passando por lavagem e secagem do produto final",
+        "ref": "[A1] [B] [I] [V] [241]"
+    },
+    {
+        "nameUs": "flaxseed",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "linseed",
+        "namePt": "Linhaça",
+        "mainFunction": "Alimento, utilizado para dietas e tratamentos por ser  rica em ácidos fenólicos, flavonóides, vitaminas e minerais.",
+        "origin": "Natural, a partir do cultivo orgânico de linhaça marrom ou linhaça dourada. ",
+        "ref": "[A1][360]"
+    },
+    {
+        "nameUs": "Folic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pteroylglutamic Acid",
+        "namePt": "Ácido fólico",
+        "mainFunction": "Melhorador de Farinha, destinado a, quando agregado à farinha, melhorar sua qualidade nutritiva.",
+        "origin": "Artificial, a partir da reação 2,3-dibromopropano,ácido p-aminobenzoil-L-glutâmico e e 2,3-dibromopropanal, e é encontrado naturalmente em vegetais verde-escuro como aspargos e espinafre, frutas como abacate, laranja, grãos e sementes como lentilha, arroz, feijão, ervilha, nozes, carnes, frutos do mar e ovo.",
+        "ref": "[A1] [B] [215] [216]"
+    },
+    {
+        "nameUs": "FOS",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Fructooligosaccharides (FOS)",
+        "namePt": "Frutooligossacarídeos (FOS)",
+        "mainFunction": "Utilizados para alterarem a designação de alimentos para alimentos funcionais, ou seja, que oferecem benefícios à saúde.",
+        "origin": "Natural e sintético, encontrado em plantas como alho, banana e beterraba, ou produzido em laboratório.",
+        "ref": "[420] [421]"
+    },
+    {
+        "nameUs": "Fructose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "D-Fructose",
+        "namePt": "Frutose",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Natural, a partir de frutas e vegetais, como a cana-de-açúcar, maçãs, laranjas, melões, soja, lentilha, ervilha e feijão",
+        "ref": "[A1] [D] [254]"
+    },
+    {
+        "nameUs": "Furcelleran",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Danish Agar",
+        "namePt": "Carragena",
+        "mainFunction": "Geleificante; destinado a conferir textura através da formação de um gel.\/ Espessante; destinado a aumentar a viscosidade de um alimento.\/ Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento.\/Emulsionante\/Emulsificante; destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Natural; a partir da extração de algas vermelhas da família Rodophyceae. A espécie mais comum (Chondrus crispus) geralmente nasce em rochas nas profundezas de até 3 metros nas costas do oceano Atlântico Norte e é colhida por pequenos barcos com ganchos que a transportam para uma área de secagem.",
+        "ref": "[A1] [B] [D] [322]"
+    },
+    {
+        "nameUs": "Gamma-Cyclodextrin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cyclooctaamylose",
+        "namePt": "Gama-ciclodextrina ",
+        "mainFunction": "Estabilizante; destinado a tornar possível a manutenção de uma solução uniforme de duas ou mais substâncias que não se misturam, em um alimento.\/ Realçador de sabor; destinado a ressaltar ou realçar o sabor\/aroma de um alimento.",
+        "origin": "Artificial; a partir do amido de mandioca em tratamento térmico ( temperaturas ideias de 30ºC até 70ºC) em estado gelatinoso com a ação da enzima CGTase (enzima especialida para esse processo)",
+        "ref": "[A1] [D] [338] [339]"
+    },
+    {
+        "nameUs": "Gelatin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Edible Gelatin",
+        "namePt": "Gelatina",
+        "mainFunction": "Geleificante; destinado a conferir textura através da formação de um gel.",
+        "origin": "Artificial; a partir de processos químicos com o colágeno extraído de pele, ossos e tecidos conjuntivos de animais",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Glucose Oxidase",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Glucose Oxidase Enzyme",
+        "namePt": "Glucose-oxidase",
+        "mainFunction": "Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação ",
+        "origin": "Natural; a partir de fungos (em suas estruturas externas) e é encontrado no mel de abelha como conservante natural",
+        "ref": "[A1] [D] [306]"
+    },
+    {
+        "nameUs": "Glucose oxidase",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Glucose-oxidase",
+        "namePt": "Glicose-oxidase",
+        "mainFunction": "Utilizada para remover o oxigênio de bebidas, conservando o alimento e reduzindo o escurecimento enzimático.",
+        "origin": "Natural, produzido por um microrganismo.",
+        "ref": "[523] [524]"
+    },
+    {
+        "nameUs": "Glucose Syrup",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Corn Syrup",
+        "namePt": "Xarope de glicose",
+        "mainFunction": "Açúcar nutritivo; destinado a nutrir e trazer o sabor adocicado ao alimento.",
+        "origin": "Natural, a partir do amido de milho que sofre quebras moleculares por água provida de enzimas e\/ou ácidos",
+        "ref": "[A1] [T]"
+    },
+    {
+        "nameUs": "Gluten",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Wheat Gluten",
+        "namePt": "Glúten",
+        "mainFunction": "Agente de Massa, destinado a proporcionar o aumento de volume e\/ou da massa dos alimentos.",
+        "origin": "Natural, a partir de cereais como a cevada, trigo, centeio, etc. e é obtido, indivialmente, geralmente a partir da farinha de trigo lavada e secada em estufa.",
+        "ref": "[A] [B] [224] [225]"
+    },
+    {
+        "nameUs": "Glycerol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Glyceryl Monostearate",
+        "namePt": "Glicerina (Glicerol)",
+        "mainFunction": "Umectante, destinado a proteger os alimentos da perda de umidade em ambiente de baixa umidade relativa ou destinado a facilitar a dissolução de uma substância seca em meio aquoso.",
+        "origin": "Artificial, a partir da reação de saponificação de ácidos graxos presentes em óleos, azeites ou sebo com hidróxido de sódio ou de potássio",
+        "ref": "[A1] [B] [D] [33] [36]"
+    },
+    {
+        "nameUs": "Glycerol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 422",
+        "namePt": "Glicerina",
+        "mainFunction": "Umectante; destinado a proteger os alimentos da perda de umidade em ambiente de baixa umidade relativa ou destinado a facilitar a dissolução de uma substância seca em meio aquoso.",
+        "origin": "Artificial; a partir da reação de saponificação de ácidos graxos presentes em óleos; azeites ou sebo com hidróxido de sódio ou de potássio. Pode ser encontrada naturalmente em azeites e óleos de coco, dendê, soja, algodão e oliva, ou mesmo em animais, como o camundongo Mus musculus",
+        "ref": "[A1] [B] [D] [36] [33]"
+    },
+    {
+        "nameUs": "Glyceryl polyricinoleate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Glyceryl polyricinoleate",
+        "namePt": "Polirricinoleato de glicerila",
+        "mainFunction": "Utilizado para aumentar a estabilidade das emulsões (alimentos que contém água e óleo).",
+        "origin": "Natural, extraído da mamona, uma planta.",
+        "ref": "[539]"
+    },
+    {
+        "nameUs": "Guar gum",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Guaran",
+        "namePt": "Goma guar",
+        "mainFunction": "Utilizado para ajudar a manter a textura dos alimentos mesmo após o congelamento. ",
+        "origin": "Natural, obtida das sementes da planta Cyamopsis tetragonoloba.",
+        "ref": "[458] [459]"
+    },
+    {
+        "nameUs": "Gum arabic",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Acacia gum",
+        "namePt": "Goma arábica",
+        "mainFunction": "Utilizado para ajudar na prevenção da cristalização do açúcar em caramelos e na mistura de essencias cítricas nos refrigerantes.",
+        "origin": "Natural, extraída da árvore de acácia.",
+        "ref": "[457]"
+    },
+    {
+        "nameUs": "HCl",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Hydrochloric acid",
+        "namePt": "Ácido clorídrico",
+        "mainFunction": "Utilizado como regulador de acidez, ou seja, controla o pH de alimentos.",
+        "origin": "Sintético, produzido pela reação do cloreto de sódio com sulfatos ácidos. ",
+        "ref": "[403] [404]"
+    },
+    {
+        "nameUs": "HPMC",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Hydroxypropylmethylcellulose",
+        "namePt": "Hidroxipropilmetilcelulose",
+        "mainFunction": "Utilizado como estabilizador, emulsionante e para aumentar a viscosidade dos alimentos.",
+        "origin": "Sintético, forma modificada da celulose.",
+        "ref": "[529]"
+    },
+    {
+        "nameUs": "Hydrochloric acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Acidum hydrochloricum",
+        "namePt": "Ácido clorídrico",
+        "mainFunction": "Acidulante, destinado a aumentar a acidez ou conferir um sabor ácido aos alimentos.",
+        "origin": "Artificial, a partir da reação de sal (cloreto de sódio) com ácido sulfúrico, mas ocorre naturalmente no estômago de mamíferos",
+        "ref": "[A1] [A2] [B] [D] [13]"
+    },
+    {
+        "nameUs": "Hydrogenated lecithin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Hydriertes Lecithin",
+        "namePt": "Lecitina Hidrogenada",
+        "mainFunction": "Emulsificante, destinado a tornar as fases dos produtos alimentícios que não se misturam mais uniformes possível ",
+        "origin": "Artificial; a partir de processos de adição de hidrogênio na lecitina (tipo de gordura); a qual é extraída geralmente pelo processo de aquecimento e preciptação nos óleos e grãos de soja; girassol e milho ou isolada quimicamente das gemas de ovos.",
+        "ref": "[A2] [D] [174] [175]"
+    },
+    {
+        "nameUs": "Hydrolyzed protein",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Partially Hydrolyzed Proteins",
+        "namePt": "Proteína hidrolisada",
+        "mainFunction": "Estabilizante, destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento. \/ Realçador de Sabor, destinado a ressar ou realçar o sabor\/aroma de um alimento.",
+        "origin": "Artificial, a partir de processos com a caseína e outros produtos lácteos, como proteína de soro de leite; de tecido animal, incluindo gelatina, tecido animal desengordurado e albumina de ovo; ou a partir de leveduras; e de produtos de proteína de soja, proteína de trigo produtos, ou outras fontes vegetais adequadas e seguras",
+        "ref": "[A1] [D] [N]"
+    },
+    {
+        "nameUs": "Hydroxy Ethyl Cellulose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "HEC",
+        "namePt": "Etillhidroxietilcelulose",
+        "mainFunction": "Realçador de Sabor; destinado a ressar ou realçar o sabor\/aroma de um alimento",
+        "origin": "Artificial; a partir da celulose e soda caústica, passando por processos de substituição química",
+        "ref": "[A1] [B] [D] [328]"
+    },
+    {
+        "nameUs": "Hydroxypropyl Methylcellulose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "HPMC",
+        "namePt": "Hidroxipropilmetilcelulose",
+        "mainFunction": "Espessante; destinado a aumentar a viscosidade de um alimento.\/ Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento.\/Emulsionante\/Emulsificante; destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Artificial; a partir da modificação química da celulose( carboidrato encontrado em vegetais, farelos, grãos, oleaginosas)",
+        "ref": "[A1] [B] [D] [251]"
+    },
+    {
+        "nameUs": "Indigo ",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Indigo Carmine",
+        "namePt": "Azul indigotina",
+        "mainFunction": "Corante, destinado a conferir, intensificar ou restaurar a cor de um alimento.",
+        "origin": "Natural, a partir da extração de uma variedade de planatas plantas ",
+        "ref": "[A1] [B] [X]"
+    },
+    {
+        "nameUs": "Inosinic Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Inosine Monophosphate",
+        "namePt": "Ácido inosínico",
+        "mainFunction": "Realçador de Sabor; destinado a ressar ou realçar o sabor\/aroma de um alimento.",
+        "origin": "Natrural; a partir de bactérias como Corynebacterium ammoniagenes e Synechococcus elongatus e é encontrado no metabolismo de alguns tipos de animais.",
+        "ref": "[B] [D] [312]"
+    },
+    {
+        "nameUs": "Inositol ",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "C6H12O6",
+        "namePt": "Inositol",
+        "mainFunction": "Composto, Indicado para reduzir os níveis de colesterol ruim (LDL) e auxiliar no controle da diabetes.",
+        "origin": "Natural, a partir de frutas ricas em potácio e vegetais verde-escuros.",
+        "ref": "[A1] [B] [350] [T]"
+    },
+    {
+        "nameUs": "Inulin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Polysaccharide",
+        "namePt": "Inulina",
+        "mainFunction": "Fibra solúvel encontrada em alimentos que ajuda a manter um bom funcionamento do intestino. Na indústria de alimentos ela é utilizada para aumentar a qualidade dos produtos.",
+        "origin": "Natural, encontrada em alimentos como chicória, cebola, alho e trigo..",
+        "ref": "[476] [477]"
+    },
+    {
+        "nameUs": "Invert Sugar Syrup",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Invert Sugar",
+        "namePt": "Açúcar invertido",
+        "mainFunction": "Açúcar nutritivo; destinado a nutrir e trazer o sabor adocicado ao alimento",
+        "origin": "Natural, a partir do aquecimento da sacarose (açúcar) provida da cana-de-açúcar ou beterraba e água ",
+        "ref": "[A1] [T]"
+    },
+    {
+        "nameUs": "Iron",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ferrum",
+        "namePt": "Ferro",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir da extração do minério de ferro e é encontrado naturalmente em ovos, carnes animais, leguminosas, folhas verdes, sementes",
+        "ref": "[D] [I] [V] [226]"
+    },
+    {
+        "nameUs": "Isomalt",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "C-isomaltidex",
+        "namePt": "Isomalte",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe conferir uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil",
+        "origin": "Artificial; a partir da sacarose ( açúcar comum) com processos químicos e físicos que adicionam hidrogênio à reação química com a ajuda do catalisador de níquel",
+        "ref": "[B] [D] [309]"
+    },
+    {
+        "nameUs": "Isomalt",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Palatinitol",
+        "namePt": "Isomalte",
+        "mainFunction": "Adoçante com poucos calorias e substituto do açúcar.",
+        "origin": "Sintético, produzido a partir da sacarose.",
+        "ref": "[478] [479]"
+    },
+    {
+        "nameUs": "L-Lysine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lysine",
+        "namePt": "Lisina",
+        "mainFunction": "Utilizada na produção de alimentos para aumentar a quantidade de aminiácidos de proteínas vegetais.",
+        "origin": "Natural e sintética, encontrada em alimentos, como carnes, peixes, ovos, leite etc. Também é fabricada por fermentação a partir de fontes de carboidratos.",
+        "ref": "[542] [543]"
+    },
+    {
+        "nameUs": "L-Phenylalanine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Phenylalanine",
+        "namePt": "Fenilalanina",
+        "mainFunction": "Utilizado como adoçante.",
+        "origin": "Natural, encontrado em alimentos ricos em proteínas, como ovos, soja, queijo, frango e carne.",
+        "ref": "[417]"
+    },
+    {
+        "nameUs": "Lactic Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "α-Hydroxypropionic Acid",
+        "namePt": "Ácido lático",
+        "mainFunction": "Acidulante; destinado a aumentar a acidez ou conferir um sabor ácido aos alimentos.",
+        "origin": "Natural, a partir da fermentação de carboidratos pela linhagem de bactérias lácticas",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Lactic Acid Fermentation",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lacto-fermentation",
+        "namePt": "Fermento lático",
+        "mainFunction": "Fermento Biológico; microrganismos destinados a processos de tecnologia alimentar que envolvem fermentação",
+        "origin": "Natural; a partir de bactérias originarias de leite animal, a Streptococcus salivarus subsp. thermophilus e a Lactobacillus delbrueckii subsp. Bulgaricus",
+        "ref": "[A1] [D] [293] [294]"
+    },
+    {
+        "nameUs": "Lactitol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lactitol",
+        "namePt": "Lactitol",
+        "mainFunction": "Utilizado como adoçante de baixo valor calórico e não induz a um aumento dos níveis de glicose ou insulina no sangue após o consumo.",
+        "origin": "Sintético, produzido a partir da redução da parte de glicose da lactose. ",
+        "ref": "[541]"
+    },
+    {
+        "nameUs": "Lactose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lactose anhydrous",
+        "namePt": "Lactose",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Natural, a patir de leites maternos de animais, como o do humano e o da vaca, e é extraída a partir da cristalização com soro de leite (whey)",
+        "ref": "[A1] [B] [D] [277] [278]"
+    },
+    {
+        "nameUs": "Lanolin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Wool Fat",
+        "namePt": "Lanolina",
+        "mainFunction": "Substância mastigatória em base de goma de mascar; destinada a amolecer a goma dos chicletes",
+        "origin": "Natural;a partir da lã de ovelha com a utilização de sabão ou detergente neutro com processos de fricção e centrifugação; além de ser encontrada naturalmente na planta indiana Bombax ceiba.",
+        "ref": "[A1] [B] [Q] [305]"
+    },
+    {
+        "nameUs": "lard",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "vegetable oil",
+        "namePt": "Óleo vegetal",
+        "mainFunction": "Oléo,  utilizados como óleo de cozinha (são mais saudáveis que os de origem animal), combustível, cosméticos e fitoterápicos. ",
+        "origin": "Artificial, a partir da extração enzimática consiste no uso de enzimas que utilizam moléculas de água para romper a parede celular dos vegetais liberando o óleo para o meio aquoso.",
+        "ref": "[A1][P1"
+    },
+    {
+        "nameUs": "Lecithin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Lecithin",
+        "namePt": "Lecitina ",
+        "mainFunction": "Utilizada como emulsificante e lubrificante em alimentos.",
+        "origin": "Natural, pode ser encontrada na gema do ovo e em diversos óleos vegetais.",
+        "ref": "[525]"
+    },
+    {
+        "nameUs": "Limonene",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "l-p-Mentha-1,8-diene",
+        "namePt": "Limoneno",
+        "mainFunction": "Aromatizante, destinado a conferir ou reforçar o aroma e\/ou sabor dos alimentos",
+        "origin": "Artificial, a partir do processo de separação por centrifugação e destilação por arraste de vapor do óleo de casca de plantas cítricas",
+        "ref": "[A1] [D] [91]"
+    },
+    {
+        "nameUs": "Magnesium Bicarbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "magnesium hydrogen carbonate",
+        "namePt": "Bicarbonato de magnésio",
+        "mainFunction": "Estabilizante de cor; destinado a estabilizar, mantér ou intensificar a cor de um alimento.",
+        "origin": "Artificial; a partir da sua forma hidratada em minerais; como na magnesita e na dolomita; com processos de filtração e secagem.",
+        "ref": "[A1] [B] [D] [327]"
+    },
+    {
+        "nameUs": "Magnesium Carbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Salt of magnesium",
+        "namePt": "Carbonato de magnésio",
+        "mainFunction": "Agente tampão, destinado a estabilizar o pH dos compostos no alimento",
+        "origin": "Artificial, a partir da mineração do mineral magnesita ou a partir de processos químicos e físicos do hidróxido de magnésio com dióxido de carbono",
+        "ref": "[A1] [B] [S] [258]"
+    },
+    {
+        "nameUs": "Magnesium Carbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": " magnesite",
+        "namePt": "Carbonato de magnésio",
+        "mainFunction": "Antiácido, utilizado para recuperar os músculos com mais agilidade.",
+        "origin": "Artifical; a partir da sua forma hidratada em minerais, como na magnesita e na dolomita; com processos de filtração e secagem.",
+        "ref": "[A1] [B] [D] [327]"
+    },
+    {
+        "nameUs": "Magnesium Chloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Nigari",
+        "namePt": "Cloreto de magnésio ",
+        "mainFunction": "Estabilizante de cor; destinado a estabilizar, mantér ou intensificar a cor de um alimento.",
+        "origin": "Artificial; a partir de processos com o mineral magnesita que é disolvido com ácido clorídrico e purificado com óxido de magnésio ou hidróxido de magnésio.",
+        "ref": "[A1] [B] [D] [48]"
+    },
+    {
+        "nameUs": "Magnesium chloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Magnesium dichloride",
+        "namePt": "Cloreto de magnésio",
+        "mainFunction": "Utilizado como suplemento alimentar para melhorar a formação dos ossos e dentes, o metabolismo energético, de proteínas, carboidratos e gorduras, o equilíbrio dos eletrólitos e o funcionamento muscular,",
+        "origin": "Natural, encontrado na água do mar.",
+        "ref": "[460] [461]"
+    },
+    {
+        "nameUs": "Magnesium sulphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Magnesium sulfate",
+        "namePt": "Sulfato de magnésio",
+        "mainFunction": "Utilizada na indústria de alimentos como micronutriente para leveduras utilizadas em processos de fermentação.",
+        "origin": "Natural e sintético, encontrado em fontes minerais, como a epsomita, ou produzido a partir da reação entre magnésio e ácido sulfúrico. ",
+        "ref": "[556] [557]"
+    },
+    {
+        "nameUs": "Maize",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Corn",
+        "namePt": "Zea mays",
+        "mainFunction": "Cereal, utilizado para alimentação de seres humanos e animais, por possuir alto valor nutricional. ",
+        "origin": "Natural, a partir da extração em lavouras e plantações, passando por processos de secagem. ",
+        "ref": "[A1][P1]"
+    },
+    {
+        "nameUs": "Maize starch",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Corn Starch",
+        "namePt": "Amido de milho",
+        "mainFunction": "Espessante;destinado a aumentar a viscosidade de um alimento.",
+        "origin": "Natural, a partir do milho e tem sua extração por moagem via úmida, cuja finalidade é o aumento de eficiência na separação das partes que compõe o grão de milho: gérmen, endosperma (90% constituido por amido) e pericarpo",
+        "ref": "[D] [210]"
+    },
+    {
+        "nameUs": "Maltitol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Maltite",
+        "namePt": "Maltitol",
+        "mainFunction": "Adoçante utilizado na produção de doces, incluindo balas sem açúcar, gomas de mascar e chocolates. ",
+        "origin": "Sintético, produzido a partir do maltose.",
+        "ref": "[482]"
+    },
+    {
+        "nameUs": "Maltodextrin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "\nfructose",
+        "namePt": "Maltodextrina",
+        "mainFunction": "Agente degomante, destinado a favorecer a remoção ou separação de gomas ou mucilagens.",
+        "origin": "Artifical, a partir da quebra parcial por água do amido comestível",
+        "ref": "[A1] [D]"
+    },
+    {
+        "nameUs": "Maltodextrins",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Maltodextrin",
+        "namePt": "Maltodextrina",
+        "mainFunction": "Carboidrato utilizado para adoçar e espessar alimentos. Também é utilizado por atletas para melhorar o desempenho físico e favorecer o ganho de massa muscular.",
+        "origin": "Sintético, produzido a partir da quebra parcial do amido presente no milho e em outros vegetais.",
+        "ref": "[544] [545]"
+    },
+    {
+        "nameUs": "Manganese Sulfate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Manganese(II) sulfate",
+        "namePt": "Sulfato de manganês ",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir de óxido de manganês com ácido sulfúrico ou a partir de extrações com ácido em minérios de mangânes ",
+        "ref": "[A1] [B] [I] [V] [275]"
+    },
+    {
+        "nameUs": "Mannitol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Mannite",
+        "namePt": "Manitol",
+        "mainFunction": "Edulcorante(utilizado para dar sabor doce aos alimentos substituir o adoçante). ",
+        "origin": "Natural, encontrado em vegetais e algas marinhas.",
+        "ref": "[516] [517]"
+    },
+    {
+        "nameUs": "Matricaria recutita",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "\nChamomile",
+        "namePt": "Camomila",
+        "mainFunction": "Composto, utilizada para temperar pratos salgados como macarrão e frango, ou para aromatizar doces como brigadeiro e bolos.",
+        "origin": "Natural, a partir da extraçaõ das flores secas da  Matricaria recutita. ",
+        "ref": "[A1]"
+    },
+    {
+        "nameUs": "MCTs",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Medium-chain triglycerides (MCT)",
+        "namePt": "Triglicerídeos de cadeia média (TCM)",
+        "mainFunction": "Utilizado como suplemento alimentar que proporciona uma energia instantânea aos músculos e ao cérebro, aumentando o foco, sem produzir picos de glicose no sangue.",
+        "origin": "Natural, encontrado no óleo de coco e de palma.",
+        "ref": "[563]"
+    },
+    {
+        "nameUs": "Methanoic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Formic acid",
+        "namePt": "Ácido fórmico",
+        "mainFunction": "Utilizado como conservante de alimentos, geralmente em peixes e sucos.",
+        "origin": "Natural e sintético, é encontrado em formigas, abelhas, urtigas pinheiros e alguns frutos, mas também pode ser produzido artificialmente por uma reação de duas etapas.  ",
+        "ref": "[400] [401]"
+    },
+    {
+        "nameUs": "Methionine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "L-Methionine",
+        "namePt": "Metionina",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de fontes vegetais e animais como milho, arroz, trigo, batata, soja, alface, maçã, laranja, carne bovina, peixe, leite, queijo e ovos, além disso pode ser produzido através da mistura rancêmica de N-acetil-metionina com uma enzima extraída do fungo Aspergillus oryzae.",
+        "ref": "[A1] [I] [V] [267]"
+    },
+    {
+        "nameUs": "Methyl cellulose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cellulose methyl ether",
+        "namePt": "Metilcelulose",
+        "mainFunction": "Utilizado  em alimentos para aumentar a viscosidade, tornar maiis macio, e preservar a textura.  ",
+        "origin": "Sintético, produzida pelo aquecimento da celulose com solução cáustica e tratando-a com cloreto de metila. ",
+        "ref": "[484] [485]"
+    },
+    {
+        "nameUs": "Methyl salicylate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Wintergreen oil",
+        "namePt": "Salicilato de metila",
+        "mainFunction": "Utilizado para intensificar o sabor e o aroma de alimentos e bebidas.",
+        "origin": "Sintético, produzido a partir da esterificação do ácido salicílico.",
+        "ref": "[495]"
+    },
+    {
+        "nameUs": "Microcrystalline cellulose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cellulose gel",
+        "namePt": "Celulose microcristalina",
+        "mainFunction": "Utilizada na indústria de alimentos como estabilizante, agente de textura e cremosidade, substituto de gordura, antiaglutinante etc. ",
+        "origin": "Natural, encontrada em plantas, frutas e vegetais.",
+        "ref": "[514]"
+    },
+    {
+        "nameUs": "Molasses",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": " syrup",
+        "namePt": "Melaço",
+        "mainFunction": "Açucar nutritivo, usado para adubar pomares, na plantação de grãos e como um rico complemento alimentar para os animais.",
+        "origin": "Natural, a partir da centrifugação, no processo de fabricação de açúcar. Contém açúcares redutores e parte de sacarose não cristalizada.",
+        "ref": "[A1] [356] [S]"
+    },
+    {
+        "nameUs": "Monocalcium Phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Calcium Phosphate",
+        "namePt": "Fosfato monocálcio",
+        "mainFunction": "Melhorador de Farinha, substância agregada à farinha, destinada a melhorar sua qualidade tecnológica para os fins a que se destina.",
+        "origin": "Artificial; a partir do ácido fosfórico com o carbonato de cálcio; o qual geralmente provém da rocha calcário ",
+        "ref": "[A1] [D] [207]"
+    },
+    {
+        "nameUs": "Monoglycerides",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "MAG's",
+        "namePt": "Monoglicerídeos",
+        "mainFunction": "Emulsificante, destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Artificial, a partir da produção industrial por quebras de substâncias presentes em gorduras e óleos (como óleo de soja e óleo de canola) com a colaboração de aceleradores da reação ( como a enzima Novozym 435) em temperaturas muito altas.",
+        "ref": "[B] [D][264]"
+    },
+    {
+        "nameUs": "Monosodium Glutamate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "MSG",
+        "namePt": "Glutamato monossódico",
+        "mainFunction": "Realçador de sabor; destinado a ressaltar ou realçar o sabor\/aroma de um alimento",
+        "origin": "Artificial, a partir da fermentação bacteriana com a glucose, açúcares de ingredientes vegetais, como cana-de-açúcar, beterraba, mandioca ou milho",
+        "ref": "[A1] [B] [D] [196]"
+    },
+    {
+        "nameUs": "Myo-Inositol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Inositol",
+        "namePt": "Inositol",
+        "mainFunction": "Utilizado para digerir e extrair energia dos alimentos consumidos, auxiliar no controle da diabete e ajudar na manutenção da saúde celular. ",
+        "origin": "Natural, produzido pelo nosso organismo e encontrado em frutas, legumes, ovos, nozes e sementes. ",
+        "ref": "[405] "
+    },
+    {
+        "nameUs": "n-3, n-6, n-9",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Omega 3, 6, 9",
+        "namePt": "Ômega 3, 6, 9"
+    },
+    {
+        "nameUs": "Nerol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "(Z)-Geraniol",
+        "namePt": "Nerol",
+        "mainFunction": "Aromatizante, destinado a conferir ou reforçar o aroma e\/ou sabor dos alimentos",
+        "origin": "Artificial, a partir de um processo de reações com o mirceno (encontrado na maconha, manga, lúpulo, capim-limão e manjericão)",
+        "ref": "[F] [127] [195]"
+    },
+    {
+        "nameUs": "Niacinamide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Nicotinamide",
+        "namePt": "Vitamina B3 (Niacina) ",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de carnes, cereais, leguminosas e sementes, e pode ser obtida a partir do composto 3-cianopiridina por ação da bactéria do gênero Rhodococcus com ajuda de catalizadores específicos.",
+        "ref": "[A1] [I] [V] [243] [244]"
+    },
+    {
+        "nameUs": "Nisin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "dimethyl dicarbonate",
+        "namePt": "Nisina",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial, a partir de preparações com a bactéria Lactococcus lactis subsp.lactis Lancefield Group N em leite desnatado e esterelizado",
+        "ref": "[A1] [B] [S] [282]"
+    },
+    {
+        "nameUs": "Oak-Wood Extract ",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Oak Extract ",
+        "namePt": "Extrato de carvalho",
+        "mainFunction": "Aromatizante; substância ou mistura de substâncias com propriedades aromáticas e\/ou sápidas; capazes de conferir ou reforçar o aroma e\/ou sabor dos alimentos.",
+        "origin": "Natural; a partir da madeira da árvore Quercus robur (carvalho)",
+        "ref": "[D] [J] [335]"
+    },
+    {
+        "nameUs": "Oat fiber",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Oat bran",
+        "namePt": "Fibra de aveia",
+        "mainFunction": "Alimento que ajuda a manter a saúde intestinal, reduzir os níveis de colesterol e controlar o açúcar no sangue.",
+        "origin": "Natural, extraída dos grãos de aveia.",
+        "ref": "[472]"
+    },
+    {
+        "nameUs": "Olein",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Oleic acid",
+        "namePt": "Oleína vegetal",
+        "mainFunction": "Emulsionante\/Emulsificante, destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas\nou mais fases imiscíveis no alimento.",
+        "origin": "Natural, a partir da palma, sementes da uva, milho, azeitona e outros, transformados em óleo geralmente através do método por prensagem.",
+        "ref": "[A1] [D] [220]"
+    },
+    {
+        "nameUs": "PA",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Phosphatidic acid",
+        "namePt": "Ácido fosfatídico",
+        "mainFunction": "Utilizado como suplemento para o aumento da força e da massa muscular. Também é utilizado pela odontologia devido a sua participação na formação e manutenção dos tecidos dentários, ele está presente no esmalte dos dentes, ajudando a fortalecê-lo e protegê-lo contra a ação de bactérias e ácidos presentes na boca.",
+        "origin": "Natural e sintético, produzido pelo corpo humano ou por reações enzimáticas.",
+        "ref": "[564] [565] [566] [567]"
+    },
+    {
+        "nameUs": "Palm heart",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "palm cabbage",
+        "namePt": "Palmito",
+        "mainFunction": "Alimento, utilizado a regular o metabolismo, combate os sintomas do estresse e da ansiedade e é rico em vitaminas essenciais para o corpo humano.",
+        "origin": "Natural, apartir da extração do caule de diversas espécies de palmeiras.",
+        "ref": "[A1] [B] [353] [D] [I] "
+    },
+    {
+        "nameUs": "Palmitate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Palmitate",
+        "namePt": "Palmitato",
+        "mainFunction": "Forte antioxidante e fonte de vitamina A. é utilizado como aditivo alimentar fortificante e suplemento em dietas.",
+        "origin": "Sintético, produzido por esterificação ou oxidação de álcool do ácido palmítico.",
+        "ref": "[568]"
+    },
+    {
+        "nameUs": "Palmitic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Palmitic acid",
+        "namePt": "Ácido palmítico",
+        "mainFunction": "Utilizado para melhorar a textura e oferecer sabor, além de aumentar a visa útil dos produtos nas prateleiras.",
+        "origin": "Natural, encontrado em gorduras animais e vegetais, incluindo óleo de palma, óleo de coco e óleo de palmiste. Também está presente no leitos e em seus derivados.",
+        "ref": "[568]"
+    },
+    {
+        "nameUs": "Pantothenic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pantothenate",
+        "namePt": "Vitamina B5 (Ácido pantotênico)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.\/ Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Natural, a partir de bacate, iogurte, frango cozido, batata doce, cereais, carnes, legumes, etc.",
+        "ref": "[I] [V] [263]"
+    },
+    {
+        "nameUs": "Pectin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pectic acid",
+        "namePt": "Pectina",
+        "mainFunction": "Utilizado em alimentos para garantir uma consistência de gel e ajudar a manter a textura.",
+        "origin": "Natural, é uma fibra encontrada em frutas e vegetais.",
+        "ref": "[488] [489]"
+    },
+    {
+        "nameUs": "Peptide hydrolysate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Hydrolyzed protein",
+        "namePt": "Proteína hidrolisada",
+        "mainFunction": "Proteínas que já são \"quebradas\"(dividídas em moléculas menores, os peptídeos), sendo absorvidas mais rápido pelo sangue. ",
+        "origin": "Sintético, obtido a partir de um processo de hidrólise.",
+        "ref": "[526] [527]"
+    },
+    {
+        "nameUs": "Phosphoric Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Orthophosphoric Acid",
+        "namePt": "Ácido fosfórico",
+        "mainFunction": "Acidulante; destinado a aumentar a acidez ou conferir um sabor ácido aos alimentos.",
+        "origin": "Natural, a partir da rocha fosfática por ação do ácido sulfúrico",
+        "ref": "[A1] [B] [D] [284]"
+    },
+    {
+        "nameUs": "Phosphoric acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "H3PO4",
+        "namePt": " Ácido fosfórico",
+        "mainFunction": "Utilizado principalmente na indústria de alimentos como regulador de acidez, estabilizate de cor, emulsificante, antioxidante e aromatizante.",
+        "origin": "Sintético, produzido a partir de um fosfato tricálcico de base mineral.",
+        "ref": "[427]"
+    },
+    {
+        "nameUs": "pickling lime",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "pickling lime",
+        "namePt": "Hidróxido de cálcio",
+        "mainFunction": "Utilizado como regulador de acidez.",
+        "origin": "Sintético, obtido pela reação de óxido de cálcio com água.",
+        "ref": "[433] [434]"
+    },
+    {
+        "nameUs": "Pigment Metal 3",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 175",
+        "namePt": "Ouro",
+        "mainFunction": "Corante; destinado a conferir; intensificar ou restaurar a cor de um alimento.",
+        "origin": "Artificial, a partir da extração do minério na natureza, passando por esmagamento mecânico e refinamento eletrolítico ou químico (com o uso de cloro, ácido nítrico ou ácido sulfurico)",
+        "ref": "[B] [201] [202]"
+    },
+    {
+        "nameUs": "Plant sterols",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Phytosterols",
+        "namePt": "Fitoesteróis",
+        "mainFunction": "Utilizado para diminuir a absorção de colesterol ruim pelo instestino.",
+        "origin": "Natural, encontrado em vegetais, legumes, frutas e alimentos ricos em lipídios, como nozes, amendoins e sementes de gergilin.",
+        "ref": "[418] [419]"
+    },
+    {
+        "nameUs": "Polydextrose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Poly-d-glucose",
+        "namePt": "Polidextrose",
+        "mainFunction": "Agente de Massa, destinado a proporcionar o aumento de volume e\/ou da massa dos alimentos, sem contribuir significamente para o valor energético do alimento",
+        "origin": "Artificial, a partir de polímeros de glicose formados pelo álcool sorbitol e o acelerador de reação, o ácido cítrico",
+        "ref": "[A1] [B] [D] [240]"
+    },
+    {
+        "nameUs": "Polydextrose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Dextrose polymer",
+        "namePt": "Polidextrose",
+        "mainFunction": "Utilizada como adoçante de baixa caloria, fonte de fibra e espessante (aumenta a viscosidade) em alimentos.",
+        "origin": "Natural, fibra de origem vegetal.",
+        "ref": "[490] [491]"
+    },
+    {
+        "nameUs": "Polyglycerol esters of polycondensed fatty acids of castor oil",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Polyrhizinoleate polyglycerol",
+        "namePt": "Poliglicerol polirricinoleato",
+        "mainFunction": "Utilizado na indústria de alimentos como emulsificantes, também é utilizado para substituir  a manteiga de cacau na produção de chocolate.",
+        "origin": "Sintético, produzido a partir de glicerol de ácidos gordos.",
+        "ref": "[531]"
+    },
+    {
+        "nameUs": "Polyglycerol polyricinoleate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "PGPR",
+        "namePt": "Poliglicerol polirricinoleato",
+        "mainFunction": "Emulsificante; destinado a tornar as fases dos produtos alimentícios que não se misturam mais uniformes possível ",
+        "origin": "Artificial; a partir da produção com o glicerol (álcool) extraído de óleos vegetais como óleo de rícino (mamona) e o óleo soja.",
+        "ref": "[D] [336]"
+    },
+    {
+        "nameUs": "Polyoxyethylene (20) sorbitan monooleate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Polysorbate 80",
+        "namePt": "Polisorbato 80",
+        "mainFunction": "Utilizado como estabilizante, emulsificante e umectante na indústria de alimentos.",
+        "origin": "Sintético, produzido a partir da reação de óxido de etileno e sorbitano.",
+        "ref": "[551] [552]"
+    },
+    {
+        "nameUs": "Polyunsaturated fatty acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": " eicosapentaenoic acid",
+        "namePt": "Ômega 3, 6, 9",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural; a partir de fontes animais como peixes; ovos;aves;  e vegetais; como óleos de girassol; soja; nozes; amendoins; amêndoas; chia; linhaça e algas",
+        "ref": "[297] [298] "
+    },
+    {
+        "nameUs": "Polyvinyl Acetate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "PVA",
+        "namePt": "Acetato de Polivinila",
+        "mainFunction": "Substância mastigatória em base de goma de mascar; destinada a ser a porção mastigável dos chicletes",
+        "origin": "Artificial, a partir da repetição química das estruturas moleculares do acetato de vinila com aceleradores de reação e processos de secagem a vácuo e lavagem",
+        "ref": "[A1] [E] [303]"
+    },
+    {
+        "nameUs": "Potassium acid phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Monopotassium phosphate",
+        "namePt": "Fosfato ácido de potássio",
+        "mainFunction": "Utilizado como regulador de acidez, estabilizante em alimentos.",
+        "origin": "Sintético, produzido a partir de uma reação química.",
+        "ref": "[520] [521]"
+    },
+    {
+        "nameUs": "Potassium Bicarbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Potassium hydrogencarbonate",
+        "namePt": "Bicarbonato de potássio",
+        "mainFunction": "Fermento químico; destinado a aumentar o volume da massa através da liberação de gás por parte das substâncias do fermento",
+        "origin": "Artificial; a partir do dióxido de carbono com solução de carbonato de potássio",
+        "ref": "[A1] [B] [D] [331]"
+    },
+    {
+        "nameUs": "Potassium chloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Muriate of potash",
+        "namePt": "Cloreto de potássio ",
+        "mainFunction": "Geleificante; destinado a conferir textura através da formação de um gel.",
+        "origin": "Artificial; a partir da separação e formação de cristais dos minerais silvinita e carnalita; ou obtido na reação do hidróxido de potássio (ou outras bases de potássio) com ácido clorídrico.",
+        "ref": "[A1] [B] [D] [46]"
+    },
+    {
+        "nameUs": "Potassium chloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Kaon Cl 10",
+        "namePt": "Cloreto de Potássio",
+        "mainFunction": "medicamento, utilizado no tratamento de doenças causadas pela falta de potássio no sangue.",
+        "origin": "Natural, a partir da extração dos dos minerais silvita e carnallita.",
+        "ref": "[A1][370][P1]"
+    },
+    {
+        "nameUs": "Potassium Gluconate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "D-Gluconic Acid",
+        "namePt": "Gluconato de potássio",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor.\/ Sequestrante; destinado a formar complexos químicos com íons metálicos.",
+        "origin": "Artificial; a partir da fermentação do fungo Aspergillus niger com amido e hidróxido de potássio; passando por processos de aquecimento, cristalização e atuação de enzimas",
+        "ref": "[A1] [B] [D] [326]"
+    },
+    {
+        "nameUs": "Potassium hydrogen carbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Potassium bicarbonate",
+        "namePt": "Bicarbonato de potássio",
+        "mainFunction": "Utilizado para fermentação na produção de pães e como regulador de pH em outros alimentos.",
+        "origin": "Sintético, produzido a partir de cloreto de potássio e dióxido de carbono.",
+        "ref": "[532] [533]"
+    },
+    {
+        "nameUs": "Potassium monopersulfate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ascorbic acid (Vitamin C)",
+        "namePt": "Ácido ascórbico (Vitamina C). ",
+        "mainFunction": "Utilizado como aditivo nutricional, na produção de massas e na produção de bebidas para impedir a oxidação.",
+        "origin": "Natural e sintética, pode ser encontrada em frutas, flores e folhagens ou produzida a partir de uma síntese de glicose em laboratório. ",
+        "ref": "[382]"
+    },
+    {
+        "nameUs": "Potassium muriate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Potassium chloride",
+        "namePt": "Cloreto de potássio",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir da separação e formação de cristais dos minerais silvinita e carnalita, ou obtido na reação do hidróxido de potássio (ou outras bases de potássio) com ácido clorídrico",
+        "ref": "[A1] [I] [V] [48]"
+    },
+    {
+        "nameUs": "Potassium sorbate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sorbistat potassium",
+        "namePt": "Sorbato de potássio",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial, a partir do ácido sórbico, o qual é encontrado naturalmente em frutas como laranja, tangerina, limão, caju e maracujá",
+        "ref": "[A2] [N] [J] "
+    },
+    {
+        "nameUs": "Potassium sorbate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sorbic acid potassium salt",
+        "namePt": "Sorbato de potássio",
+        "mainFunction": "Utilizado como conservante em bebidas e alimentos, evitando o crescimento de mofos, leveduras e fungos.",
+        "origin": "Natural e sintético, encontrado em frutas como laranja, limão e maracujá, ou produzido sinteticamente pela neutralização do ácido sórbico com hidróxido de potássio.",
+        "ref": "[496] [497]"
+    },
+    {
+        "nameUs": "Processed Eucheuma Seaweed ",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Philippine Natural Grade",
+        "namePt": "Alga Euchema processada",
+        "mainFunction": "Geleificante; destinado a conferir textura através da formação de um gel.\/ Espessante; destinado a aumentar a viscosidade de um alimento.\/ Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento.\/Emulsionante\/Emulsificante; destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Natural; a partir da alga Euchema; a qual passa por processos de imersão rápida em um produto químico (álcali) em temperaturas altas",
+        "ref": "[A1] [B] [D] [323]"
+    },
+    {
+        "nameUs": "Proline",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2-Pyrrolidinecarboxylic acid",
+        "namePt": "Prolina",
+        "mainFunction": "Utilizada para dar sabor para alimentos industrializados.",
+        "origin": "Natural, é um aminoácido produzido pelo corpo humano e encontrado em alimentos como carnes, queijos, peixes, feijão, etc.",
+        "ref": "[492]"
+    },
+    {
+        "nameUs": "Prop-2-enoic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium citrate",
+        "namePt": "Citrato de sódio",
+        "mainFunction": "Utilizado como aditivo alimentar e conservante na indústria de alimentos e bebidas. ",
+        "origin": "Natural e sintético, pode ser produzido a partir do ácido cítrico. ",
+        "ref": "[385] [386]"
+    },
+    {
+        "nameUs": "Propanone",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Acetone",
+        "namePt": "Acetona",
+        "mainFunction": "Utilizada na indústria de alimentos para extração de gorduras e óleos.",
+        "origin": "Natural e sintético, encontrado naturalmente em gases vulcãnicos, incêndios florestais, como produto de metabolismo de plantas e animais ou produzida artificialmente pela oxidação do álcool isopropanol.",
+        "ref": "[442] [443]"
+    },
+    {
+        "nameUs": "propyl gallate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "tert-Butylhydroquinone",
+        "namePt": "TBHQ",
+        "mainFunction": "Composto, utilizado como aromátizante sintético moderadamente solúvel em óleos e gorduras.",
+        "origin": "Artificial, a partir do processo de extração e derivação da  hidroquinona.",
+        "ref": "[A1][369][P1]"
+    },
+    {
+        "nameUs": "Propyl gallate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Propyl 3,4,5-trihydroxybenzoate",
+        "namePt": "Galato de propilo",
+        "mainFunction": "Antioxidante utilizado em alimentos gordurosos e produtos de cuidados pessoais.",
+        "origin": "Sintético, produzido a partir da reação do propanol com ácido gálico.",
+        "ref": "[474]"
+    },
+    {
+        "nameUs": "Propylene glycol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Propylene glycol",
+        "namePt": "Propilenoglicol",
+        "mainFunction": "Utilizado como umectante (protege os alimentos da perda de umidade), agente carredor (modifica outros aditivos sem mudar sua função), estabilizante e glaceante (garante uma aparência brilhosa e protege o alimentos).",
+        "origin": "Sintético, produzido a partir da hidratação do óxido de propileno.",
+        "ref": "[553] [554]"
+    },
+    {
+        "nameUs": "Protein fraction",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Aleurone",
+        "namePt": "Aleurona"
+    },
+    {
+        "nameUs": "Pteroyl-D-Glutamic Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Folic Acid",
+        "namePt": "Ácido pteroil-L-glutâmico (Ácido Folico)",
+        "origin": "Natural; a partir de fontes como fígado de animais; gema de ovos; sumo de laranja; pão de trigo integral enriquecido; folhas verdes;feijões; o gérmen de trigo; leveduras. No organismo; como no corpo humano; é sintetizado por bactérias através do ácido PABA.",
+        "ref": "[A1] [B] [D] [332] [333] [334]"
+    },
+    {
+        "nameUs": "Pyridoxine Hydrochloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vitamin B6",
+        "namePt": "Vitamina B6 (Cloridrato de piridoxina)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir da banana, peixes como salmão, frango, camarão, avelã, etc.",
+        "ref": "[A1] [B] [I] [V] [247]"
+    },
+    {
+        "nameUs": "regular eggs",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "pasteurized egg",
+        "namePt": "Ovo pasteurizado",
+        "mainFunction": "Composto, utilizado para a preparação de receitas de culinária, além de garantir a eliminação de microrganismos patogênicos que podem ser encontrados no ovo comum.",
+        "origin": "Natrual, a partir da processo de pasteurização com ovos comuns.",
+        "ref": "[A1][P1][368]"
+    },
+    {
+        "nameUs": "Riboflavin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vitamin B2",
+        "namePt": "Vitamina B2 ( Riboflavina)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de leite animal, cevada maltada, fermentos, carnes, vegetais folhosos, ovos, e é característico nas formigas Formica polyctena e nas bactérias Streptomyces ",
+        "ref": "[A1] [I] [V] [246]"
+    },
+    {
+        "nameUs": "Rice flour",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Arrowroot Powder",
+        "namePt": "Farinha de Arroz ",
+        "mainFunction": "Composto, usado Elimina toxinas e outros resíduos do intestino; Reduz os níveis de colesterol ruim do organismo; Diminui a sensação de fome constante; Regula os níveis de açúcar no sangue.",
+        "origin": "Natural, a partir da moagem de grãos de arroz.",
+        "ref": "[A1] [T] [D] [354]"
+    },
+    {
+        "nameUs": "Rosemary Oil",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Salvia rosmarinus",
+        "namePt": "Óleo de Alecrim",
+        "mainFunction": "Realçador de Sabor; destinado a ressar ou realçar o sabor\/aroma de um alimento.",
+        "origin": "Natural, a partir da  extração da espécie Rosmarinus officinalis. ",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Saccharin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ortho-sulfobenzoic acid imide",
+        "namePt": "Sacarina",
+        "mainFunction": "Utilizada como adoçante de baixa caloria.",
+        "origin": "Sintético, produzido a partir do ácido toluenossulfônico, derivado do petróleo.",
+        "ref": "[493] [494]"
+    },
+    {
+        "nameUs": "Silicon dioxide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Silica",
+        "namePt": "Dióxido de silício",
+        "mainFunction": "Antiumectante, destinado a reduzir as características higroscópicas (absorção de água) dos alimentos e diminuir a tendência de adesão, umas às outras, das partículas individuais.",
+        "origin": "Natural, a partir de rochas e minerais de silicatos como o quartzo.",
+        "ref": "[A1] [D] [234]"
+    },
+    {
+        "nameUs": "Sodium Acid Pyrophosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "SAAP",
+        "namePt": "Pirofosfato ácido de sódio",
+        "mainFunction": "Agente tampão; destinado a estabilizar o pH dos produtos alimentícios",
+        "origin": "Artificial, a partir da neutralização parcial do ácido fosfórico,de grau alimentício, com soda caústica ou carbonato de sódio para formar o sal fosfato monossódico o qual é desidratado a 250°C",
+        "ref": "[A1][S] [205]"
+    },
+    {
+        "nameUs": "Sodium alginate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Alginic acid sodium salt",
+        "namePt": "Alginato de sódio",
+        "mainFunction": "Utilizado como agente de texturização para criar esferas, esferificações e outras formas em pratos de gastronomia molecular.",
+        "origin": "Natural, extraído de algas marinhas castanhas.",
+        "ref": "[453]"
+    },
+    {
+        "nameUs": "Sodium benzoate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS  211",
+        "namePt": "Benzoato de sódio ",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial, a partir da dissolução do ácido benzólico com soda cáustica",
+        "ref": "[A1] [A2] [B] [D] [135]"
+    },
+    {
+        "nameUs": "Sodium benzoate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Benzoic acid sodium salt",
+        "namePt": "Benzoato de sódio",
+        "mainFunction": "Conservante utilizado para inibir o crescimento de bactérias em alimentos e bebidas.",
+        "origin": "Sintético, produzido a partir da reação entre ácido benzoico e hidróxido de sódio.",
+        "ref": "[454] [455]"
+    },
+    {
+        "nameUs": "Sodium bicarbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Baking soda",
+        "namePt": "Bicarbonato de sódio",
+        "mainFunction": "Fermento Químico, destinado a aumentar o volume da massa através da liberação de gás por parte das substâncias do fermento",
+        "origin": "Artificial, a partir das etapas de reação do dióxido de carbono, amônia, água e cloreto de sódio no chamado processo Solvay",
+        "ref": "[A1] [B] [23] [206]"
+    },
+    {
+        "nameUs": "Sodium chloride",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Green Salt",
+        "namePt": "Cloreto de sódio",
+        "mainFunction": "Mais conhecido como sal de cozinha, é o principal tempero utilizado em alimentos.",
+        "origin": "Natural e sintético, obtido pela evaporação da água do mar ou produzido pela reação entre ácido clorídrico e hidróxido de sódio.",
+        "ref": "[435] [436]"
+    },
+    {
+        "nameUs": "Sodium citrate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Trisodium Citrate",
+        "namePt": "Citrato de sódio",
+        "mainFunction": "Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento\/Espessante; destinado a aumentar a viscosidade de um alimento.",
+        "origin": "Artificial, a partir do carbonato de sódio a uma solução de ácido cítrico aquecida",
+        "ref": "[A1] [B] [D] [287]"
+    },
+    {
+        "nameUs": "Sodium citrate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Phenolphthalein",
+        "namePt": "Fenolftaleína",
+        "mainFunction": "Utilizado na análise e controle de qualidade na indústria de alimentos e laticínios. ",
+        "origin": "Sintético, produzido em laboratórios.",
+        "ref": "[387] [388]"
+    },
+    {
+        "nameUs": "Sodium diacetate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium diacetate",
+        "namePt": "Diacetato de sódio",
+        "mainFunction": "Utilizado como regulador de acidez na indústria de alimentos.",
+        "origin": "Sintético, produzido a partir de reações químicas.",
+        "ref": "[549] [550]"
+    },
+    {
+        "nameUs": "Sodium Fumarate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "namePt": "Fumarato de sódio ",
+        "mainFunction": "Regulador de Acidez; destinado a alterar ou controlar a acidez ou alcalinidade dos alimentos.\/ Acidulante; destinado a aumentar a acidez ou conferir um sabor ácido aos alimentos.",
+        "origin": "Artificial; a partir do ácido fumárico; o qual é produzido principalmente por síntese química à base de petróleo; mas originalmente o ácido fumárico foi isolado da planta fumo-da-terra (Fumaria officinallis).",
+        "ref": "[B] [D] [316] [317]"
+    },
+    {
+        "nameUs": "Sodium Gluconate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium D-Gluconate",
+        "namePt": "Gluconato de sódio ",
+        "mainFunction": "Nutriente; destinado a fornecer energia e nutrição necessária para o crescimento; desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial; a partir do ácido glucônico, o qual é encontrado em abundantemente em plantas; mel e vinhos; e pode ser preparado comercialmente por processo de fermentação fúngica.",
+        "ref": "[A1] [B] [D] [325]"
+    },
+    {
+        "nameUs": "Sodium gluconate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium gluconate",
+        "namePt": "Gluconato de sódio",
+        "mainFunction": "Utilizado como conservante e suplemento para fornecer benefícios para o corpo humano.",
+        "origin": "Sintético, produzido a partir da oxidação bioquímica da D-glicose, passando ainda por um processo de neutralização com hidróxido de sódio.",
+        "ref": "[534]"
+    },
+    {
+        "nameUs": "Sodium metabisulfite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium pyrosulfite",
+        "namePt": "Metabissulfito de sódio",
+        "mainFunction": "Utilizado como conservante, antioxidante e antimicrobiano em alimentos e bebidas. ",
+        "origin": "Sintético, produzido a partir do dióxido de enxofre e do hidróxido de sódio.",
+        "ref": "[483]"
+    },
+    {
+        "nameUs": "Sodium Metabisulphite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 223",
+        "namePt": "Metabissulfito de sódio",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial, a partir do hidróxido de sódio com gases que contêm dióxido de enxofre em solução de hidrogenossulfito de sódio",
+        "ref": "[A1] [S] [290]"
+    },
+    {
+        "nameUs": "Sodium Nitrate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Chile saltpeter",
+        "namePt": "Nitrato de sódio",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial; a partir do ácido nítrico com carbonato de sódio",
+        "ref": "[A1] [S] [292]"
+    },
+    {
+        "nameUs": "Sodium nitrate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium nitric acid",
+        "namePt": "Nitrato de sódio",
+        "mainFunction": "Utilizado em conservantes, principalmente em derivados do leite, enlatados e carnes.",
+        "origin": "Natural e sintético, pode ser encontrado na natureza e produzido a partir da amônia ou da reação entre ácido nítrico com hidróxido de sódio.",
+        "ref": "[487]"
+    },
+    {
+        "nameUs": "Sodium Nitrite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "INS 250",
+        "namePt": "Nitrito de sódio",
+        "mainFunction": "Fixador de cor nas carnes e produtos cárneos \/ Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Artificial, a partir de óxidos de nitrogênio em solução de carbonato de sódio aquoso ou hidróxido de sódio (soda cáustica)",
+        "ref": "[A1] [D] [291]"
+    },
+    {
+        "nameUs": "Sodium nitrite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium nitrous acid",
+        "namePt": "Nitrito de sódio",
+        "mainFunction": "Utilizado como conservante e antioxidante.",
+        "origin": "Sintético, produzido a partir da reação entre nitrato de sódio e ácido clorídrico.",
+        "ref": "[486]"
+    },
+    {
+        "nameUs": "Sodium nitrite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium nitrite",
+        "namePt": "Nitrito de sódio",
+        "mainFunction": "Utilizado como conservantes de carnes e peixes.",
+        "origin": "Sintetico, produzido a partir da absorção de óxidos de nitrogênio em um meio aquoso de carbonato de sódio ou hidróxido de sódio.",
+        "ref": "[548]"
+    },
+    {
+        "nameUs": "Sodium Polyphosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium Tripolyphosphate",
+        "namePt": "Polifosfato de sódio",
+        "mainFunction": "Estabilizante; destinado a tornar possível a manutenção de uma solução uniforme; de duas ou mais substâncias que não se misturam; em um alimento.",
+        "origin": "Artificial; a partir de uma mistura de fosfato trissódico; o qual provém da reação de carbonato de sódio com ácido fosfórico e soda caústica",
+        "ref": "[A1] [B] [D] [280] [281]"
+    },
+    {
+        "nameUs": "Sodium propionate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium propionate",
+        "namePt": "Propionato de sódio",
+        "mainFunction": "Utilizado como conservante, impede o crescimento de mofos, leveduras e bactérias.",
+        "origin": "Natural, composto orgânico encontrado na natureza.",
+        "ref": "[540]"
+    },
+    {
+        "nameUs": "Sodium Pyrophosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Tetrasodium Pyrophosphate",
+        "namePt": "Pirofosfato tetrassódico",
+        "mainFunction": "Estabilizante; destinado a tornar possível a manutenção de uma solução uniforme; de duas ou mais substâncias que não se misturam; em um alimento.",
+        "origin": "Artificial, a partir de ácido fosfórico com carbonato de sódio aquecidos a 450ºC",
+        "ref": "[A1] [B] [D] [279]"
+    },
+    {
+        "nameUs": "Sodium pyrosulfite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium metabisulfite",
+        "namePt": "Metabissulfito de sódio",
+        "mainFunction": "Utilizado como conservante e antioxidante na indústria de alimentos.",
+        "origin": "Sintético, produzido a partir da reação entre dióxido de enxofre e hidróxido de sódio.",
+        "ref": "[546] [547]"
+    },
+    {
+        "nameUs": "Sodium saccharin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Soluble Saccharin",
+        "namePt": "Sacarina sódica",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Artificial, a partir do petróleo utilizando ácidos",
+        "ref": "[A1] [D] [255]"
+    },
+    {
+        "nameUs": "Sodium saccharin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium saccharin",
+        "namePt": "Sacarina sódica",
+        "mainFunction": "Utilizado como adoçante em alimentos e bebidas.",
+        "origin": "Sintético, produzida a partir do ácido tuoleno sulfôico.",
+        "ref": "[535] [536]"
+    },
+    {
+        "nameUs": "Sodium selenite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Disodium selenite",
+        "namePt": "Selenito de sódio",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir de processos físicos e reações químicas com o dióxido de selênio, água, aditivos e adsorventes",
+        "ref": "[I] [V] [273]"
+    },
+    {
+        "nameUs": "Sodium selenite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium selenious acid",
+        "namePt": "Selenito de sódio",
+        "mainFunction": "Utilizado na indústria de alimentos para aumentar a quatidade de minerais e multivitam[inicos.",
+        "origin": "Sintético, produzido a partir da reação entre dióxido de selênio e hidróxido de sódio.",
+        "ref": "[522]"
+    },
+    {
+        "nameUs": "Sodium Sesquicarbonate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Magadi Soda",
+        "namePt": "Sesquicarbonato de sódio",
+        "mainFunction": "Regulador de Acidez; destinado a alterar ou controlar a acidez ou alcalinidade dos alimentos.",
+        "origin": "Artificial; a partir do minério de trona; um minério usado na fabricação do vidro; o qual passa por ação do gás carbônico e por processos físicos como sepração e secagem",
+        "ref": "[A1] [B] [D] [329] [330]"
+    },
+    {
+        "nameUs": "Sodium sulfite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium sulfurous acid",
+        "namePt": "Sulfito de sódio",
+        "mainFunction": "Utilizado como conservante, aintioxidante e agente de fermentação em alimentos.",
+        "origin": "Sintético, produzido a partir do hidróxido de sódio, ou carbonato de sódio, com dióxido de enxofre.",
+        "ref": "[500] [501]"
+    },
+    {
+        "nameUs": "Sodium sulfite",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium sulfite",
+        "namePt": "Sulfito de sódio",
+        "mainFunction": "Utilizado como conservante em alimentos solúveis em água deixando o pH básico. ",
+        "origin": "Sintético, produzido pela reação de óxido de enxofre com hidróxido de sódio. ",
+        "ref": "[406] [407]"
+    },
+    {
+        "nameUs": "Sodium Tripolyphosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pentasodium Triphosphate",
+        "namePt": "Tripolifosfato de sódio",
+        "mainFunction": "Estabilizante; destinado a tornar possível a manutenção de uma solução uniforme; de duas ou mais substâncias que não se misturam; em um alimento.",
+        "origin": "Artificial; a partir de uma mistura de fosfato trissódico; o qual provém da reação de carbonato de sódio com ácido fosfórico e soda caústica",
+        "ref": "[A1] [B] [D] [280] [281]"
+    },
+    {
+        "nameUs": "Sorbic Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2,4-Hexadienoic Acid",
+        "namePt": "Ácido sórbico",
+        "mainFunction": "Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Natural, a partir de ameixas de espécies diferentes, como a  Prunus angustifolia e a Prunus domestica, e é encontrado também na fruta dos cinco sabores ( ou “Wu Wei Zi”) Schisandra chinensis",
+        "ref": "[A1] [B] [S] [282] [286]"
+    },
+    {
+        "nameUs": "Sorbic acid, potassium salt",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Potassium sorbate",
+        "namePt": "Sorbato de potássio",
+        "mainFunction": "Utilizado como conservante para inibir o crescimento de bolores e mofos, muito utilizado na produção de maionese, margarina, massas frescas e enlatados.",
+        "origin": "Natural e sintético, encontrado em frutas cítricas como laranja, limão maracujá e abacaxí, ou produzida em laboratório.",
+        "ref": "[410] [411] [412]"
+    },
+    {
+        "nameUs": "Sorbitan",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sorbitan",
+        "namePt": "Sorbitana",
+        "mainFunction": "Utilizado como emulsifiante, aumentando a estabilizade de alimentos que contém água e óleo.",
+        "origin": "Sintético, produzido a partir da desidratação do sorbitol.",
+        "ref": "[498] [499]"
+    },
+    {
+        "nameUs": "Sorbitol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "D-Glucitol",
+        "namePt": "Sorbitol",
+        "mainFunction": "Edulcorante;  destinado a conferir sabor doce ao alimento",
+        "origin": "Artificial, a partir da adição de hidrogênios na glicose, e pode ser encontrado naturalmente em frutas como pêras e ameixas",
+        "ref": "[A1] [B] [199] [200]"
+    },
+    {
+        "nameUs": "Soy lecithin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Soya lecithin",
+        "namePt": "Lecitina de soja",
+        "mainFunction": "Utilizada como emulsificante e estabilizador, mantendo a mistura dos ingredientes, garantindo uniformidade e elasticidade à massa. Também pode ser utilizada para melhorar a textura e como conservante de alimentos assados.",
+        "origin": "Natural, extraída das sementes de soja.",
+        "ref": "[480] [481]"
+    },
+    {
+        "nameUs": "Soybean Lecithin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "PLPC",
+        "namePt": "Lecitina de soja",
+        "mainFunction": "Emulsionante\/Emulsificante, destinado a tornar possível a formação ou manutenção de uma mistura uniforme de duas ou mais fases imiscíveis no alimento.",
+        "origin": "Natural, a partir das semenentes da soja e é obtida através de resíduos da produção do óleo de soja bruto",
+        "ref": "[B] [D] [232] [233]"
+    },
+    {
+        "nameUs": "Starch",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Cassava starch",
+        "namePt": "Fécula\/Povilho doce",
+        "mainFunction": "Agente de Massa; destinado a proporcionar o aumento de volume e\/ou da massa dos alimentos, sem contribuir significamente para o valor energético do alimento.\/ Espessante; destinado a aumentar a viscosidade de um alimento. ",
+        "origin": "Natural, a partir das partes subterrâneas comestíveis da mandioca (raízes) e lavagem da massa ralada passando por secagem solar",
+        "ref": "[A1] [B] [217] [218] [219]"
+    },
+    {
+        "nameUs": "Starch",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Starch",
+        "namePt": "Amido",
+        "mainFunction": "Utilizado na indústria de alimentos para controlar a textura, a aparência, a umidade, a consistência e a estabilidade dos produtos. ",
+        "origin": "Natural, encontrado na natureza em grãos de cereais, raízes e tubérculos.",
+        "ref": "[503]"
+    },
+    {
+        "nameUs": "Stearic Acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Octadecanoic Acid",
+        "namePt": "Ácido esteárico",
+        "mainFunction": "Glaceante; destinado a ser aplicado na superfície externa de um alimento para lhe dar uma aparência brilhante e um revestimento protetor que evite perdas de substâncias devido à exposição do produto; aumentando assim sua vida útil \/ Antiespumante; destinado a previnir ou reduzir a formação de espuma.",
+        "origin": "Natural; a partir de óleos vegetais, como da soja e da semente de algodão, ou a partir de sebos animais ",
+        "ref": "[A1] [B] [D] [295]"
+    },
+    {
+        "nameUs": "Stearic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Stearic acid",
+        "namePt": "Ácido esteárico",
+        "mainFunction": "Utilizado como endurecedor e desmoldante para balas, também pode ser utilizado como emulsificante(ajuda a misturar substâncias), estabilizante(ajuda a manter a estrutura) e espessante(ajuda a aumentar a viscosidade).",
+        "origin": "Natural, encontrado em carnes, peixes, cereais e laticínios.",
+        "ref": "[449] [450]"
+    },
+    {
+        "nameUs": "Stevia sweeteners",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Steviol glycosides",
+        "namePt": "Stevia",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Natural, a partir da planta Stevia rebaudiana por maceração das folhas secas na água e filtragem.",
+        "ref": "[D] [238] [239]"
+    },
+    {
+        "nameUs": "Stevioside",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Stevia extract",
+        "namePt": "Esteviosídeo",
+        "mainFunction": "Adoçante alimentício ",
+        "origin": "Natural, encontrado nas folhas da planta Stevia rebaudiana Bertoni.",
+        "ref": "[467]"
+    },
+    {
+        "nameUs": "Streptomyces viridochromogenes",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "S. viridochromogenes",
+        "namePt": "Streptomyces viridochromogenes",
+        "mainFunction": "Doadora de gene; (bactéria) destinada a proporcionar a modificação genética de alguma semente em laboratório; como sementes do milho; soja e algodão; objetivando o controle de pragas e insetos na lavoura.",
+        "origin": "Natural; a partir do solo ( local onde se prolifera e habita)",
+        "ref": "[A1] [340] [341] [342]"
+    },
+    {
+        "nameUs": "Sucralose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Splenda",
+        "namePt": "Sucralose",
+        "mainFunction": "Edulcorante, destinado a conferir sabor doce ao alimento",
+        "origin": "Artificial, a partir de processos químicos com a sacarose (açúcar comum)",
+        "ref": "[A1] [B] [D] [253]"
+    },
+    {
+        "nameUs": "Sucrose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Granulated Sugar",
+        "namePt": "Açúcar",
+        "mainFunction": "Açúcar nutritivo; destinado a nutrir e trazer o sabor adocicado ao alimento",
+        "origin": "Natural, a partir da cana-de-açúcar ou beterraba",
+        "ref": "[A1] [T] "
+    },
+    {
+        "nameUs": "Table sugar",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sucrose",
+        "namePt": "Sacarose",
+        "mainFunction": "Conhecida como \"açúcar de mesa\", é utilizada para adoçar alimentos.",
+        "origin": "Natural, encontrada principalmente na cana-de-açúcar e na beterraba",
+        "ref": "[555]"
+    },
+    {
+        "nameUs": "Talc",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Magnesium silicate hydrous",
+        "namePt": "Talco",
+        "mainFunction": "Antiumectante; destinado a reduzir as características higroscópicas (absorção de água) dos alimentos e diminuir a tendência de adesão;umas às outras;das partículas individuais.",
+        "origin": "Natural; a partir de rochas conhecidas como carbonatos de talco as quais passam por processos de trituração; lavagem; secagem e moagem.",
+        "ref": "[A1] [B] [D] [307] [308]"
+    },
+    {
+        "nameUs": "Tapioca Flour",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "whole grain barley flour",
+        "namePt": "Farinha de cevada integral",
+        "mainFunction": "Substância, utilizada na produção de pães, biscoitos, bolos e massas,  Possui propriedades emolientes e antiinflamatórias em relação ao aparelho digestivo.",
+        "origin": "Natural, a partir da da moagem dos grãos integrais, que são previamente beneficiados, classificados e selecionados, garantindo a segurança e qualidade do alimento.",
+        "ref": "[A1][362] [P1]"
+    },
+    {
+        "nameUs": "Tara Gum",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Peruvian Carob",
+        "namePt": "Goma Tara ",
+        "mainFunction": "Espessante; destinado a aumentar a viscosidade de um alimento.\/ Estabilizante; destinado a tornar possível a manutenção de uma dispersão uniforme de duas ou mais substâncias imiscíveis em um alimento",
+        "origin": "Natural; a partir da moagem das sementes da planta nativa do Peru; Caesalpinia spinosa; conhecida popularmente como falso-pau-brasil.",
+        "ref": "[B] [D] [318] [319]"
+    },
+    {
+        "nameUs": "Tartaric acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "2,3-Dihydroxybutanedioic acid",
+        "namePt": "Ácido tartárico",
+        "mainFunction": "Utilizado para tornar o alimento mais ácido, mais brilhoso e intensificar o sabor.",
+        "origin": "Natural, presente em plantas e frutas, como uvas e tamarindo.",
+        "ref": "[451] [452]"
+    },
+    {
+        "nameUs": "Taurine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Ethanesulfonic acid",
+        "namePt": "Taurina",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de carnes animais e é sintetizado em laboratório com óxido de etileno e bissulfito de sódio, em seguida há a adição de amônia e ácido sulfúrico e o produto passa por diversos processos físicos até resultar na taurina",
+        "ref": "[A1] [B] [262]"
+    },
+    {
+        "nameUs": "Taurine",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Taurine",
+        "namePt": "Taurina",
+        "mainFunction": "Utilizado na indústria de alimentos devido a sua função de regular os estimulos dos neurônios, ajudando na concentração.",
+        "origin": "Natural e sintético, produzida artificialmente, encontrada no corpo humano e em animais.",
+        "ref": "[559] [560] [561]"
+    },
+    {
+        "nameUs": "TBHQ",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "TBHQ (tert-butyl hydroquinone)",
+        "namePt": "TBHQ (terc-butil hidroquinona)",
+        "mainFunction": "Utilizado para evitar a oxidação de alimentos.",
+        "origin": "Sintético, produzido a partir da hidroquinona.",
+        "ref": "[537]"
+    },
+    {
+        "nameUs": "Thaumatin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Thaumatin B recombinant",
+        "namePt": "Taumatina",
+        "mainFunction": "Edulcorante; destinado a conferir sabor doce ao alimento",
+        "origin": "Natural; a partir do extrato da planta africana Thaumatococcus daniellii",
+        "ref": "[A1] [B] [D] [304]"
+    },
+    {
+        "nameUs": "theobroma oil",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "\ncocoa butter",
+        "namePt": "Manteiga de Cacau",
+        "mainFunction": "Composto, utilizado na preparação do chocolate em pó e em barra.",
+        "origin": "Natural, a partir do fruto que  precisa estar maduro, ser fermentado, seco, torrado e prensado.",
+        "ref": "[A1][P1][372]"
+    },
+    {
+        "nameUs": "thiamine mononitrate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "vitamin B1",
+        "namePt": "Mononitrato de tiamina",
+        "mainFunction": "Medicamento, destinado para a suplementação alimentar ",
+        "origin": "Natural, a partir da formação de uma pirimidina substituída e um componente tiazol",
+        "ref": "[A1] [B] [D]"
+    },
+    {
+        "nameUs": "Titanium Dioxide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Titanium(IV) oxide",
+        "namePt": "Dióxido de Titânio",
+        "mainFunction": "Corante; destinado a conferir, intensificar ou restaurar a cor de um alimento.",
+        "origin": "Artificial, a partir de rochas naturais como o rútilo, ilmenita e anatase com cloreto a altas temperaturas",
+        "ref": "[A1] [B] [285]"
+    },
+    {
+        "nameUs": "Tocophrenol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Tocophrenol",
+        "namePt": "Tocoferol",
+        "mainFunction": "Utilizado para evitar a oxidação de alimentos.",
+        "origin": "Natural, encontrado na vitamina E.",
+        "ref": "[537]"
+    },
+    {
+        "nameUs": "Trehalose",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "α-D-Glucopyranoside",
+        "namePt": "Trehalose",
+        "mainFunction": "Utilizada na produção de adoçantes para reduzir o índice glicêmico. Também possibilita a redução da amargura devido ao seu sabor doce, impede a desnaturação das proteínas e retém umidade no alimento.",
+        "origin": "Natural e sintético, produzido a partir do processo de sacarificação do amido ouu encontrada em organismos como, camarões, fungos, leveduras, borboletas, sementes de girassol, entro outros.",
+        "ref": "[569]"
+    },
+    {
+        "nameUs": "Triacetin",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Triacetin",
+        "namePt": "Triacetina",
+        "mainFunction": "Utilizado para melhorar o odor(aromatizante) de alimentos.",
+        "origin": "Natural, encontrado em árvores de Evônimo Europeu.",
+        "ref": "[562]"
+    },
+    {
+        "nameUs": "Tricalcium phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Bone Phosphate of Lime",
+        "namePt": "Fosfato tricálcio",
+        "mainFunction": "Antiumectante, destinado a reduzir as características higroscópicas (absorção de água) dos alimentos e diminuir a tendência de adesão, umas às outras, das partículas individuais.",
+        "origin": "Natural, a partir de rochas fosfáticas (sedimentares e ígneas) ou a partir de ossos de animais submetidos a altas temperaturas, os quais são moídos, tratados e filtrados com ácidos e soda caústica",
+        "ref": "[A1] [B] [D] [235] [236]"
+    },
+    {
+        "nameUs": "Trisodium phosphate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Sodium phosphate tribasic",
+        "namePt": "Fosfato trissódico",
+        "mainFunction": "Utilizado como emulsificante para evitar a separação do óleo, também pode ser utilizado como agente de fermentação.",
+        "origin": "Sintético, produzido a partir do ácido fosfórico.",
+        "ref": "[438] [439]"
+    },
+    {
+        "nameUs": "Turmeric",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Curcumin",
+        "namePt": "Cúrcuma\/ Açafrão",
+        "mainFunction": "Corante, destinado a conferir, intensificar ou restaurar a cor de um alimento.",
+        "origin": "Natural, a partir do caule (rizoma) da Curcuma longa L. através da moagem a seco ou por extração com solvente.",
+        "ref": "[A1] [B] [D] [237]"
+    },
+    {
+        "nameUs": "Vanilla extract",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vanilla essence",
+        "namePt": "Extrato de baunilha",
+        "mainFunction": "Utilizado como aromatizante em alimentos.",
+        "origin": "Natural, obtido a partir de favas de baunilha.",
+        "ref": "[468] [469]"
+    },
+    {
+        "nameUs": "Vanillic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "4-Hydroxy-3-methoxybenzoic acid",
+        "namePt": "Acido vanílico",
+        "mainFunction": "Possui propriedades farmacológicas, antioxidante e anticancerígeno.",
+        "origin": "Natural, encontrado em grande quantidade na raiz de uma erva originária da China, mas também está presente no vinho, vinagre e óleo de argan.",
+        "ref": "[462]"
+    },
+    {
+        "nameUs": "Vanillic acid",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vanillic acid",
+        "namePt": "Ácido vanílico",
+        "mainFunction": "Antioxidante, antiinflamatório e anticancerígeno.",
+        "origin": "Natural, encontrado na raiz da Angelica sinensis, uma erva originária da China, mas também pode ser encontrado no vinagre, no vinho e no óleo de argan. ",
+        "ref": "[396]"
+    },
+    {
+        "nameUs": "Vinegar",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Acetic Acid",
+        "namePt": "Fermentado acético",
+        "mainFunction": "Regulador de Acidez; destinado a alterar ou controlar a acidez ou alcalinidade dos alimentos \/ Conservante, destinado a inibir o crescimento de microrganismos durante a fabricação e estocagem do produto ou protegê-los da contaminação inadvertida durante o uso",
+        "origin": "Natural, a partir da fermentação de frutas, cereais, produtos açucarados, vegetais, mel, mistura de vegetais ou de misturas com água e álcool, que convertem seus áçucares em álcool (etanol) para em seguida este ser transformado em ácido acético (mais conhecido como vinagre ou como o próprio fermentado acético)",
+        "ref": "[A1] [D] [288] [289]"
+    },
+    {
+        "nameUs": "Vitamin A",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "All-trans-Retinol",
+        "namePt": "Vitamina A (Retinol e Provitamina A)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de óleos de figado de animais, como peixes, ovos, manteigas, vegetais folhosos verdes( espinafre e couve), frutas e vegetais amarelos e laranjas (manga, caju, goiaba, mamão e caqui, abóbora e cenoura), óleos vegetais (dendê), etc.",
+        "ref": "[A1] [I] [V] [245]"
+    },
+    {
+        "nameUs": "Vitamin B1",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Thiamine Hydrochloride",
+        "namePt": "Vitamina B1 (tiamina)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de leveduras, bactérias e plantas",
+        "ref": "[A1] [I] [V] [256]"
+    },
+    {
+        "nameUs": "vitamin B5",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pantothenic acid",
+        "namePt": "Ácido Pantoténico",
+        "mainFunction": "Composto, utilizada com a funções de produzir colesterol, hormônios e hemácias. ",
+        "origin": "Natural, a partir de alimentos de origem animal e vegetal.",
+        "ref": "[A1] [D] [355] [V] [4]"
+    },
+    {
+        "nameUs": "Vitamin B5",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Vitamin B5 (pantothenic acid)",
+        "namePt": "Vitamina B5 (ácido pantotênico)",
+        "mainFunction": "No corpo humano, participa da produção de energia, de alguns hormônios e colesterol, da cicatrização de feridas e cirurgias. Também é importante para o bom funcionamento do metabolismo, diminui o cansaço e a fadiga e melhora os sintomas de artrite reumatoide, como dor e rigidez matinal. ",
+        "origin": "Natural, encontrada em alimentos como figado, carne bovina, frango, cereais integrais e batata.",
+        "ref": "[530]"
+    },
+    {
+        "nameUs": "vitamin B6",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pyridoxine hydrochloride",
+        "namePt": "Cloridrato de Piridoxina",
+        "mainFunction": "Medicamento, utilizado para tratamento da diminuição dos niveis de vitamina no organismo.   ",
+        "origin": "Natural, a partir de protrinas contidas em carnes vermelhas, frutas, legumes e etc.",
+        "ref": "[A1] [349] [B]"
+    },
+    {
+        "nameUs": "Vitamin C",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "L-Ascorbic Acid",
+        "namePt": "Vitamina C",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.\/ \nAntioxidante, destinado a evitar que os demais ingredientes degradem por oxidação ",
+        "origin": "Natural, a partir de frutas cítricas, folhas verdes, jaboticaba, brócolis, pimentão, etc.",
+        "ref": "[A1] [B] [D] [I] [V] [242]"
+    },
+    {
+        "nameUs": "Vitamin E",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "All-rac-α-Tocopherol",
+        "namePt": "Vitamina E (tocoferol)",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.\/ Antioxidante, destinado a evitar que os demais ingredientes degradem por oxidação",
+        "origin": "Natural, a partir de vegetais verde-escuros, sementes oleaginosas, óleos vegetais, germe de trigo, gema de ovo e fígado",
+        "ref": "[A1] [I] [V] [260]"
+    },
+    {
+        "nameUs": "Waxy corn starch",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Amylo maize",
+        "namePt": "Amido de milho ceroso",
+        "mainFunction": "Utilizada como matéria-prima para composição de pratos congelados e outros produtos. ",
+        "origin": "Natural, extraído do milho.",
+        "ref": "[506] [507]"
+    },
+    {
+        "nameUs": "Wheat fiber",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Wheat bran",
+        "namePt": "Fibra de trigo",
+        "mainFunction": "Alimento rico em nutrientes que ajuda na queda dos níveis de açúcar e colesterol no sangue, regula a fome e a vontade de comer doces, além de acelerar do metabolismo, ajudando a perder peso. ",
+        "origin": "Natural, extraída do grão de trigo.",
+        "ref": "[473]"
+    },
+    {
+        "nameUs": "Xanthan Gum",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Corn Sugar Gum",
+        "namePt": "Goma xantana",
+        "mainFunction": "Estabilizante; destinado a tornar possível a manutenção de uma solução uniforme; de duas ou mais substâncias que não se misturam; em um alimento.\/Espessante, destinado a aumentar a viscosidade de um alimento.",
+        "origin": "Artificial, a partir da fermentação química de um carboidrato (frutas e legumes por exemplo) com a bactéria Xanthomonas campestris",
+        "ref": "[A1] [B] [D] [283]"
+    },
+    {
+        "nameUs": "xanthan gum",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "\nXanthan Gum Stabilizer",
+        "namePt": "Estabilizante Goma Xantana",
+        "mainFunction": "Espessante, utilizado como um aditivo alimentar utilizado na fabricação de diversos produtos.",
+        "origin": "Artificial, a partir do processo de fermentação da bactéria Xanthomonas Campestris. Esse microrganismo é alimentado com açúcar e, ao passar pela etapa fermentativa, a glicose processada pela bactéria é transformada em um líquido gelatinoso, muito similar a uma goma.",
+        "ref": "[A1][365][P1]"
+    },
+    {
+        "nameUs": "Xylitol",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Pentahydroxypentane",
+        "namePt": "Xilitol",
+        "mainFunction": "Umectante; destinado a proteger os alimentos da perda de umidade em ambiente de baixa umidade relativa ou destinado a facilitar a dissolução de uma substância seca em meio aquoso.\/ Açúcar nutritivo; destinado a nutrir e trazer o sabor adocicado ao alimento.",
+        "origin": "Natural; a partir de plantas; frutas e vegetais; como por exemplo; na planta nativa asiática Rubus parvifolius e nas árvores bétula e faia.",
+        "ref": "[A1] [B] [D] [T] [313] [314] [315]"
+    },
+    {
+        "nameUs": "Yeast autolysate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Yeast extract",
+        "namePt": "Extrato de levedura",
+        "mainFunction": "Utilizado para reduzir o açúcar sem comprometer a sensação doce.",
+        "origin": "Natural, derivado da levedura fresca.",
+        "ref": "[415] [416]"
+    },
+    {
+        "nameUs": "Zinc Oxide",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Oxozinc",
+        "namePt": "Óxido de zinco",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir do mineral zincita e pode ser sintetizado artificialmente através de processos com o zinco metálico",
+        "ref": "[A1] [I] [V] [272]"
+    },
+    {
+        "nameUs": "Zinc sulfate",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Zinc sulphate",
+        "namePt": "Sulfato de zinco",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Artificial, a partir da lixiviação,com ácido sulfúrico, de materiais que contém zinco, como os minerais calamina e esfalerita",
+        "ref": "[B] [I] [V] [W] [229] [230]"
+    },
+    {
+        "nameUs": "Zn",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "Zinc",
+        "namePt": "Zinco"
+    },
+    {
+        "nameUs": "β-Glucan",
+        "category": 1,
+        "DataDeAdicao": "2024-05-23T08:02:47.547Z",
+        "nameLatin": "β-G",
+        "namePt": "Beta glucana",
+        "mainFunction": "Nutriente, destinado a fornecer energia e nutrição necessária para o crescimento, desenvolvimento e manutenção da saúde do consumidor.",
+        "origin": "Natural, a partir de leveduras (como a Saccharomyces cerevisiae), cereais (como o trigo, aveia e cevada), algas, bactérias e cogumelos cosmestíveis ( como o Ganoderma applanatum)",
+        "ref": "[A1] [I] [V] [257]"
+    }
+]

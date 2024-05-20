@@ -10,11 +10,13 @@ app.use(express.json({ limit: '10mb' }));
 app.use(cors());
 
 app.get("/create", UserController.create );
+app.post("/create-account", UserController.createDependent);
+
 
 app.get("/", LoginController.showTables);
 app.get("/seachUser", LoginController.getNameAdm);
 app.post("/login", LoginController.login);
-
+app.get("/reset-adm/meurotulo", LoginController.reset)
 
 app.get("/show", SubstancesController.show);
 app.delete("/delete/item/:id", SubstancesController.delete);
@@ -34,9 +36,3 @@ app.listen(process.env.BACKEND_PORT, () => {
   console.log(`Server listening on port: http://localhost:${process.env.BACKEND_PORT}`);
 });
 
-/*
-app.listen(3002, () => {
-  console.log(`Server listening on port: ${3002}`);
-});
-
-*/

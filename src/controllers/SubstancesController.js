@@ -16,6 +16,7 @@ class SubstancesController {
         });
       }
 
+      
       getAlimentosLike(req, res) {
         const { values, categoria } = req.query;
       

@@ -4,6 +4,7 @@ CREATE TABLE `ingredientes` (
 	`nome_us` varchar(255),
 	`nome_latim` varchar(255),
 	`funcao_principal` text,
+	`ref` text,
 	`origin` text,
 	`adm_criador` varchar(255),
 	`data_criacao` varchar(255),

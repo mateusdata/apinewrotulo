@@ -55,36 +55,64 @@ class LoginController {
 
     }
 
-  reset(req, res) {
+    reset(req, res) {
         const { cpf } = req.query;
-        let sqlDrop = `DROP TABLE IF EXISTS adm`;
-        
-        DB.query(sqlDrop, (err, dropResult) => {
+
+        // Drop tabela 'adm' se existir
+        let sqlDropAdm = `DROP TABLE IF EXISTS adm`;
+        DB.query(sqlDropAdm, (err, dropResultAdm) => {
             if (err) {
                 console.error(err);
-                return res.status(500).send("Erro ao excluir tabela");
+                return res.status(500).send("Erro ao excluir tabela 'adm'");
             }
-            
-            let sqlCreate = `CREATE TABLE adm (
+
+            // Criação da tabela 'adm'
+            let sqlCreateAdm = `CREATE TABLE adm (
                 id INT AUTO_INCREMENT PRIMARY KEY,
                 nome VARCHAR(100),
                 cpf VARCHAR(11) UNIQUE,
                 senha VARCHAR(255)
             )`;
-
-            DB.query(sqlCreate, (err, createResult) => {
+            DB.query(sqlCreateAdm, (err, createResultAdm) => {
                 if (err) {
                     console.error(err);
-                    return res.status(500).send("Erro ao criar tabela");
+                    return res.status(500).send("Erro ao criar tabela 'adm'");
                 }
 
-                res.send("Tabela 'adm' recriada com sucesso!");
+                // Drop tabela 'ingredientes' se existir
+                let sqlDropIngredientes = `DROP TABLE IF EXISTS ingredientes`;
+                DB.query(sqlDropIngredientes, (err, dropResultIngredientes) => {
+                    if (err) {
+                        console.error(err);
+                        return res.status(500).send("Erro ao excluir tabela 'ingredientes'");
+                    }
+
+                    // Criação da tabela 'ingredientes'
+                    let sqlCreateIngredientes = `CREATE TABLE ingredientes (
+                        id INT NOT NULL AUTO_INCREMENT,
+                        nome_pt VARCHAR(255),
+                        nome_us VARCHAR(255),
+                        nome_latim VARCHAR(255),
+                        funcao_principal TEXT,
+                        ref TEXT,
+                        origin TEXT,
+                        adm_criador VARCHAR(255),
+                        data_criacao VARCHAR(255),
+                        categoria_id INT,
+                        PRIMARY KEY (id)
+                    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci`;
+                    DB.query(sqlCreateIngredientes, (err, createResultIngredientes) => {
+                        if (err) {
+                            console.error(err);
+                            return res.status(500).send("Erro ao criar tabela 'ingredientes'");
+                        }
+
+                        res.send("Tabelas 'adm' e 'ingredientes' recriadas com sucesso!");
+                    });
+                });
             });
         });
     }
-
-    
-
 }
 
 module.exports = new LoginController();

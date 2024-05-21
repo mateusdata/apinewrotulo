@@ -112,7 +112,8 @@ class SubstancesController {
     
 
     create(req, res) {
-        let { namePt, nameUs, nameLatin, mainFunction, origin, category, DataDeAdicao, nomeUser } = req.body;
+        let { namePt, nameUs, nameLatin, mainFunction, origin, category, DataDeAdicao, nomeUser, ref } = req.body;
+        console.log(ref);
 
         let sqlSelect = "SELECT * FROM ingredientes WHERE nome_pt = ?";
         DB.query(sqlSelect, [namePt], (err, result) => {
@@ -125,7 +126,7 @@ class SubstancesController {
             } else {
                 // Caso contrário, insira o novo item no banco de dados
                 let sqlInsert =
-                    "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, adm_criador, data_criacao, categoria_id) VALUES(?,?,?,?,?,?,?,?)";
+                    "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, adm_criador, ref, data_criacao, categoria_id) VALUES(?,?,?,?,?,?,?,?,?)";
                 DB.query(sqlInsert, [
                     namePt,
                     nameUs,
@@ -133,6 +134,7 @@ class SubstancesController {
                     mainFunction,
                     origin,
                     nomeUser,
+                    ref,
                     DataDeAdicao,
                     category,
                 ], (err, result) => {
@@ -154,6 +156,7 @@ class SubstancesController {
             substance.mainFunction,
             substance.origin,
             substance.category,
+            substance.ref,
             new Date().toISOString().slice(0, 19).replace('T', ' '), // Data de criação
             substance.nomeUser // Adm criador
         ]);
@@ -196,6 +199,7 @@ class SubstancesController {
                 substance.nameLatin,
                 substance.mainFunction,
                 substance.origin,
+                substance.ref,
                 substance.category,
                 new Date().toISOString().slice(0, 19).replace('T', ' '), // Data de criação
                 substance.nomeUser // Adm criador
@@ -203,7 +207,7 @@ class SubstancesController {
     
             // Monta a query de inserção múltipla apenas para as substâncias únicas
             let sqlInsert =
-                "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, categoria_id, data_criacao, adm_criador) VALUES ?";
+                "INSERT INTO ingredientes (nome_pt, nome_us, nome_latim, funcao_principal, origin, ref, categoria_id, data_criacao, adm_criador) VALUES ?";
     
             DB.query(sqlInsert, [uniqueValues], (err, result) => {
                 if (err) {
@@ -221,11 +225,11 @@ class SubstancesController {
 
     
     update(req, res) {
-        let { namePt, nameUs, nameLatin, mainFunction, origin, category, DataDeAdicao } = req.body;
+        let { namePt, nameUs, nameLatin, mainFunction, origin, category, DataDeAdicao, ref} = req.body;
         let id = req.params.id;
     
-        let sqlUpdate = "UPDATE ingredientes SET nome_pt = ?, nome_us = ?, nome_latim = ?, funcao_principal = ?, origin = ?, data_criacao = ?, categoria_id = ? WHERE id = ?";
-        DB.query(sqlUpdate, [namePt, nameUs, nameLatin, mainFunction, origin, DataDeAdicao, category, id], (err, result) => {
+        let sqlUpdate = "UPDATE ingredientes SET nome_pt = ?, nome_us = ?, nome_latim = ?, funcao_principal = ?, origin = ?, data_criacao = ?, ref = ?, categoria_id = ? WHERE id = ?";
+        DB.query(sqlUpdate, [namePt, nameUs, nameLatin, mainFunction, origin, DataDeAdicao, ref, category, id], (err, result) => {
             if (err) {
                 console.error(err);
                 res.status(500).send({ error: "Ocorreu um erro ao atualizar o item." });

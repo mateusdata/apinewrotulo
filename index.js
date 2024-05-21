@@ -9,7 +9,7 @@ const app = express();
 app.use(express.json({ limit: '10mb' }));
 app.use(cors());
 
-app.get("/create", UserController.create );
+app.get("/meurotulo/create/adm", UserController.create );
 app.post("/create-account", UserController.createDependent);
 
 

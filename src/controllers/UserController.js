@@ -8,7 +8,7 @@ class UserController {
         const users = [
             { nome: "Mateus", cpf: "11111111111", senha: "123456" },
             { nome: "Rabelo", cpf: "33333333333", senha: "102030" },
-            { nome: "Emanuel", cpf: "44444444444", senha: "102030" }
+            { nome: "Emanuel", cpf: "44444444444", senha: "102040" }
         ];
 
         try {

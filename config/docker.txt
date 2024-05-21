@@ -1,0 +1,5 @@
+docker build -t mateusofdata/apirotulo .
+docker push mateusofdata/apirotulo
+
+docker build -t mateusofdata/frontendrotulo .
+docker push mateusofdata/frontendrotulo
